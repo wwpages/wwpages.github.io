@@ -1,0 +1,180 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Wed, 20 Jun 2018 16:47:55 -0400
+X-ASG-Debug-ID: 1529527674-0eddee178512600001-bTbPWy
+Received: from mail-ot0-f170.google.com (mail-ot0-f170.google.com
+ [74.125.82.170]) by BCSpam300.westwindsortwp.local with ESMTP id
+ TVlT3ArnETZp2khO for <ghuber@westwindsortwp.com>; Wed, 20 Jun 2018 16:47:54
+ -0400 (EDT)
+X-Barracuda-Envelope-From: ahamilton2537@gmail.com
+X-Barracuda-Effective-Source-IP: mail-ot0-f170.google.com[74.125.82.170]
+X-Barracuda-Apparent-Source-IP: 74.125.82.170
+Received: by mail-ot0-f170.google.com with SMTP id h6-v6so1073896otj.0
+        for <ghuber@westwindsortwp.com>; Wed, 20 Jun 2018 13:47:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=ulUZIybHpKEZ1J8THKxsBFXiRFdUM9HPpJl7c5Y4IRw=;
+        b=T3RQkcYekQuxn/Xf4SHyAuvG+QmygRA+fPpRyhKtgOQ3ZZo2YxZMvHi7BfdKsnfE7o
+         ICeXM0YIThBavuWAJObeaORKM7iAl+ag++cCn07g45tt4RfVlvPyQGKlkhdv83x6VvwH
+         aYoMnUGgCrGl95iVVvk6Iv2JxEZWI3M6sZuly7CVc6nlhEZ0B9lzOKkPzSbw8ldaiBk3
+         6Yk7s85yxfZpxMcENA+AbEjOrIn+cBfl0rT33XjjQyKcANGuheAFO8CmTQQ+WuzySpzJ
+         WZIxCGNI7opFhiNmkNdLqmhJCsvX6641/nOjLW+mFG6qmRdsmxn2fFew2NNbm5zoizTe
+         Vp/A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=ulUZIybHpKEZ1J8THKxsBFXiRFdUM9HPpJl7c5Y4IRw=;
+        b=A5/Vj97iehfmo+baWnVSnYaAOXSYllJ9DkUy2tU3io41C8Lw9NtGmhY42zEdUDgR8G
+         18GcR63teOLNaAQRSKv7hYszbFOVB1DJYtcbJz16cnhaOj3Nad0vR0lJc2kTLtfOVDsH
+         /XvLD8EcS+oXMHo+u9TJJhWXEz0RUTTGu7ZZ3L5NisrTe3CPCnsz0Jwca4ryBGiDcQk4
+         dK2Du/HmGyUUwNXVT11Fm9uSXg8+hCJgpzPnxZyt2Dr4/XdGOOS4rgCf8GPyevzX5ljb
+         VHRJsmriP7mSkR9McRM5n5j1AQeGQxj+8R5oW293DekKC3CdqEWgH9oiJfSl8IoMSrBY
+         uQ2A==
+X-Gm-Message-State: APt69E3ah2O5P9pV6C72FCtgrErBb650rFogCzdaA0Cwt2cG0KNttt5E
+	DIbTvxbbW3mGxGmgYx1+uPbu5cBf69aWxOO0Im4=
+X-Google-Smtp-Source: ADUXVKJlq2N79ML/tk3pTx3+q/TbvWCbVh8f1gor/24M8GyNLSLjOOSd5L5wI3hwD0pJIuOTF4fVF2FMjjDuYfKk7GI=
+X-Received: by 2002:a9d:3663:: with SMTP id w90-v6mr13063441otb.96.1529527674417;
+ Wed, 20 Jun 2018 13:47:54 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:ac9:1607:0:0:0:0:0 with HTTP; Wed, 20 Jun 2018 13:47:53
+ -0700 (PDT)
+From: Ayesha Hamilton <ahamilton2537@gmail.com>
+Date: Wed, 20 Jun 2018 16:47:53 -0400
+Message-ID: <CAHLFm8m-ZTihVwLp6-qqL5NNTtuOJf7U95LKGRUXmVa66+7Bow@mail.gmail.com>
+Subject: Questions for WWPD and Dr. Aderhold
+To: Gay Huber <ghuber@westwindsortwp.com>, Ayesha Hamilton
+	<ahamilton2537@gmail.com>, Robert Garofalo <garfo@westwindsorpolice.com>,
+	Mark Lee <lee@westwindsorpolice.com>, <david.aderhold@ww-p.org>
+X-ASG-Orig-Subj: Questions for WWPD and Dr. Aderhold
+Content-Type: multipart/alternative;
+	boundary="_ce4bd02d-eb6b-4a61-8919-3448eea1bca6_"
+X-Barracuda-Connect: mail-ot0-f170.google.com[74.125.82.170]
+X-Barracuda-Start-Time: 1529527674
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 1713
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=DKIM_SIGNED, DKIM_VERIFIED, HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.52132
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-0.00 DKIM_VERIFIED          Domain Keys Identified Mail: signature passes
+	                           verification
+	0.00 DKIM_SIGNED            Domain Keys Identified Mail: message has a signature
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Return-Path: ahamilton2537@gmail.com
+X-MS-Exchange-Organization-OriginalArrivalTime: 20 Jun 2018 20:47:55.5476
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 5839
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Organization-Disclaimer-Hash:
+ 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_ce4bd02d-eb6b-4a61-8919-3448eea1bca6_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+I preface these questions with the following statement:
+
+I am extremely supportive of our police department and am not opposed to ha=
+ving armed police officers in the schools.  My concern stems from two areas=
+-what will these officers be asked to do in the schools and how will these =
+officers be trained for their new role of interacting with children on a da=
+ily basis.
+
+1.
+
+2.Please provide me with a detailed description of the type of training tha=
+t the WWPD and/or the school district will be providing to any Class III of=
+ficer or employee hired by the WWPD.
+
+2.
+
+
+
+--
+Ayesha Hamilton, Esq.
+Councilwoman, West Windsor
+Attorney, Hamilton Law Firm, P.C.
+Cell. (215) 738-0222.
+
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_ce4bd02d-eb6b-4a61-8919-3448eea1bca6_
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+<div dir=3D"ltr">
+<div>I preface these questions with the following statement:</div>
+<div><br>
+</div>
+<div>I am extremely supportive of our police department and am not opposed =
+to having armed police officers in the schools.&nbsp; My concern stems from=
+ two areas-what will these officers be asked to do in the schools and how w=
+ill these officers be trained for their
+ new role of interacting with children on a daily basis.</div>
+<div><br>
+</div>
+1.&nbsp;&nbsp;
+<div><br>
+</div>
+<div>2.Please provide me with a detailed description of the type of trainin=
+g that the WWPD and/or the school district will be providing to any Class I=
+II officer or employee hired by the WWPD.
+<div><br>
+</div>
+<div>2.&nbsp;&nbsp;<br>
+<div><br>
+</div>
+<div><br clear=3D"all">
+<div><br>
+</div>
+-- <br>
+<div class=3D"gmail_signature">
+<div dir=3D"ltr">Ayesha Hamilton, Esq.
+<div>Councilwoman, West Windsor</div>
+<div>Attorney, Hamilton Law Firm, P.C.</div>
+<div>Cell. (215) 738-0222.</div>
+<div><br>
+</div>
+<div><br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_ce4bd02d-eb6b-4a61-8919-3448eea1bca6_--
+

@@ -1,0 +1,473 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Mon, 9 Jul 2018 17:29:53 -0400
+X-ASG-Debug-ID: 1531171792-0eddee17653a3e0001-OBQS1U
+Received: from esa2.hc2742-60.iphmx.com (esa2.hc2742-60.iphmx.com
+ [216.71.147.66]) by BCSpam300.westwindsortwp.local with ESMTP id
+ Eif8UVLBwOe2QLK5 for <mschmid@westwindsortwp.com>; Mon, 09 Jul 2018 17:29:52
+ -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: esa2.hc2742-60.iphmx.com[216.71.147.66]
+X-Barracuda-Apparent-Source-IP: 216.71.147.66
+Received: from ww-p.org (HELO WWP-WEbmail.westwindsor.k12.nj.us)
+ ([204.10.63.5])  by esa2.hc2742-60.iphmx.com with
+ ESMTP/TLS/DHE-RSA-AES256-SHA; 09 Jul 2018 17:29:51 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Mon, 9 Jul 2018
+ 17:29:51 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: Marlena Schmid <mschmid@westwindsortwp.com>
+Subject: FW: some policy questions
+Thread-Topic: some policy questions
+X-ASG-Orig-Subj: FW: some policy questions
+Thread-Index: AQHUFiwZypY2bxe0LEqh8fB6DEjnMKSEMHUhgAM7BOA=
+Date: Mon, 9 Jul 2018 21:29:49 +0000
+Message-ID: <98E441CFB9DE4F42AA864F9ED21028B5016F8425FE@wwp-exchange3.westwindsor.k12.nj.us>
+References: <CA+mcCMsTxB-D2Xn_YekquBnuUvfYK=c99wADVoQfBO8j6pqvNg@mail.gmail.com>
+ <9D4FC89B84722343BD81158A59E0DADF014BD1E5B9@wwp-exchange3.westwindsor.k12.nj.us>
+In-Reply-To: <9D4FC89B84722343BD81158A59E0DADF014BD1E5B9@wwp-exchange3.westwindsor.k12.nj.us>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.101.9.38]
+Content-Type: multipart/alternative;
+	boundary="_44e0cc3b-65d1-4813-8c9b-60c582344fd8_"
+MIME-Version: 1.0
+X-Barracuda-Connect: esa2.hc2742-60.iphmx.com[216.71.147.66]
+X-Barracuda-Start-Time: 1531171792
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 19300
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.53301
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 09 Jul 2018 21:29:53.7544
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 22932
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Organization-Disclaimer-Hash:
+ 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_44e0cc3b-65d1-4813-8c9b-60c582344fd8_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+________________________________
+From: Kani Ilangovan [kaniilangovanmd@gmail.com]
+Sent: Saturday, July 07, 2018 3:52 PM
+To: Fleres, Anthony
+Subject: some policy questions
+Dear Mr. Fleres,
+
+How are you? I hope all is well with you and your family.
+
+I am still confused as to why it is necessary to change the current system =
+of the police officers being stationed outside the schools in their cars? W=
+hy is it necessary for the officers to be inside the schools given the lega=
+l and financial risks of them interacting with and transporting students? T=
+he liability to our township is too great a risk, given that we can still p=
+rotect the kids with the officers stationed outside of the school.
+
+As a child psychiatrist, I am very concerned about the psychological impact=
+ of our kids being exposed to a gun on daily basis. Our kids are growing up=
+ in a different time and seeing reports of brutality and bias in the news e=
+veryday. Some kids may feel frightened by the presence of an armed police o=
+fficer in the school. Especially when the news has a multiplicity of report=
+s like this:
+https://www.edweek.org/ew/articles/2017/01/25/black-students-more-likely-to=
+-be-arrested.html https://mic.com/articles/188694/school-resource-officers-=
+have-abused-black-kids-for-years-some-parkland-teens-want-more-of-them#.vOo=
+OFw2t5 https://mic.com/articles/188135/parkland-school-safety-and-the-devas=
+tating-effects-law-enforcement-can-have-on-black-and-brown-kids#.vOoOFw2t5 =
+https://www.huffingtonpost.com/entry/school-to-prison-pipeline_us_5a8ee0afe=
+4b077f5bfec2cf3 I am worried about how this fear may negatively impact thei=
+r performance, their mental wellbeing and mental health. It is an unfortuna=
+te fact that students are exposed to the news coverage above, even though t=
+he vast majority of officers, particularly in our town, are well-trained an=
+d protect their communities and show respect to all people, regardless of r=
+ace, sex, and gender.
+The psychological health and wellbeing of our kids is as important as their=
+ physical health. We are capable of protecting them with officers stationed=
+ outside of the school. Why expose them to unnecessary stress if we can pre=
+vent doing so?
+
+
+Thank you for your care and concern for our community.
+Take care, Kani
+
+
+p.s.
+Please read West Windsor Councilwoman Ayesha Hamilton's perspective on the =
+contract allowing armed police in WW-P schools. Ayesha is an experienced la=
+wyer and has some great insights to share.<https://nextdoor.com/news_feed/?=
+post=3D86490436>
+
+<https://nextdoor.com/news_feed/?post=3D86490436>
+
+Is this Shared Services Contract for SROs in the WW-P schools a good and re=
+asonable expenditure for West Windsor and Plainsboro? What is the scope of =
+our actual liability? Do the contract provisions themselves actually protec=
+t the town from liability? What happens if a police officer does something =
+improper at the schools or is even just accused of doing something improper=
+ at the schools? The parent sues the schools and the Township because he is=
+ our employee. The schools pay the parents. The Township pays the parents. =
+Then the Township pays the schools for their defense and anything they paid=
+ the parent. It is also possible and quite likely that the Joint Insurance =
+Fund will disclaim coverage and that the taxpayers will pay. Negligent acts=
+ will be covered by insurance. It is the acts outside the scope of the offi=
+cer's official duties that will not be covered and which are more likely to=
+ be the actions for which a parent will sue the school and the township. Yo=
+u, as the tax payer, will have paid twice if a liability claim is raised, o=
+nce through the schools and once through the township indemnification claus=
+e. While they are two entities, the pocket is the same- yours. A portion of=
+ this may be covered by the Joint Insurance Fund but it is also likely that=
+ JIF could disclaim coverage because of what the officer did, i.e. if he as=
+saults (or is claimed to have assaulted) a child it would be considered an =
+intentional act and therefore, outside the scope of the Insurance coverage.=
+ Most insurance policies have exclusions for certain actions, usually discl=
+aiming coverage for intentional acts. Why should the West Windsor and Plain=
+sboro townships indemnify the actions of the officer? We, as a Township, di=
+d not ask for these additional officers in the schools, so why should we be=
+ asked to indemnify their actions? This liability should lie squarely with =
+the School District since it is their plan initiated and designed by them. =
+Take a closer look at the contract and see the clauses permitting these off=
+icers to transport our children because they will not be using police cars =
+and will be driving private vehicle. Their vehicles will not be covered by =
+the Joint Insurance Fund and we may not know what the coverage limits are s=
+ince they will be privately insured. Further, if the SLEO III's job is to r=
+emain at the schools, why does the shared services agreement allow them to =
+transport children? This contract does not protect the interests of our tow=
+nship and could potentially be the source of highly expensive lawsuits that=
+ are not covered by insurance. Does this make sense? What is wrong with the=
+ current system of the police officers being stationed outside the schools =
+in their cars? Why is it necessary for them to be inside the schools given =
+the legal and financial risks of them interacting with and transporting stu=
+dents?
+
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_44e0cc3b-65d1-4813-8c9b-60c582344fd8_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<style>
+<!--
+@font-face
+	{font-family:SimSun}
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:Tahoma}
+@font-face
+	{font-family:"\@SimSun"}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif"}
+h5
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline}
+p
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif"}
+span.Heading5Char
+	{font-family:"Cambria","serif";
+	color:#243F60}
+p.gmail-m3740019160436376676gmail-m-4347509110972723742gmail-content-body, =
+li.gmail-m3740019160436376676gmail-m-4347509110972723742gmail-content-body,=
+ div.gmail-m3740019160436376676gmail-m-4347509110972723742gmail-content-bod=
+y
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif"}
+span.gmail-m3740019160436376676gmail-m-4347509110972723742gmail-truncate-li=
+ne-truncation-wrapper
+	{}
+span.gmail-m3740019160436376676gmail-m-4347509110972723742gmail-truncate-li=
+ne-truncation-content
+	{}
+span.gmail-m3740019160436376676gmail-m-4347509110972723742gmail-linkify
+	{}
+span.EmailStyle23
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+.MsoChpDefault
+	{font-size:10.0pt}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.WordSection1
+	{}
+-->
+</style>
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1F497D">&nbsp;</span></p>
+<div>
+<div>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ style=3D"color:black">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</span></div>
+<div id=3D"divRpF369900">
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><b><span style=3D"fon=
+t-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;; color=
+:black">From:</span></b><span style=3D"font-size:10.0pt; font-family:&quot;=
+Tahoma&quot;,&quot;sans-serif&quot;; color:black"> Kani Ilangovan [kaniilan=
+govanmd@gmail.com]<br>
+<b>Sent:</b> Saturday, July 07, 2018 3:52 PM<br>
+<b>To:</b> Fleres, Anthony<br>
+<b>Subject:</b> some policy questions</span><span style=3D"color:black"></s=
+pan></p>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;; color:black">Dear Mr. Fleres,</span><span=
+ style=3D"color:black">
+</span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;; color:black">How are you? I hope all is w=
+ell with you and your family.</span><span style=3D"color:black"></span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; color:black">&nbsp;<=
+/span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;; color:black">I am still confused as to wh=
+y it is necessary to change&nbsp;the current system of the police officers =
+being stationed outside the schools in their cars? Why is it
+ necessary for the officers to be inside the schools given the legal and fi=
+nancial risks of them interacting with and transporting students? The liabi=
+lity to our township is too great a risk, given that we can still protect t=
+he kids with the officers stationed
+ outside of the school.</span><span style=3D"font-size:9.0pt; color:black">=
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; color:black">&nbsp;<=
+/span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;; color:black">As a child psychiatrist, I a=
+m very concerned about the psychological impact of our kids being exposed t=
+o a gun on daily basis. Our kids are growing up in a different
+ time and seeing reports of brutality and bias in the news everyday. Some k=
+ids may feel frightened by the presence of an armed police officer in the s=
+chool. Especially when the news has a multiplicity of reports like this:</s=
+pan><span style=3D"font-size:9.0pt; color:black"></span></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;; color:black"><a href=3D"https://www.edwee=
+k.org/ew/articles/2017/01/25/black-students-more-likely-to-be-arrested.html=
+" target=3D"_blank"><span style=3D"text-decoration:none">https://www.edweek=
+.org/ew/articles/2017/01/25/black-students-more-likely-to-be-arrested.html<=
+/span></a>
+<a href=3D"https://mic.com/articles/188694/school-resource-officers-have-ab=
+used-black-kids-for-years-some-parkland-teens-want-more-of-them#.vOoOFw2t5"=
+ target=3D"_blank">
+<span style=3D"text-decoration:none">https://mic.com/articles/188694/school=
+-resource-officers-have-abused-black-kids-for-years-some-parkland-teens-wan=
+t-more-of-them#.vOoOFw2t5</span></a>
+<a href=3D"https://mic.com/articles/188135/parkland-school-safety-and-the-d=
+evastating-effects-law-enforcement-can-have-on-black-and-brown-kids#.vOoOFw=
+2t5" target=3D"_blank">
+<span style=3D"text-decoration:none">https://mic.com/articles/188135/parkla=
+nd-school-safety-and-the-devastating-effects-law-enforcement-can-have-on-bl=
+ack-and-brown-kids#.vOoOFw2t5</span></a>
+<a href=3D"https://www.huffingtonpost.com/entry/school-to-prison-pipeline_u=
+s_5a8ee0afe4b077f5bfec2cf3" target=3D"_blank">
+<span style=3D"text-decoration:none">https://www.huffingtonpost.com/entry/s=
+chool-to-prison-pipeline_us_5a8ee0afe4b077f5bfec2cf3</span></a> I am worrie=
+d about how this fear may negatively impact their performance, their mental=
+ wellbeing and mental health. It is
+ an unfortunate fact that students are exposed to the news coverage above, =
+even though the vast majority of officers, particularly in our town, are we=
+ll-trained and protect their communities and show respect to all people, re=
+gardless of race, sex, and gender.</span><span style=3D"color:black">
+</span></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;; color:black">The psychological health and=
+ wellbeing of our kids is as important as their physical health. We are cap=
+able of protecting them with officers stationed outside
+ of the school. Why expose them to unnecessary stress if we can prevent doi=
+ng so?</span><span style=3D"font-size:9.0pt; color:black"></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;; color:black"><br>
+<br>
+</span><span style=3D"font-size:9.0pt; color:black"></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;; color:black">Thank you for your care and =
+concern for our community.</span><span style=3D"font-size:9.0pt; color:blac=
+k"></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;; color:black">Take care, Kani</span><span =
+style=3D"font-size:9.0pt; color:black"></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;</span></p>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; color:black">&nbsp;<=
+/span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;; color:black">p.s.&nbsp;</span><span style=
+=3D"font-size:9.0pt; color:black"></span></p>
+</div>
+<h5 style=3D"margin-right:0in; margin-bottom:3.0pt; margin-left:0in; line-h=
+eight:17.25pt; text-overflow:ellipsis; overflow:hidden">
+<span style=3D"color:#333333; font-weight:normal"><a href=3D"https://nextdo=
+or.com/news_feed/?post=3D86490436" target=3D"_blank"><span style=3D"text-de=
+coration:none">Please read West Windsor Councilwoman Ayesha Hamilton's pers=
+pective on the contract allowing armed police
+ in WW-P schools. Ayesha is an experienced lawyer and has some great insigh=
+ts to share.</span></a></span></h5>
+<div>
+<p class=3D"MsoNormal" style=3D"line-height:14.25pt"><span style=3D"font-si=
+ze:9.0pt; color:black"><a href=3D"https://nextdoor.com/news_feed/?post=3D86=
+490436" target=3D"_blank"><br>
+</a></span></p>
+</div>
+<p class=3D"gmail-m3740019160436376676gmail-m-4347509110972723742gmail-cont=
+ent-body" style=3D"margin-bottom:6.0pt; line-height:14.25pt; text-overflow:=
+ellipsis; overflow:hidden">
+<span class=3D"gmail-m3740019160436376676gmail-m-4347509110972723742gmail-l=
+inkify"><span style=3D"font-size:9.0pt; color:#333333">Is this Shared Servi=
+ces Contract for SROs in the WW-P schools a good and reasonable expenditure=
+ for West Windsor and Plainsboro? What
+ is the scope of our actual liability? Do the contract provisions themselve=
+s actually protect the town from liability? What happens if a police office=
+r does something improper at the schools or is even just accused of doing s=
+omething improper at the schools?
+ The parent sues the schools and the Township because he is our employee. T=
+he schools pay the parents. The Township pays the parents. Then the Townshi=
+p pays the schools for their defense and anything they paid the parent. It =
+is also possible and quite likely
+ that the Joint Insurance Fund will disclaim coverage and that the taxpayer=
+s will pay. Negligent acts will be covered by insurance. It is the acts out=
+side the scope of the officer's official duties that will not be covered an=
+d which are more likely to be the
+ actions for which a parent will sue the school and the township. You, as t=
+he tax payer, will have paid twice if a liability claim is raised, once thr=
+ough the schools and once through the township indemnification clause. Whil=
+e they are two entities, the pocket
+ is the same- yours. A portion of this may be covered by the Joint Insuranc=
+e Fund but it is also likely that JIF could disclaim coverage because of wh=
+at the officer did, i.e. if he assaults (or is claimed to have assaulted) a=
+ child it would be considered an
+ intentional act and therefore, outside the scope of the Insurance coverage=
+. Most insurance policies have exclusions for certain actions, usually disc=
+laiming coverage for intentional acts. Why should the West Windsor and Plai=
+nsboro townships indemnify the actions
+ of the officer? We, as a Township, did not ask for these additional office=
+rs in the schools, so why should we be asked to indemnify their actions? Th=
+is liability should lie squarely with the School District since it is their=
+ plan initiated and designed by
+ them. Take a closer look at the contract and see the clauses permitting th=
+ese officers to transport our children because they will not be using polic=
+e cars and will be driving private vehicle. Their vehicles will not be cove=
+red by the Joint Insurance Fund
+ and we may not know what the coverage limits are since they will be privat=
+ely insured. Further, if the SLEO III's job is to remain at the schools, wh=
+y does the shared services agreement allow them to transport children? This=
+ contract does not protect the interests
+ of our township and could potentially be the source of highly expensive la=
+wsuits that are not covered by insurance. Does this make sense? What is wro=
+ng with the current system of the police officers being stationed outside t=
+he schools in their cars? Why is
+ it necessary for them to be inside the schools given the legal and financi=
+al risks of them interacting with and transporting students?
+</span></span><span style=3D"font-size:9.0pt; color:#333333"><br>
+<br>
+</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_44e0cc3b-65d1-4813-8c9b-60c582344fd8_--
+

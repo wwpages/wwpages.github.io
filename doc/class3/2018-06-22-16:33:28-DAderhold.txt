@@ -1,0 +1,219 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Fri, 22 Jun 2018 16:33:29 -0400
+X-ASG-Debug-ID: 1529699609-0eddee178638b20001-gI7hzy
+Received: from mail.ww-p.org (mail.ww-p.org [204.10.63.8]) by
+ BCSpam300.westwindsortwp.local with ESMTP id 5JFzgDWGQ90eIYmY for
+ <crhymer@westwindsortwp.com>; Fri, 22 Jun 2018 16:33:29 -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Apparent-Source-IP: 204.10.63.8
+X-IronPort-AV: E=Sophos;i="5.51,258,1526356800"; 
+   d="scan'208,217";a="141048554"
+Received: from unknown (HELO WWP-WEbmail.westwindsor.k12.nj.us) ([10.7.75.5])
+  by mail.ww-p.org with ESMTP; 22 Jun 2018 16:33:28 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Fri, 22 Jun
+ 2018 16:33:28 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: Cynthia Rhymer <crhymer@WestWindsorTwp.com>
+Subject: Read: Shares Services Agreement btwn Twp of West Windsor and
+ WW-Plainsboro Bd of Ed - Class III
+Thread-Topic: Shares Services Agreement btwn Twp of West Windsor and
+ WW-Plainsboro Bd of Ed - Class III
+X-ASG-Orig-Subj: Read: Shares Services Agreement btwn Twp of West Windsor and
+ WW-Plainsboro Bd of Ed - Class III
+Thread-Index: AdQKY6UjlXodm9aGTya5VtN1xIRB/wABKGlN
+Importance: high
+X-Priority: 1
+Date: Fri, 22 Jun 2018 20:33:28 +0000
+Message-ID: <98E441CFB9DE4F42AA864F9ED21028B5016F6B2D89@wwp-exchange3.westwindsor.k12.nj.us>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+MIME-Version: 1.0
+X-Barracuda-Connect: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Start-Time: 1529699609
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 1112
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=BSF_SC0_SA590, HTML_MESSAGE, MIME_HTML_MOSTLY
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.52241
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 MIME_HTML_MOSTLY       BODY: Multipart message mostly text/html MIME
+	0.20 BSF_SC0_SA590          Custom Rule SA590
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 22 Jun 2018 20:33:29.8110
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 4823
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+Content-Type: multipart/mixed;
+	boundary="_72c6188e-7297-4960-8ef9-ff16047aa145_"
+X-MS-Exchange-Organization-Disclaimer-Hash:
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_72c6188e-7297-4960-8ef9-ff16047aa145_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_72c6188e-7297-4960-8ef9-ff16047aa145_
+Content-Type: message/rfc822
+
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Fri, 22 Jun 2018 16:33:29 -0400
+X-ASG-Debug-ID: 1529699609-0eddee178638b20001-gI7hzy
+Received: from mail.ww-p.org (mail.ww-p.org [204.10.63.8]) by
+ BCSpam300.westwindsortwp.local with ESMTP id 5JFzgDWGQ90eIYmY for
+ <crhymer@westwindsortwp.com>; Fri, 22 Jun 2018 16:33:29 -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Apparent-Source-IP: 204.10.63.8
+X-IronPort-AV: E=Sophos;i="5.51,258,1526356800"; 
+   d="scan'208,217";a="141048554"
+Received: from unknown (HELO WWP-WEbmail.westwindsor.k12.nj.us) ([10.7.75.5])
+  by mail.ww-p.org with ESMTP; 22 Jun 2018 16:33:28 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Fri, 22 Jun
+ 2018 16:33:28 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: Cynthia Rhymer <crhymer@WestWindsorTwp.com>
+Subject: Read: Shares Services Agreement btwn Twp of West Windsor and
+ WW-Plainsboro Bd of Ed - Class III
+Thread-Topic: Shares Services Agreement btwn Twp of West Windsor and
+ WW-Plainsboro Bd of Ed - Class III
+X-ASG-Orig-Subj: Read: Shares Services Agreement btwn Twp of West Windsor and
+ WW-Plainsboro Bd of Ed - Class III
+Thread-Index: AdQKY6UjlXodm9aGTya5VtN1xIRB/wABKGlN
+Importance: high
+X-Priority: 1
+Date: Fri, 22 Jun 2018 20:33:28 +0000
+Message-ID: <98E441CFB9DE4F42AA864F9ED21028B5016F6B2D89@wwp-exchange3.westwindsor.k12.nj.us>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/report;
+	boundary="_000_98E441CFB9DE4F42AA864F9ED21028B5016F6B2D89wwpexchange3w_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-Barracuda-Connect: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Start-Time: 1529699609
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 1112
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=BSF_SC0_SA590, HTML_MESSAGE, MIME_HTML_MOSTLY
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.52241
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 MIME_HTML_MOSTLY       BODY: Multipart message mostly text/html MIME
+	0.20 BSF_SC0_SA590          Custom Rule SA590
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 22 Jun 2018 20:33:29.8110
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 4823
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+
+--_000_98E441CFB9DE4F42AA864F9ED21028B5016F6B2D89wwpexchange3w_
+Content-Type: multipart/alternative;
+	boundary="_002_98E441CFB9DE4F42AA864F9ED21028B5016F6B2D89wwpexchange3w_"
+
+--_002_98E441CFB9DE4F42AA864F9ED21028B5016F6B2D89wwpexchange3w_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Aderhold, David
+   Subject: Shares Services Agreement btwn Twp of West Windsor and WW-Plain=
+sboro Bd of Ed - Class III
+   Sent: Friday, June 22, 2018 4:26:20 PM (UTC-05:00) Eastern Time (US & Ca=
+nada)
+
+ was read on Friday, June 22, 2018 4:33:28 PM (UTC-05:00) Eastern Time (US =
+& Canada).
+
+--_002_98E441CFB9DE4F42AA864F9ED21028B5016F6B2D89wwpexchange3w_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Aderhold, David<br>
+&nbsp;&nbsp; Subject: Shares Services Agreement btwn Twp of West Windsor an=
+d WW-Plainsboro Bd of Ed - Class III<br>
+&nbsp;&nbsp; Sent: Friday, June 22, 2018 4:26:20 PM (UTC-05:00) Eastern Tim=
+e (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Friday, June 22, 2018 4:33:28 PM (UTC-05:00) Eastern Time=
+ (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_98E441CFB9DE4F42AA864F9ED21028B5016F6B2D89wwpexchange3w_--
+
+--_000_98E441CFB9DE4F42AA864F9ED21028B5016F6B2D89wwpexchange3w_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; David.Aderhold@ww-p.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: LACJfZvTwUiu5B5bwFkbxw==
+Original-Message-ID:
+ <0729EF2B56D31841B7820A319E79EC3C034904DB06@WWTExch2012.Westwindsortwp.local>
+X-Display-Name: Aderhold, David
+
+
+--_000_98E441CFB9DE4F42AA864F9ED21028B5016F6B2D89wwpexchange3w_--
+
+--_72c6188e-7297-4960-8ef9-ff16047aa145_--
+

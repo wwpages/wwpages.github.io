@@ -1,0 +1,492 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Mon, 9 Jul 2018 10:49:11 -0400
+X-ASG-Debug-ID: 1531147750-0eddee176536210001-OBQS1U
+Received: from esa2.hc2742-60.iphmx.com (esa2.hc2742-60.iphmx.com
+ [216.71.147.66]) by BCSpam300.westwindsortwp.local with ESMTP id
+ tJ7RDXjbKDuLrqup for <mschmid@westwindsortwp.com>; Mon, 09 Jul 2018 10:49:10
+ -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: esa2.hc2742-60.iphmx.com[216.71.147.66]
+X-Barracuda-Apparent-Source-IP: 216.71.147.66
+Received: from ww-p.org (HELO WWP-WEbmail.westwindsor.k12.nj.us)
+ ([204.10.63.5])  by esa2.hc2742-60.iphmx.com with
+ ESMTP/TLS/DHE-RSA-AES256-SHA; 09 Jul 2018 10:49:09 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Mon, 9 Jul 2018
+ 10:47:08 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: Marlena Schmid <mschmid@westwindsortwp.com>
+Subject: Re: Armored police in WW-P schools- a legal perspective
+Thread-Topic: Armored police in WW-P schools- a legal perspective
+X-ASG-Orig-Subj: Re: Armored police in WW-P schools- a legal perspective
+Thread-Index: AQHUFZKkB+fnLUa/LUOJCdMwjuYjWKSDBmTQgAPxVBCAAASNQw==
+Date: Mon, 9 Jul 2018 14:47:06 +0000
+Message-ID: <8B22C7B6-5DE5-42CB-AFB9-2C79D802F5ED@ww-p.org>
+References: <CA+mcCMsj8sv_rRtMyo40DEP+9g2PijW_pnUfVBXRyFRYv8kW2Q@mail.gmail.com>
+ <2700CD51DF1A484A9886F78789FFD58F03518EE25E@WWTExch2012.Westwindsortwp.local>,<42D18407A474984C9809A6A45229A77C0351CAFC2F@WWTExch2012.Westwindsortwp.local>
+In-Reply-To: <42D18407A474984C9809A6A45229A77C0351CAFC2F@WWTExch2012.Westwindsortwp.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/alternative;
+	boundary="_ee7e65ea-8176-432d-a08b-7e63b1ace76e_"
+MIME-Version: 1.0
+X-Barracuda-Connect: esa2.hc2742-60.iphmx.com[216.71.147.66]
+X-Barracuda-Start-Time: 1531147750
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 18594
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.53282
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 09 Jul 2018 14:49:11.9617
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 22293
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_ee7e65ea-8176-432d-a08b-7e63b1ace76e_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+I=92m teaching and will call this afternoon
+
+This same was sent this weekend except where it says experienced letter it =
+said Ayesha Hamilton
+
+Sent from my iPhone
+
+On Jul 9, 2018, at 10:45 AM, Marlena Schmid <mschmid@westwindsortwp.com<mai=
+lto:mschmid@westwindsortwp.com>> wrote:
+
+Good morning:
+
+Linda Geevers forwarded the e-mail below to us.  Please call me to strategi=
+ze.
+
+
+Thanks,
+
+Marlena
+609-799-2400 ext. 223
+
+From: Linda Geevers
+Sent: Friday, July 06, 2018 10:40 PM
+To: MAYOR'SOFFICE; Marlena Schmid; Council
+Cc: Gay Huber
+Subject: FW: Armored police in WW-P schools- a legal perspective
+
+I told Dr. Ilangovan that I would forward her email below to all of you. Wh=
+en we next discuss the Shared Services Agreement, these questions should be=
+ answered or reviewed again for the sake of the public=92s understanding.
+
+Linda
+
+From: Kani Ilangovan [mailto:kaniilangovanmd@gmail.com]
+Sent: Friday, July 6, 2018 9:34 PM
+To: Linda Geevers
+Subject: Armored police in WW-P schools- a legal perspective
+
+Dear Linda,
+How are you and your family? I hope all is well. I know you have the best i=
+nterests of this community at heart. I have had a chance to review the Shar=
+ed Services Contract and consult an experienced lawyer about the contract a=
+nd wanted to share the following major concerns with you:
+
+
+Please read an experienced lawyer=92s perspective on the contract allowing =
+armed police in WW-P schools.
+
+Is this Shared Services Contract for SROs in the WW-P schools a good and re=
+asonable expenditure for West Windsor and Plainsboro? What is the scope of =
+our actual liability? Do the contract provisions themselves actually protec=
+t the town from liability?
+
+What happens if a police officer does something improper at the schools or =
+is even just accused of doing something improper at the schools?
+
+The parent sues the schools and the Township because he is our employee.
+The schools pay the parents.  The Township pays the parents.
+Then the Township pays the schools for their defense and anything they paid=
+ the parent.
+It is also possible and quite likely that the Joint Insurance Fund will dis=
+claim coverage and that the taxpayers will pay.  Negligent acts will be cov=
+ered by insurance. It is the acts outside the scope of the officer's offici=
+al duties that will not be covered and which are more likely to be the acti=
+ons for which a parent will sue the school and the township.
+
+You, as the tax payer, will have paid twice if a liability claim is raised,=
+ once through the schools and once through the township indemnification cla=
+use.  While they are two entities, the pocket is the same- yours.  A portio=
+n of this may be covered by the Joint Insurance Fund but it is also likely =
+that JIF could disclaim coverage because of what the officer did, i.e. if h=
+e assaults (or is claimed to have assaulted) a child it would be considered=
+ an intentional act and therefore, outside the scope of the Insurance cover=
+age.
+
+Most insurance policies have exclusions for certain actions, usually discla=
+iming coverage for intentional acts.
+
+Why should the West Windsor and Plainsboro townships indemnify the actions =
+of the officer? We, as a Township, did not ask for these additional officer=
+s in the schools, so why should we be asked to indemnify their actions?  Th=
+is liability should lie squarely with the School District since it is their=
+ plan initiated and designed by them.
+
+Take a closer look at the contract and see the clauses permitting these off=
+icers to transport our children because they will not be using police cars =
+and will be driving private vehicle.  Their vehicles will not be covered by=
+ the Joint Insurance Fund and we may not know what the coverage limits are =
+since they will be privately insured.  Further, if the SLEO III's job is to=
+ remain at the schools, why does the shared services agreement allow them t=
+o transport children?
+
+This contract does not protect the interests of our township and could pote=
+ntially be the source of highly expensive lawsuits that are not covered by =
+insurance. Does this make sense?
+
+What is wrong with the current system of the police officers being statione=
+d outside the schools in their cars? Why is it necessary for them to be ins=
+ide the schools given the legal and financial risks of them interacting wit=
+h and transporting students?
+
+Take care, Kani
+
+
+I have attached the Shared Services contract and the searchable-text versio=
+n of that 75-page document that John Hinsdale created.
+
+From John: You can search for words like "discipline" etc.
+Attached text file was created with OCR software and may not be entirely co=
+mplete and accurate, but you can always go back to the original.
+Other good words to search for are "indemnify" or "arrest" etc.
+
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+  =AD=AD
+<Memorandum_of_Agreement_with_West_Windsor_Township.txt>
+
+--_ee7e65ea-8176-432d-a08b-7e63b1ace76e_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+</head>
+<body dir=3D"auto">
+I=92m teaching and will call this afternoon
+<div><br>
+</div>
+<div>This same was sent this weekend except where it says experienced lette=
+r it said Ayesha Hamilton&nbsp;<br>
+<br>
+<div id=3D"AppleMailSignature">Sent from my iPhone</div>
+<div><br>
+On Jul 9, 2018, at 10:45 AM, Marlena Schmid &lt;<a href=3D"mailto:mschmid@w=
+estwindsortwp.com">mschmid@westwindsortwp.com</a>&gt; wrote:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Good morning:<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Linda Geevers forwarded t=
+he e-mail below to us.&nbsp; Please call me to strategize.<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Thanks,<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Marlena<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">609-799-2400 ext. 223<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"> Linda =
+Geevers
+<br>
+<b>Sent:</b> Friday, July 06, 2018 10:40 PM<br>
+<b>To:</b> MAYOR'SOFFICE; Marlena Schmid; Council<br>
+<b>Cc:</b> Gay Huber<br>
+<b>Subject:</b> FW: Armored police in WW-P schools- a legal perspective<o:p=
+></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">I told Dr. Ilangovan that=
+ I would forward her email below to all of you. When we next discuss the Sh=
+ared Services Agreement, these questions should be answered
+ or reviewed again for the sake of the public=92s understanding.<o:p></o:p>=
+</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Linda
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><a name=3D"_MailEndCompose"></a><span style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1=
+F497D"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Kani Ila=
+ngovan [<a href=3D"mailto:kaniilangovanmd@gmail.com">mailto:kaniilangovanmd=
+@gmail.com</a>]
+<br>
+<b>Sent:</b> Friday, July 6, 2018 9:34 PM<br>
+<b>To:</b> Linda Geevers<br>
+<b>Subject:</b> Armored police in WW-P schools- a legal perspective<o:p></o=
+:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Dear Linda,<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">How are you and your family? I hope all is well.
+<span style=3D"background:yellow;mso-highlight:yellow">I know you have the =
+best interests of this community at heart</span>.&nbsp;<span style=3D"font-=
+size:9.5pt;color:black">I
+<span style=3D"background:yellow;mso-highlight:yellow">have had a chance to=
+ review the Shared Services Contract and consult an experienced lawyer abou=
+t the contract and wanted to share the following&nbsp;<b>major</b>&nbsp;con=
+cerns with you:</span></span><o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Please read an experienced lawyer=92s perspective on the contract =
+allowing armed police in WW-P schools.<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Is this Shared Services Contract for SROs in the WW-P schools a go=
+od and reasonable expenditure for West Windsor and Plainsboro? What is the =
+scope of our actual liability? Do the
+ contract provisions themselves actually protect the town from liability?<o=
+:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">What happens if a police officer does something improper at the sc=
+hools or is even just accused of doing something improper at the schools?<o=
+:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">The parent sues the schools and the Township because he is our emp=
+loyee.<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">The schools pay the parents.&nbsp; The Township pays the parents.<=
+o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Then the Township pays the schools for their defense and anything =
+they paid the parent.<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">It is also possible and quite likely that the Joint Insurance Fund=
+ will disclaim coverage and that the taxpayers will pay.&nbsp;&nbsp;Neglige=
+nt acts&nbsp;will&nbsp;be covered by insurance.&nbsp;It is the
+ acts outside the scope of the officer's official duties that will not be c=
+overed and&nbsp;which are more likely to be the actions for which a parent =
+will sue the school and the township.&nbsp;&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">You, as the tax payer, will have paid twice if a liability claim i=
+s raised, once through the schools and once through the township indemnific=
+ation clause.&nbsp; While they are two entities,
+ the pocket is the same- yours.&nbsp; A portion of this&nbsp;may be&nbsp;co=
+vered by the Joint Insurance Fund but it is also likely that JIF could disc=
+laim coverage because of what the officer did, i.e. if he assaults (or is c=
+laimed to have assaulted) a child it would be considered
+ an intentional act and therefore, outside the scope of the Insurance cover=
+age.&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Most insurance policies have&nbsp;exclusions for certain actions,&=
+nbsp;usually disclaiming coverage for intentional acts.&nbsp; &nbsp;&nbsp;<=
+o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Why should the West Windsor and Plainsboro townships indemnify the=
+ actions of the officer? We, as a Township, did not ask for these additiona=
+l officers in the schools, so why should
+ we be asked to indemnify their actions?&nbsp; This liability should lie sq=
+uarely with the School District since it is their plan initiated and design=
+ed by them.<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;margin-bottom:12.0p=
+t"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Take a closer look at the contract and see the clauses permitting =
+these officers to transport our children because they will not be using pol=
+ice cars and will be driving private
+ vehicle.&nbsp; Their vehicles will not be covered by the Joint Insurance F=
+und and we may not know what the coverage limits are&nbsp;since they will b=
+e privately insured.&nbsp; Further, if the SLEO III's job is to remain at t=
+he schools, why does the shared services agreement
+ allow them to transport children?<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">This contract does not protect the interests of our township and c=
+ould potentially be the source of highly expensive lawsuits that are not co=
+vered by insurance. Does this make sense?<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;background:#F1F1F1">
+<o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">What is wrong with the current system of the police officers being=
+ stationed outside the schools in their cars? Why is it necessary for them =
+to be inside the schools given the legal
+ and financial risks of them interacting with and transporting students?<o:=
+p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Take care, Kani<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">I have attached the Shared Services contract and the&nbsp;searchab=
+le-text version of that 75-page document that John Hinsdale created.&nbsp;&=
+nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">From John: You can search for words like &quot;discipline&quot; et=
+c.<br>
+Attached text file was created with OCR software and may not be entirely co=
+mplete and accurate, but you can always go back to the original.<br>
+Other good words to search for are &quot;indemnify&quot; or &quot;arrest&qu=
+ot; etc.<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">&nbsp;<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal">Please be advised that the Township of West Windsor =
+is subject to the New Jersey Open Public Records Act. As such, any email se=
+nt or received by the Township may be subject to a records request.
+<o:p></o:p></p>
+</div>
+<br>
+&nbsp;&nbsp;=AD=AD&nbsp;&nbsp; </div>
+</blockquote>
+<blockquote type=3D"cite">
+<div>&lt;Memorandum_of_Agreement_with_West_Windsor_Township.txt&gt;</div>
+</blockquote>
+</div>
+</body>
+</html>
+
+--_ee7e65ea-8176-432d-a08b-7e63b1ace76e_--
+

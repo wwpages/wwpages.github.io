@@ -1,0 +1,1274 @@
+Received: from WWTExch2012.Westwindsortwp.local ([::1]) by
+ WWTExch2012.Westwindsortwp.local ([::1]) with mapi id 14.01.0218.012; Tue, 12
+ Jun 2018 16:18:54 -0400
+From: <amiller@WestWindsorTwp.com>
+To: <Jamie.Watson@ww-p.org>
+Subject: RE: The West Windsor Cable TV Schedule for May 25th - June 7th, 2018
+Thread-Topic: The West Windsor Cable TV Schedule for May 25th - June 7th,
+ 2018
+Thread-Index: AdP0VgT9KlNDNN/VTy+n7Q0YBkrpywOCOh2QAE5bq/A=
+Date: Tue, 12 Jun 2018 20:18:53 +0000
+Message-ID: <0BB1EA0FAA0B67409A3861F0B9CFA4A701E689B158@WWTExch2012.Westwindsortwp.local>
+References: <F88C1E578689794EAE3E6A1294732EE382797985@wwp-exchange3.westwindsor.k12.nj.us>
+ <F88C1E578689794EAE3E6A1294732EE3827A5F4E@wwp-exchange3.westwindsor.k12.nj.us>
+In-Reply-To: <F88C1E578689794EAE3E6A1294732EE3827A5F4E@wwp-exchange3.westwindsor.k12.nj.us>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-ms-exchange-organization-originalsize: 37790
+x-ms-exchange-organization-originalarrivaltime: 12 Jun 2018 20:18:53.2576
+ (UTC)
+x-ms-exchange-organization-messagesource: StoreDriver
+x-ms-exchange-organization-messagedirectionality: Originating
+x-ms-exchange-forest-messagescope: 00000000-0000-0000-0000-000000000000
+x-ms-exchange-organization-messagescope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-BCC:
+x-ms-exchange-organization-originalclientipaddress: 10.11.13.253
+x-originating-ip: [10.11.13.253]
+x-ms-exchange-organization-originalserveripaddress: ::1
+x-ms-exchange-organization-messagelatency: SRV=WWTExch2012.Westwindsortwp.local:TOTAL=1|MSSN=1
+x-ms-exchange-organization-hygienepolicy: Standard
+x-ms-exchange-organization-recipient-limit-verified: True
+x-ms-exchange-forest-rulesexecuted: WWTExch2012
+x-ms-exchange-organization-rules-execution-history: OPRA Disclaimer
+ Footer%%%Spam
+Content-Type: multipart/alternative;
+	boundary="_000_0BB1EA0FAA0B67409A3861F0B9CFA4A701E689B158WWTExch2012We_"
+MIME-Version: 1.0
+
+--_000_0BB1EA0FAA0B67409A3861F0B9CFA4A701E689B158WWTExch2012We_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Thanks, Jamie.
+alison
+
+From: Watson, Jamie [mailto:Jamie.Watson@ww-p.org]
+Sent: Tuesday, June 12, 2018 11:19 AM
+To: Linda Geevers; Hemant Marathe; Alison Miller; Ayesha Hamilton; Jyotika =
+Bahree; Virginia Manzari
+Cc: Aderhold, David; Cave, Rick; Hutner, Gerri
+Subject: RE: The West Windsor Cable TV Schedule for May 25th - June 7th, 20=
+18
+
+Dear West Windsor Town Council President Miller,
+
+Since you and your colleagues expressed interest last night in viewing this=
+, here is the relevant segment extracted from the May 8th WW-P Board of Edu=
+cation Meeting.
+
+"Class III Police Officers" WW-P Board of Education Presentation
+
+https://www.youtube.com/watch?v=3DHLlxR5OT2KM
+
+Regards,
+Jamie Watson
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_000_0BB1EA0FAA0B67409A3861F0B9CFA4A701E689B158WWTExch2012We_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Bookman Old Style";
+	panose-1:2 5 6 4 5 5 5 2 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+span.emailstyle17
+	{mso-style-name:emailstyle17;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle18
+	{mso-style-name:emailstyle18;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle19
+	{mso-style-name:emailstyle19;
+	font-family:"Arial","sans-serif";
+	color:navy;}
+span.emailstyle20
+	{mso-style-name:emailstyle20;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle21
+	{mso-style-name:emailstyle21;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle22
+	{mso-style-name:emailstyle22;
+	font-family:"Arial","sans-serif";
+	color:navy;}
+span.emailstyle23
+	{mso-style-name:emailstyle23;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle24
+	{mso-style-name:emailstyle24;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle25
+	{mso-style-name:emailstyle25;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle26
+	{mso-style-name:emailstyle26;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle27
+	{mso-style-name:emailstyle27;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle28
+	{mso-style-name:emailstyle28;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle29
+	{mso-style-name:emailstyle29;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle30
+	{mso-style-name:emailstyle30;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle31
+	{mso-style-name:emailstyle31;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle32
+	{mso-style-name:emailstyle32;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle33
+	{mso-style-name:emailstyle33;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle34
+	{mso-style-name:emailstyle34;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle35
+	{mso-style-name:emailstyle35;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle36
+	{mso-style-name:emailstyle36;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle37
+	{mso-style-name:emailstyle37;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle38
+	{mso-style-name:emailstyle38;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle39
+	{mso-style-name:emailstyle39;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle40
+	{mso-style-name:emailstyle40;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle41
+	{mso-style-name:emailstyle41;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle42
+	{mso-style-name:emailstyle42;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle43
+	{mso-style-name:emailstyle43;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle44
+	{mso-style-name:emailstyle44;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle45
+	{mso-style-name:emailstyle45;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle46
+	{mso-style-name:emailstyle46;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle47
+	{mso-style-name:emailstyle47;
+	font-family:"Bookman Old Style","serif";
+	color:navy;}
+span.emailstyle48
+	{mso-style-name:emailstyle48;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle49
+	{mso-style-name:emailstyle49;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle50
+	{mso-style-name:emailstyle50;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle51
+	{mso-style-name:emailstyle51;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle52
+	{mso-style-name:emailstyle52;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle53
+	{mso-style-name:emailstyle53;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle54
+	{mso-style-name:emailstyle54;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle55
+	{mso-style-name:emailstyle55;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle56
+	{mso-style-name:emailstyle56;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle57
+	{mso-style-name:emailstyle57;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle58
+	{mso-style-name:emailstyle58;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle59
+	{mso-style-name:emailstyle59;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle60
+	{mso-style-name:emailstyle60;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle61
+	{mso-style-name:emailstyle61;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle62
+	{mso-style-name:emailstyle62;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle63
+	{mso-style-name:emailstyle63;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle64
+	{mso-style-name:emailstyle64;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle65
+	{mso-style-name:emailstyle65;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle66
+	{mso-style-name:emailstyle66;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle67
+	{mso-style-name:emailstyle67;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle68
+	{mso-style-name:emailstyle68;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle69
+	{mso-style-name:emailstyle69;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle70
+	{mso-style-name:emailstyle70;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle71
+	{mso-style-name:emailstyle71;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle72
+	{mso-style-name:emailstyle72;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle73
+	{mso-style-name:emailstyle73;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle74
+	{mso-style-name:emailstyle74;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle75
+	{mso-style-name:emailstyle75;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle76
+	{mso-style-name:emailstyle76;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle77
+	{mso-style-name:emailstyle77;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle78
+	{mso-style-name:emailstyle78;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle79
+	{mso-style-name:emailstyle79;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle80
+	{mso-style-name:emailstyle80;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle81
+	{mso-style-name:emailstyle81;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle82
+	{mso-style-name:emailstyle82;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle83
+	{mso-style-name:emailstyle83;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle84
+	{mso-style-name:emailstyle84;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle85
+	{mso-style-name:emailstyle85;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle86
+	{mso-style-name:emailstyle86;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle87
+	{mso-style-name:emailstyle87;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle88
+	{mso-style-name:emailstyle88;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle89
+	{mso-style-name:emailstyle89;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle90
+	{mso-style-name:emailstyle90;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle91
+	{mso-style-name:emailstyle91;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle92
+	{mso-style-name:emailstyle92;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle93
+	{mso-style-name:emailstyle93;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle94
+	{mso-style-name:emailstyle94;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle95
+	{mso-style-name:emailstyle95;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle96
+	{mso-style-name:emailstyle96;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle97
+	{mso-style-name:emailstyle97;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle98
+	{mso-style-name:emailstyle98;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle99
+	{mso-style-name:emailstyle99;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle100
+	{mso-style-name:emailstyle100;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle101
+	{mso-style-name:emailstyle101;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle102
+	{mso-style-name:emailstyle102;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle103
+	{mso-style-name:emailstyle103;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle104
+	{mso-style-name:emailstyle104;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle105
+	{mso-style-name:emailstyle105;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle106
+	{mso-style-name:emailstyle106;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle107
+	{mso-style-name:emailstyle107;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle108
+	{mso-style-name:emailstyle108;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle109
+	{mso-style-name:emailstyle109;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle110
+	{mso-style-name:emailstyle110;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle111
+	{mso-style-name:emailstyle111;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle112
+	{mso-style-name:emailstyle112;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle113
+	{mso-style-name:emailstyle113;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle114
+	{mso-style-name:emailstyle114;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle115
+	{mso-style-name:emailstyle115;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle116
+	{mso-style-name:emailstyle116;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle117
+	{mso-style-name:emailstyle117;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle118
+	{mso-style-name:emailstyle118;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle119
+	{mso-style-name:emailstyle119;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle120
+	{mso-style-name:emailstyle120;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle121
+	{mso-style-name:emailstyle121;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle122
+	{mso-style-name:emailstyle122;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle123
+	{mso-style-name:emailstyle123;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle124
+	{mso-style-name:emailstyle124;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle125
+	{mso-style-name:emailstyle125;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle126
+	{mso-style-name:emailstyle126;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle127
+	{mso-style-name:emailstyle127;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle128
+	{mso-style-name:emailstyle128;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle129
+	{mso-style-name:emailstyle129;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle130
+	{mso-style-name:emailstyle130;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle131
+	{mso-style-name:emailstyle131;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle132
+	{mso-style-name:emailstyle132;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle133
+	{mso-style-name:emailstyle133;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle134
+	{mso-style-name:emailstyle134;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle135
+	{mso-style-name:emailstyle135;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle136
+	{mso-style-name:emailstyle136;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle137
+	{mso-style-name:emailstyle137;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle138
+	{mso-style-name:emailstyle138;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle139
+	{mso-style-name:emailstyle139;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle140
+	{mso-style-name:emailstyle140;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle141
+	{mso-style-name:emailstyle141;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle142
+	{mso-style-name:emailstyle142;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle143
+	{mso-style-name:emailstyle143;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle144
+	{mso-style-name:emailstyle144;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle145
+	{mso-style-name:emailstyle145;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle146
+	{mso-style-name:emailstyle146;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle147
+	{mso-style-name:emailstyle147;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle148
+	{mso-style-name:emailstyle148;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle149
+	{mso-style-name:emailstyle149;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle150
+	{mso-style-name:emailstyle150;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle151
+	{mso-style-name:emailstyle151;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle152
+	{mso-style-name:emailstyle152;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle153
+	{mso-style-name:emailstyle153;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle154
+	{mso-style-name:emailstyle154;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle155
+	{mso-style-name:emailstyle155;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle156
+	{mso-style-name:emailstyle156;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle157
+	{mso-style-name:emailstyle157;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.emailstyle158
+	{mso-style-name:emailstyle158;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle159
+	{mso-style-name:emailstyle159;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle160
+	{mso-style-name:emailstyle160;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle161
+	{mso-style-name:emailstyle161;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle162
+	{mso-style-name:emailstyle162;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle163
+	{mso-style-name:emailstyle163;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle164
+	{mso-style-name:emailstyle164;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle165
+	{mso-style-name:emailstyle165;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle166
+	{mso-style-name:emailstyle166;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle167
+	{mso-style-name:emailstyle167;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle168
+	{mso-style-name:emailstyle168;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle169
+	{mso-style-name:emailstyle169;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle170
+	{mso-style-name:emailstyle170;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle171
+	{mso-style-name:emailstyle171;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle172
+	{mso-style-name:emailstyle172;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle173
+	{mso-style-name:emailstyle173;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle174
+	{mso-style-name:emailstyle174;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle175
+	{mso-style-name:emailstyle175;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle176
+	{mso-style-name:emailstyle176;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle177
+	{mso-style-name:emailstyle177;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle178
+	{mso-style-name:emailstyle178;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle179
+	{mso-style-name:emailstyle179;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle180
+	{mso-style-name:emailstyle180;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle181
+	{mso-style-name:emailstyle181;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle182
+	{mso-style-name:emailstyle182;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle183
+	{mso-style-name:emailstyle183;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle184
+	{mso-style-name:emailstyle184;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle185
+	{mso-style-name:emailstyle185;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle186
+	{mso-style-name:emailstyle186;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle187
+	{mso-style-name:emailstyle187;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle188
+	{mso-style-name:emailstyle188;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle189
+	{mso-style-name:emailstyle189;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle190
+	{mso-style-name:emailstyle190;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle191
+	{mso-style-name:emailstyle191;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle192
+	{mso-style-name:emailstyle192;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle193
+	{mso-style-name:emailstyle193;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle194
+	{mso-style-name:emailstyle194;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle195
+	{mso-style-name:emailstyle195;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle196
+	{mso-style-name:emailstyle196;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle197
+	{mso-style-name:emailstyle197;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle198
+	{mso-style-name:emailstyle198;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle199
+	{mso-style-name:emailstyle199;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle200
+	{mso-style-name:emailstyle200;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle201
+	{mso-style-name:emailstyle201;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle202
+	{mso-style-name:emailstyle202;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle203
+	{mso-style-name:emailstyle203;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle204
+	{mso-style-name:emailstyle204;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle205
+	{mso-style-name:emailstyle205;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle206
+	{mso-style-name:emailstyle206;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle207
+	{mso-style-name:emailstyle207;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle208
+	{mso-style-name:emailstyle208;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle209
+	{mso-style-name:emailstyle209;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle210
+	{mso-style-name:emailstyle210;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle213
+	{mso-style-name:emailstyle213;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle214
+	{mso-style-name:emailstyle214;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle215
+	{mso-style-name:emailstyle215;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle216
+	{mso-style-name:emailstyle216;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle217
+	{mso-style-name:emailstyle217;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle218
+	{mso-style-name:emailstyle218;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle219
+	{mso-style-name:emailstyle219;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle220
+	{mso-style-name:emailstyle220;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle221
+	{mso-style-name:emailstyle221;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle222
+	{mso-style-name:emailstyle222;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle223
+	{mso-style-name:emailstyle223;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle224
+	{mso-style-name:emailstyle224;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle225
+	{mso-style-name:emailstyle225;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle226
+	{mso-style-name:emailstyle226;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle227
+	{mso-style-name:emailstyle227;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle228
+	{mso-style-name:emailstyle228;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle229
+	{mso-style-name:emailstyle229;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle230
+	{mso-style-name:emailstyle230;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle231
+	{mso-style-name:emailstyle231;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle232
+	{mso-style-name:emailstyle232;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle233
+	{mso-style-name:emailstyle233;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle234
+	{mso-style-name:emailstyle234;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle235
+	{mso-style-name:emailstyle235;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle236
+	{mso-style-name:emailstyle236;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle237
+	{mso-style-name:emailstyle237;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle238
+	{mso-style-name:emailstyle238;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle239
+	{mso-style-name:emailstyle239;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle240
+	{mso-style-name:emailstyle240;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle241
+	{mso-style-name:emailstyle241;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle242
+	{mso-style-name:emailstyle242;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle243
+	{mso-style-name:emailstyle243;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle244
+	{mso-style-name:emailstyle244;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle245
+	{mso-style-name:emailstyle245;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle246
+	{mso-style-name:emailstyle246;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle247
+	{mso-style-name:emailstyle247;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle248
+	{mso-style-name:emailstyle248;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle249
+	{mso-style-name:emailstyle249;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle250
+	{mso-style-name:emailstyle250;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle251
+	{mso-style-name:emailstyle251;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.emailstyle252
+	{mso-style-name:emailstyle252;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle253
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body bgcolor=3D"white" lang=3D"EN-US" link=3D"blue" vlink=3D"blue">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Thanks, Jamie.<o:p></o:p>=
+</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">alison<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><a name=3D"_MailEndCompose"><span style=3D"font-size=
+:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497=
+D"><o:p>&nbsp;</o:p></span></a></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Watson, =
+Jamie [mailto:Jamie.Watson@ww-p.org]
+<br>
+<b>Sent:</b> Tuesday, June 12, 2018 11:19 AM<br>
+<b>To:</b> Linda Geevers; Hemant Marathe; Alison Miller; Ayesha Hamilton; J=
+yotika Bahree; Virginia Manzari<br>
+<b>Cc:</b> Aderhold, David; Cave, Rick; Hutner, Gerri<br>
+<b>Subject:</b> RE: The West Windsor Cable TV Schedule for May 25th - June =
+7th, 2018<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">Dear West Win=
+dsor Town Council President Miller,</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">&nbsp;</span>=
+<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">Since you and=
+ your colleagues expressed interest last night in viewing this, here is the=
+ relevant segment extracted from the May 8<sup>th</sup> WW-P
+ Board of Education Meeting.</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">&nbsp;</span>=
+<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">&quot;Class I=
+II Police Officers&quot; WW-P Board of Education Presentation</span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ta=
+homa&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ta=
+homa&quot;,&quot;sans-serif&quot;"><a href=3D"https://www.youtube.com/watch=
+?v=3DHLlxR5OT2KM">https://www.youtube.com/watch?v=3DHLlxR5OT2KM</a></span><=
+o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ta=
+homa&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ta=
+homa&quot;,&quot;sans-serif&quot;">Regards,</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ta=
+homa&quot;,&quot;sans-serif&quot;">Jamie Watson</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ta=
+homa&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal">Please be advised that the Township of West Windsor =
+is subject to the New Jersey Open Public Records Act. As such, any email se=
+nt or received by the Township may be subject to a records request.
+<o:p></o:p></p>
+</div>
+</body>
+</html>
+
+--_000_0BB1EA0FAA0B67409A3861F0B9CFA4A701E689B158WWTExch2012We_--
+

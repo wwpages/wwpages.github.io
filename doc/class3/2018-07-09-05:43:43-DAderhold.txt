@@ -1,0 +1,351 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Mon, 9 Jul 2018 05:43:48 -0400
+X-ASG-Debug-ID: 1531129426-0eddee176533f80001-OBQS1U
+Received: from esa2.hc2742-60.iphmx.com (esa2.hc2742-60.iphmx.com
+ [216.71.147.66]) by BCSpam300.westwindsortwp.local with ESMTP id
+ OOneZ2cHkaxmKjci for <mschmid@westwindsortwp.com>; Mon, 09 Jul 2018 05:43:47
+ -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: esa2.hc2742-60.iphmx.com[216.71.147.66]
+X-Barracuda-Apparent-Source-IP: 216.71.147.66
+Received: from ww-p.org (HELO WWP-WEbmail.westwindsor.k12.nj.us)
+ ([204.10.63.5])  by esa2.hc2742-60.iphmx.com with
+ ESMTP/TLS/DHE-RSA-AES256-SHA; 09 Jul 2018 05:43:45 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Mon, 9 Jul 2018
+ 05:43:45 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: Guy Amour <garmour@plainsboropolice.com>, Robert Garofolo
+	<garfo@westwindsorpolice.com>, Anthony Cancro <acancro@plainsboronj.com>,
+	Marlena Schmid <mschmid@westwindsortwp.com>
+Subject: Fwd: Facebook
+Thread-Topic: Facebook
+X-ASG-Orig-Subj: Fwd: Facebook
+Thread-Index: AdQXSkNE6dnfHmPZScOsBtqXu3GP9QAHxB5Q
+Date: Mon, 9 Jul 2018 09:43:43 +0000
+Message-ID: <CDB3A8B9-C7E7-452A-AE36-A37448F22E8A@ww-p.org>
+References: <CY4PR22MB0933E338B4890CCF8862F04292440@CY4PR22MB0933.namprd22.prod.outlook.com>
+In-Reply-To: <CY4PR22MB0933E338B4890CCF8862F04292440@CY4PR22MB0933.namprd22.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/alternative;
+	boundary="_c23313d8-eff8-476e-8f49-18e5aaf784ea_"
+MIME-Version: 1.0
+X-Barracuda-Connect: esa2.hc2742-60.iphmx.com[216.71.147.66]
+X-Barracuda-Start-Time: 1531129426
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 16293
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=BSF_SC0_MISMATCH_TO, HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.53267
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 BSF_SC0_MISMATCH_TO    Envelope rcpt doesn't match header
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 09 Jul 2018 09:43:48.0619
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 19741
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Organization-Disclaimer-Hash:
+ 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_c23313d8-eff8-476e-8f49-18e5aaf784ea_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+FYI
+
+Posted this morning on Facebook by Tony Fleres, BOE President
+
+Recent posts here concerning the use of Special Law Enforcement Officers - =
+Class III (SLEO III) in our schools are revealing many misconceptions of th=
+e purpose, roles and motivation behind what is being proposed.
+
+I strongly urge anyone interested to watch the video of the May 8, 2018, pr=
+esentation to the BOE for yourself, so you can form your own opinion rather=
+ they rely on what others are saying.
+
+Concerning the purpose, first, there is the obvious improvement in security=
+ that comes with having police officer already present on school grounds wh=
+o is familiar with the building and its operations in the event of an extre=
+me emergency. Beyond any catastrophic event, which admittedly has a low (bu=
+t not zero) probability of happening, the officers will be available to ass=
+ist in traditional functions where a regular on-duty officer would normally=
+ be called, leaving that officer free to attend to his or her normal assign=
+ment. Also, while threat assessment, response time, and deterrence are prim=
+ary functions, community policing and relationship building are additional =
+benefits.
+
+In the schools, the roles and powers of the SLEO III officers will be no di=
+fferent than the regular full-time police officers. They are spelled out in=
+ the state-mandated Memorandum of Agreement Between Education and Law Enfor=
+cement already in place. The hiring of SLEO III officers will not in any wa=
+y change the job descriptions of building principals and assistant principa=
+ls. Disciplinary action will continue to be done by school administration. =
+They will not be involved with student discipline except in cases where the=
+ law already requires be law enforcement be involved.
+
+I admit that whether the benefits justify the officers' presence is a judgm=
+ent call. The BOE vote was 5-3 in favor, with one of the no votes saying sh=
+e agreed with having officers at the upper grades, but thought they were un=
+necessary in the elementary schools.
+
+As I said at the last BOE meeting, reasonable people can disagree. However,=
+ in the ensuing public discussion a number of false statements have been ma=
+de, some by people who should know better, that I feel need to be clarified=
+ for the record.
+
+First, there seems to be an impression going around that these officers wil=
+l be patrolling the halls looking for ways to harass students and ready to =
+handcuff anyone found without a hall pass. Statements like "We have a drug =
+problem in our schools and the Administration is trying to use police offic=
+ers to fix it" or references to a "school to prison pipeline" in WW-P show =
+a complete lack of understanding of what happens in our schools today. And =
+frankly, they are insulting to the school staff and police departments who =
+work hard to protect, educate and support the children of our community eve=
+ry day.
+
+Similarly, comments made about the officers possibly acting as informal cou=
+nselors, show that many do not understand what the word "informal" means. I=
+t is hoped these officers will be seen by students as an adult they can go =
+to for advice, like a respected coach or teacher.
+
+There was also a concern about adequate training. The Board of Education va=
+lues professional development and training for all its staff and will work =
+with the police chiefs to ensure their officers continue to receive appropr=
+iate training. The budget established by the school district includes funds=
+ for initial and ongoing training the SLEO III officers. And keep in mind t=
+hat these officers will be recently retired NJ police officers, meaning tha=
+t they will come 20 plus years of experience. In addition, both police chie=
+fs assured us that the quality of their departments will not be compromised=
+.
+
+People have questioned the timing of the process with votes scheduled for t=
+he summer when people are away. Actually, public discussion began in early =
+March when the 2018-2019 budget was being prepared. In March there were eve=
+n discussion threads on this Facebook site about the proposal for SLEO IIIs=
+. A public presentation was made at the May 8 board of education meeting, v=
+ideo posted on the district website and played on each townships cable chan=
+nel, and an article was published in a May issue of the WW&P News. Follow u=
+p discussions were had at each meeting up to the June 26 BOE vote. If the B=
+OE was trying to sneak the past people, we were doing a very poor job of it=
+.
+
+Again, this is subject where reasonable people can disagree. I don=92t mind=
+ debate, but some of the statements made show an unsettling amount of distr=
+ust for our fine police departments and school administrators. One of the g=
+oals of the program is establishing a better relationship between the publi=
+c and the police. As good as our two Police Departments are, it seems they =
+have their work cut out for them.
+
+If anyone has any questions or comments for me, my email address is Anthony=
+.Fleres@ww-p.org<mailto:Anthony.Fleres@ww-p.org>.
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_c23313d8-eff8-476e-8f49-18e5aaf784ea_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+</head>
+<body dir=3D"auto">
+FYI
+<div><br>
+</div>
+<div>Posted this morning on Facebook by Tony Fleres, BOE President&nbsp;<br=
+>
+<blockquote type=3D"cite">
+<div class=3D"WordSection1">
+<p style=3D"margin-right:0in; margin-bottom:4.5pt; margin-left:0in; backgro=
+und:white">
+<span style=3D"font-size:10.5pt; font-family:&quot;Helvetica&quot;,sans-ser=
+if; color:#1D2129">Recent posts here concerning the use of Special Law Enfo=
+rcement Officers - Class III (SLEO III) in our schools are revealing many m=
+isconceptions of the purpose, roles and motivation
+ behind what is being proposed.</span></p>
+<p style=3D"margin-right:0in; margin-bottom:4.5pt; margin-left:0in; backgro=
+und:white; orphans:2; text-align:start; widows:2; word-spacing:0px">
+<span style=3D"font-size:10.5pt; font-family:&quot;Helvetica&quot;,sans-ser=
+if; color:#1D2129">I strongly urge anyone interested to watch the video of =
+the May 8, 2018, presentation to the BOE for yourself, so you can form your=
+ own opinion rather they rely on what others
+ are saying.</span></p>
+<p style=3D"margin-right:0in; margin-bottom:4.5pt; margin-left:0in; backgro=
+und:white; orphans:2; text-align:start; widows:2; word-spacing:0px">
+<span style=3D"font-size:10.5pt; font-family:&quot;Helvetica&quot;,sans-ser=
+if; color:#1D2129">Concerning the purpose, first, there is the obvious impr=
+ovement in security that comes with having police officer already present o=
+n school grounds who is familiar with the building
+ and its operations in the event of an extreme emergency. Beyond any catast=
+rophic event, which admittedly has a low (but not zero) probability of happ=
+ening, the officers will be available to assist in traditional functions wh=
+ere a regular on-duty officer would
+ normally be called, leaving that officer free to attend to his or her norm=
+al assignment. Also, while threat assessment, response time, and deterrence=
+ are primary functions, community policing and relationship building are ad=
+ditional benefits.</span></p>
+<p style=3D"margin-right:0in; margin-bottom:4.5pt; margin-left:0in; backgro=
+und:white; orphans:2; text-align:start; widows:2; word-spacing:0px">
+<span style=3D"font-size:10.5pt; font-family:&quot;Helvetica&quot;,sans-ser=
+if; color:#1D2129">In the schools, the roles and powers of the SLEO III off=
+icers will be no different than the regular full-time police officers. They=
+ are spelled out in the state-mandated Memorandum
+ of Agreement Between Education and Law Enforcement already in place. The h=
+iring of SLEO III officers will not in any way change the job descriptions =
+of building principals and assistant principals. Disciplinary action will c=
+ontinue to be done by school administration.
+ They will not be involved with student discipline except in cases where th=
+e law already requires be law enforcement be involved.</span></p>
+<p style=3D"margin-right:0in; margin-bottom:4.5pt; margin-left:0in; backgro=
+und:white; orphans:2; text-align:start; widows:2; word-spacing:0px">
+<span style=3D"font-size:10.5pt; font-family:&quot;Helvetica&quot;,sans-ser=
+if; color:#1D2129">I admit that whether the benefits justify the officers' =
+presence is a judgment call. The BOE vote was 5-3 in favor, with one of the=
+ no votes saying she agreed with having officers
+ at the upper grades, but thought they were unnecessary in the elementary s=
+chools.</span></p>
+<p style=3D"margin-right:0in; margin-bottom:4.5pt; margin-left:0in; backgro=
+und:white; orphans:2; text-align:start; widows:2; word-spacing:0px">
+<span style=3D"font-size:10.5pt; font-family:&quot;Helvetica&quot;,sans-ser=
+if; color:#1D2129">As I said at the last BOE meeting, reasonable people can=
+ disagree. However, in the ensuing public discussion a number of false stat=
+ements have been made, some by people who should
+ know better, that I feel need to be clarified for the record.</span></p>
+<p style=3D"margin-right:0in; margin-bottom:4.5pt; margin-left:0in; backgro=
+und:white; orphans:2; text-align:start; widows:2; word-spacing:0px">
+<span style=3D"font-size:10.5pt; font-family:&quot;Helvetica&quot;,sans-ser=
+if; color:#1D2129">First, there seems to be an impression going around that=
+ these officers will be patrolling the halls looking for ways to harass stu=
+dents and ready to handcuff anyone found without
+ a hall pass. Statements like &quot;We have a drug problem in our schools a=
+nd the Administration is trying to use police officers to fix it&quot; or r=
+eferences to a &quot;school to prison pipeline&quot; in WW-P show a complet=
+e lack of understanding of what happens in our schools
+ today. And frankly, they are insulting to the school staff and police depa=
+rtments who work hard to protect, educate and support the children of our c=
+ommunity every day.</span></p>
+<p style=3D"margin-right:0in; margin-bottom:4.5pt; margin-left:0in; backgro=
+und:white; orphans:2; text-align:start; widows:2; word-spacing:0px">
+<span style=3D"font-size:10.5pt; font-family:&quot;Helvetica&quot;,sans-ser=
+if; color:#1D2129">Similarly, comments made about the officers possibly act=
+ing as informal counselors, show that many do not understand what the word =
+&quot;informal&quot; means. It is hoped these officers
+ will be seen by students as an adult they can go to for advice, like a res=
+pected coach or teacher.</span></p>
+<p style=3D"margin-right:0in; margin-bottom:4.5pt; margin-left:0in; backgro=
+und:white; orphans:2; text-align:start; widows:2; word-spacing:0px">
+<span style=3D"font-size:10.5pt; font-family:&quot;Helvetica&quot;,sans-ser=
+if; color:#1D2129">There was also a concern about adequate training. The Bo=
+ard of Education values professional development and training for all its s=
+taff and will work with the police chiefs to
+ ensure their officers continue to receive appropriate training. The budget=
+ established by the school district includes funds for initial and ongoing =
+training the SLEO III officers. And keep in mind that these officers will b=
+e recently retired NJ police officers,
+ meaning that they will come 20 plus years of experience. In addition, both=
+ police chiefs assured us that the quality of their departments will not be=
+ compromised.</span></p>
+<p style=3D"margin-right:0in; margin-bottom:4.5pt; margin-left:0in; backgro=
+und:white; orphans:2; text-align:start; widows:2; word-spacing:0px">
+<span style=3D"font-size:10.5pt; font-family:&quot;Helvetica&quot;,sans-ser=
+if; color:#1D2129">People have questioned the timing of the process with vo=
+tes scheduled for the summer when people are away. Actually, public discuss=
+ion began in early March when the 2018-2019
+ budget was being prepared. In March there were even discussion threads on =
+this Facebook site about the proposal for SLEO IIIs. A public presentation =
+was made at the May 8 board of education meeting, video posted on the distr=
+ict website and played on each townships
+ cable channel, and an article was published in a May issue of the WW&amp;P=
+ News. Follow up discussions were had at each meeting up to the June 26 BOE=
+ vote. If the BOE was trying to sneak the past people, we were doing a very=
+ poor job of it.</span></p>
+<p style=3D"margin-right:0in; margin-bottom:4.5pt; margin-left:0in; backgro=
+und:white; orphans:2; text-align:start; widows:2; word-spacing:0px">
+<span style=3D"font-size:10.5pt; font-family:&quot;Helvetica&quot;,sans-ser=
+if; color:#1D2129">Again, this is subject where reasonable people can disag=
+ree. I don=92t mind debate, but some of the statements made show an unsettl=
+ing amount of distrust for our fine police departments
+ and school administrators. One of the goals of the program is establishing=
+ a better relationship between the public and the police. As good as our tw=
+o Police Departments are, it seems they have their work cut out for them.</=
+span></p>
+<p style=3D"margin-right:0in; margin-bottom:0in; margin-left:0in; margin-bo=
+ttom:.0001pt; background:white; orphans:2; text-align:start; widows:2; word=
+-spacing:0px">
+<span style=3D"font-size:10.5pt; font-family:&quot;Helvetica&quot;,sans-ser=
+if; color:#1D2129">If anyone has any questions or comments for me, my email=
+ address is
+<a href=3D"mailto:Anthony.Fleres@ww-p.org">Anthony.Fleres@ww-p.org</a>.</sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,serif">&nbsp;</span></p>
+</div>
+</blockquote>
+<style>
+<!--
+@font-face
+	{font-family:Helvetica}
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Calibri}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif}
+a:link, span.MsoHyperlink
+	{color:#0563C1;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline}
+span.EmailStyle17
+	{font-family:"Times New Roman",serif;
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.WordSection1
+	{}
+-->
+</style></div>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_c23313d8-eff8-476e-8f49-18e5aaf784ea_--
+

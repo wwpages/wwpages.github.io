@@ -1,0 +1,207 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Thu, 14 Jun 2018 12:46:23 -0400
+X-ASG-Debug-ID: 1528994782-0eddee0a1453e80001-lp3Q2a
+Received: from mail.ww-p.org (mail.ww-p.org [204.10.63.8]) by
+ BCSpam300.westwindsortwp.local with ESMTP id O47QeR0ydKSfXakp for
+ <hmarathe@westwindsortwp.com>; Thu, 14 Jun 2018 12:46:22 -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Apparent-Source-IP: 204.10.63.8
+X-IronPort-AV: E=Sophos;i="5.51,222,1526356800"; 
+   d="scan'208";a="139655243"
+Received: from unknown (HELO WWP-WEbmail.westwindsor.k12.nj.us) ([10.7.75.5])
+  by mail.ww-p.org with ESMTP; 14 Jun 2018 12:46:22 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Thu, 14 Jun
+ 2018 12:46:21 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: 'Hemant Marathe' <hmarathe@WestWindsorTwp.com>, "Fleres, Anthony"
+	<anthony.fleres@ww-p.org>
+Subject: RE: Request for Attendance at Council Meeting to Discuss Class III
+ Officers
+Thread-Topic: Request for Attendance at Council Meeting to Discuss Class III
+ Officers
+X-ASG-Orig-Subj: RE: Request for Attendance at Council Meeting to Discuss Class III
+ Officers
+Thread-Index: AdQD7OhMlxwywkbHThS40UNgHT/JlQADxASwAAASNpAAACLuFQAAg9sw
+Date: Thu, 14 Jun 2018 16:46:21 +0000
+Message-ID: <98E441CFB9DE4F42AA864F9ED21028B5016F69FBF2@wwp-exchange3.westwindsor.k12.nj.us>
+References: <EF77C76C43914745AFC52B0A20593149033F1D0329@WWTExch2012.Westwindsortwp.local>
+ <98E441CFB9DE4F42AA864F9ED21028B5016F69F9B7@wwp-exchange3.westwindsor.k12.nj.us>,<98E441CFB9DE4F42AA864F9ED21028B5016F69FA21@wwp-exchange3.westwindsor.k12.nj.us>
+ <808931D0A18FC74390BADDB58A30CF60033F28C2EC@WWTExch2012.Westwindsortwp.local>
+In-Reply-To: <808931D0A18FC74390BADDB58A30CF60033F28C2EC@WWTExch2012.Westwindsortwp.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.101.15.98]
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Barracuda-Connect: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Start-Time: 1528994782
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 4453
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.51961
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 14 Jun 2018 16:46:23.1135
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 7343
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+Hemant,
+
+Thanks.
+
+To answer your question, the police will have no disciplinary powers in sch=
+ool.  That is the responsibility of the administration. =20
+
+I will be more than ready.  I would suggest that Linda be met with in advan=
+ce with either Garf/Mark/you/me. =20
+
+If the questions she asks at the planning board are any indication we are i=
+n for a long night.  I cannot believe I had to listed to DNA testing of dog=
+ excrement at the last meeting. =20
+
+Dave
+
+-----Original Message-----
+From: Hemant Marathe [mailto:hmarathe@WestWindsorTwp.com]=20
+Sent: Thursday, June 14, 2018 12:43 PM
+To: Aderhold, David; Fleres, Anthony
+Subject: RE: Request for Attendance at Council Meeting to Discuss Class III=
+ Officers
+
+David,
+
+I had a long conversation with Mark Lee following last board meeting. We we=
+re in the parking lot till past 9 p.m. I feel we made even Veronica feel li=
+ttle better about the program.=20
+
+As I mentioned to you if anyone asks you any questions regarding the police=
+, i.e. hiring, training, discipline etc you simply turn to them and say it'=
+s the Mayor's call and let me handle it.
+
+You should respond to what the officers are allowed to participate in durin=
+g school. Main questions you can expect is what disciplinary powers the pol=
+ice will have in school. That is going to be your call. =20
+
+As I refer questions about "whether to have officer in school" to you, you =
+should refer all questions regarding police to me as ultimately it's my dec=
+ision along with the Chief.=20
+
+The video of our last meeting is online. Please watch the discussion that s=
+tarts around 1:56:45 mark in the video to get an idea regarding what to exp=
+ect.=20
+
+http://westwindsornj.org/TC-documents/2018/tc-video-061118.html
+
+
+Regarding Alison, the process has now started and let it play out to it's n=
+atural conclusion. In my 9 years as school board President and 6 months as =
+mayor I have yet not lost a vote and I am not about to start now. I have yo=
+ur back. Please don't get worked up and let me handle it :)
+
+Thanks
+
+Hemant
+
+________________________________________
+From: Aderhold, David [David.Aderhold@ww-p.org]
+Sent: Thursday, June 14, 2018 12:27 PM
+To: Hemant Marathe; Fleres, Anthony
+Subject: FW: Request for Attendance at Council Meeting to Discuss Class III=
+ Officers
+
+FYI
+
+Hemant,
+
+If the council thinks I am going to allow them to disparage the police of e=
+ither community or the school district they are mistaken.
+
+I trust you will keep this professional.
+
+I will not play their politics and I will say what needs to be said very pu=
+blically if the council steps out of line.
+
+Further, I strongly recommend that Alice recuses herself from questions.
+
+Dave
+
+From: Aderhold, David
+Sent: Thursday, June 14, 2018 12:25 PM
+To: 'Gay Huber'
+Subject: RE: Request for Attendance at Council Meeting to Discuss Class III=
+ Officers
+
+Gay,
+
+Good Afternoon.  I will be present on June 25th for a discussion on Class I=
+II Officers as the Board of Education will be formally voting on the Shared=
+ Service Agreement on June 26th.  Mark Lee and Tony Fleres will be with me.
+
+In order to prepare for the presentation I would ask that I receive questio=
+ns no later than Wednesday, June 20th.  With multiple graduations next week=
+ I will need time to prepare.
+
+Sincerely,
+
+Dave
+
+From: Gay Huber [mailto:ghuber@westwindsortwp.com]
+Sent: Thursday, June 14, 2018 10:38 AM
+To: Aderhold, David
+Subject: Request for Attendance at Council Meeting to Discuss Class III Off=
+icers
+
+Dear Dr. Aderhold:
+
+The Township Council would like to invite you to attend either their June 2=
+5th or July 9th Council meeting to discuss the Class III Officers for the W=
+est Windsor Schools.  They are currently complying questions which will be =
+sent to you prior to the meeting.  Our meetings start at 7:00 p.m.
+
+If you could please let me know at your earliest convenience which of these=
+ dates will work for you I would appreciate it.
+
+Thanks.
+
+Gay
+
+Ms. Gay M. Huber
+Deputy Township Clerk
+West Windsor Township
+609-799-2400 ext. 213
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+ =20
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act.  As such, any email sent or received by the =
+Township may be subject to a records request.
+

@@ -1,0 +1,721 @@
+Received: from WWTExch2012.Westwindsortwp.local ([::1]) by
+ WWTExch2012.Westwindsortwp.local ([::1]) with mapi id 14.01.0218.012; Thu, 21
+ Jun 2018 09:44:41 -0400
+From: <hmarathe@WestWindsorTwp.com>
+To: <David.Aderhold@ww-p.org>
+Subject: Re: Questions for WWPD and Dr. Aderhold
+Thread-Topic: Questions for WWPD and Dr. Aderhold
+Thread-Index: AQHUCNf3fYbA5Jybj0iFlPVyCrEKzaRp4nCA//+9PRCAAAYdkIAAAIfggAAAbbCAAAItYIAAAKMAgAD47QCAABfXOg==
+Date: Thu, 21 Jun 2018 13:44:41 +0000
+Message-ID: <EFBE01D3-0CC7-4C3E-95E7-98755E75D1EC@WestWindsorTwp.com>
+References: <CAHLFm8m-ZTihVwLp6-qqL5NNTtuOJf7U95LKGRUXmVa66+7Bow@mail.gmail.com>
+ <CAHLFm8=xK1QNHSN-JT11nEZ6nU_XjUzeX1BguvibmA0RR+j1pA@mail.gmail.com>
+ <98E441CFB9DE4F42AA864F9ED21028B5016F6AC516@wwp-exchange3.westwindsor.k12.nj.us>
+ <808931D0A18FC74390BADDB58A30CF6003490177DC@WWTExch2012.Westwindsortwp.local>
+ <98E441CFB9DE4F42AA864F9ED21028B5016F6AC649@wwp-exchange3.westwindsor.k12.nj.us>
+ <808931D0A18FC74390BADDB58A30CF600349017856@WWTExch2012.Westwindsortwp.local>
+ <98E441CFB9DE4F42AA864F9ED21028B5016F6AC78C@wwp-exchange3.westwindsor.k12.nj.us>
+ <808931D0A18FC74390BADDB58A30CF60034901789B@WWTExch2012.Westwindsortwp.local>,<98E441CFB9DE4F42AA864F9ED21028B5016F6ADB84@wwp-exchange3.westwindsor.k12.nj.us>
+In-Reply-To: <98E441CFB9DE4F42AA864F9ED21028B5016F6ADB84@wwp-exchange3.westwindsor.k12.nj.us>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-ms-exchange-organization-originalsize: 25104
+x-ms-exchange-organization-originalarrivaltime: 21 Jun 2018 13:44:41.2969
+ (UTC)
+x-ms-exchange-organization-messagesource: StoreDriver
+x-ms-exchange-organization-messagedirectionality: Originating
+x-ms-exchange-forest-messagescope: 00000000-0000-0000-0000-000000000000
+x-ms-exchange-organization-messagescope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-BCC:
+x-ms-exchange-organization-messagelatency: SRV=WWTExch2012.Westwindsortwp.local:TOTAL=0
+x-ms-exchange-organization-hygienepolicy: Standard
+x-ms-exchange-organization-recipient-limit-verified: True
+x-ms-exchange-forest-rulesexecuted: WWTExch2012
+x-ms-exchange-organization-rules-execution-history: OPRA Disclaimer
+ Footer%%%Spam
+Content-Type: multipart/alternative;
+	boundary="_000_EFBE01D30CC74C3E95E798755E75D1ECWestWindsorTwpcom_"
+MIME-Version: 1.0
+
+--_000_EFBE01D30CC74C3E95E798755E75D1ECWestWindsorTwpcom_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Take your time. Let me know which questions pertain to you and you feel com=
+fortable handling. Mark and I will handle rest of the questions
+
+Sent from my iPhone
+
+On Jun 21, 2018, at 8:19 AM, Aderhold, David <David.Aderhold@ww-p.org<mailt=
+o:David.Aderhold@ww-p.org>> wrote:
+
+Give me a day or so to take a look.
+
+From: Hemant Marathe [mailto:hmarathe@WestWindsorTwp.com]
+Sent: Wednesday, June 20, 2018 5:30 PM
+To: Aderhold, David
+Subject: RE: Questions for WWPD and Dr. Aderhold
+
+I just put three set of questions in one document (Linda, Jyotika, Ayesha).=
+  It is attached. If you want to have a go at it first, I will wait till I =
+hear from you. Otherwise I was going to mark them which one I want to answe=
+r and same for two of you.
+
+Let me know what you want to do.
+
+Thanks
+
+Hemant
+
+From: Aderhold, David [mailto:David.Aderhold@ww-p.org]
+Sent: Wednesday, June 20, 2018 5:27 PM
+To: Hemant Marathe
+Subject: RE: Questions for WWPD and Dr. Aderhold
+
+I can prepare a list of responses to Linda and the council to address some =
+issues apart from council presentation to try to separate some of her topic=
+s
+
+From: Hemant Marathe [mailto:hmarathe@WestWindsorTwp.com]
+Sent: Wednesday, June 20, 2018 5:24 PM
+To: Aderhold, David
+Subject: RE: Questions for WWPD and Dr. Aderhold
+
+Virginia is okay with the program.  The only question Alison had was about =
+training and Ayesha asked the same question.
+
+Once Mark describes what training our police department does, I want to ans=
+wer the question about =93bias=94 etc. I don=92t want this to be a forum to=
+ bash police officers.
+
+I will request you to describe how the police will be used by school distri=
+ct and why you feel need for them. Let Mark describe what type of training =
+we offer the police officers and let me handle all other policy questions.
+
+If you feel the need we can meet on Monday at 3:30 p.m. to go over the ques=
+tions. I have a department head meeting starting at 2:30 which Mark will at=
+tend since the Chief is out. You can come over at 3:30 and we can finalize =
+who answers which questions.
+
+Thanks
+
+Hemant
+
+
+
+From: Aderhold, David [mailto:David.Aderhold@ww-p.org]
+Sent: Wednesday, June 20, 2018 5:17 PM
+To: Hemant Marathe
+Subject: RE: Questions for WWPD and Dr. Aderhold
+
+Mark and I are already working on this.
+
+The other two are not submitting questions as per Gay.
+
+
+From: Hemant Marathe [mailto:hmarathe@WestWindsorTwp.com]
+Sent: Wednesday, June 20, 2018 5:16 PM
+To: Aderhold, David
+Subject: RE: Questions for WWPD and Dr. Aderhold
+
+David,
+
+I am going to pull in questions from all three ladies so far and sort them =
+as to which I want you to answer and which I want Mark to answer and which =
+questions I will handle.  Enjoy graduation and we will talk tomorrow.
+
+Hemant
+
+
+
+From: Aderhold, David [mailto:David.Aderhold@ww-p.org]
+Sent: Wednesday, June 20, 2018 4:53 PM
+To: Hemant Marathe
+Subject: FW: Questions for WWPD and Dr. Aderhold
+
+FYI
+
+From: Ayesha Hamilton [mailto:ahamilton2537@gmail.com]
+Sent: Wednesday, June 20, 2018 4:52 PM
+To: Gay Huber; Ayesha Hamilton; Robert Garofalo; Mark Lee; Aderhold, David
+Subject: Re: Questions for WWPD and Dr. Aderhold
+
+Sorry-hit send too soon.
+
+1.  What specifically will the police officers be doing in the schools.  Th=
+e video from the SB presentation talks about fulfilling a counsellor functi=
+on-what training have these officers received for that role?
+
+2.  Detailed description of the type of training that the WWPD and/or schoo=
+l district will be providing to Class III officers to address issues of unc=
+onscious bias.  Will any kind of training be provided to address these issu=
+es and what will the scope of that training be?
+
+On Wed, Jun 20, 2018 at 4:47 PM, Ayesha Hamilton <ahamilton2537@gmail.com<m=
+ailto:ahamilton2537@gmail.com>> wrote:
+I preface these questions with the following statement:
+
+I am extremely supportive of our police department and am not opposed to ha=
+ving armed police officers in the schools.  My concern stems from two areas=
+-what will these officers be asked to do in the schools and how will these =
+officers be trained for their new role of interacting with children on a da=
+ily basis.
+
+1.
+
+2.Please provide me with a detailed description of the type of training tha=
+t the WWPD and/or the school district will be providing to any Class III of=
+ficer or employee hired by the WWPD.
+
+2.
+
+
+
+--
+Ayesha Hamilton, Esq.
+Councilwoman, West Windsor
+Attorney, Hamilton Law Firm, P.C.
+Cell. (215) 738-0222.
+
+
+
+
+
+--
+Ayesha Hamilton, Esq.
+Councilwoman, West Windsor
+Attorney, Hamilton Law Firm, P.C.
+Cell. (215) 738-0222.
+
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+  =AD=AD
+
+  =AD=AD
+
+  =AD=AD
+
+--_000_EFBE01D30CC74C3E95E798755E75D1ECWestWindsorTwpcom_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+</head>
+<body dir=3D"auto">
+Take your time. Let me know which questions pertain to you and you feel com=
+fortable handling. Mark and I will handle rest of the questions<br>
+<br>
+<div id=3D"AppleMailSignature">Sent from my iPhone</div>
+<div><br>
+On Jun 21, 2018, at 8:19 AM, Aderhold, David &lt;<a href=3D"mailto:David.Ad=
+erhold@ww-p.org">David.Aderhold@ww-p.org</a>&gt; wrote:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div>
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";}
+span.emailstyle18
+	{mso-style-name:emailstyle18;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.hoenzb
+	{mso-style-name:hoenzb;}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle23
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle24
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle25
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle26
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle27
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Give me a day or so to ta=
+ke a look.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Hemant M=
+arathe [<a href=3D"mailto:hmarathe@WestWindsorTwp.com">mailto:hmarathe@West=
+WindsorTwp.com</a>]
+<br>
+<b>Sent:</b> Wednesday, June 20, 2018 5:30 PM<br>
+<b>To:</b> Aderhold, David<br>
+<b>Subject:</b> RE: Questions for WWPD and Dr. Aderhold<o:p></o:p></span></=
+p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">I just put three set of q=
+uestions in one document (Linda, Jyotika, Ayesha). &nbsp;It is attached. If=
+ you want to have a go at it first, I will wait till I hear from
+ you. Otherwise I was going to mark them which one I want to answer and sam=
+e for two of you.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Let me know what you want=
+ to do.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Thanks<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Hemant
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Aderhold=
+, David [<a href=3D"mailto:David.Aderhold@ww-p.org">mailto:David.Aderhold@w=
+w-p.org</a>]
+<br>
+<b>Sent:</b> Wednesday, June 20, 2018 5:27 PM<br>
+<b>To:</b> Hemant Marathe<br>
+<b>Subject:</b> RE: Questions for WWPD and Dr. Aderhold<o:p></o:p></span></=
+p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">I can prepare a list of r=
+esponses to Linda and the council to address some issues apart from council=
+ presentation to try to separate some of her topics<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Hemant M=
+arathe [<a href=3D"mailto:hmarathe@WestWindsorTwp.com">mailto:hmarathe@West=
+WindsorTwp.com</a>]
+<br>
+<b>Sent:</b> Wednesday, June 20, 2018 5:24 PM<br>
+<b>To:</b> Aderhold, David<br>
+<b>Subject:</b> RE: Questions for WWPD and Dr. Aderhold<o:p></o:p></span></=
+p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Virginia is okay with the=
+ program. &nbsp;The only question Alison had was about training and Ayesha =
+asked the same question.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Once Mark describes what =
+training our police department does, I want to answer the question about =
+=93bias=94 etc. I don=92t want this to be a forum to bash police
+ officers. <o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">I will request you to des=
+cribe how the police will be used by school district and why you feel need =
+for them. Let Mark describe what type of training we offer
+ the police officers and let me handle all other policy questions. <o:p></o=
+:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">If you feel the need we c=
+an meet on Monday at 3:30 p.m. to go over the questions. I have a departmen=
+t head meeting starting at 2:30 which Mark will attend since
+ the Chief is out. You can come over at 3:30 and we can finalize who answer=
+s which questions.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Thanks<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Hemant<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Aderhold=
+, David [<a href=3D"mailto:David.Aderhold@ww-p.org">mailto:David.Aderhold@w=
+w-p.org</a>]
+<br>
+<b>Sent:</b> Wednesday, June 20, 2018 5:17 PM<br>
+<b>To:</b> Hemant Marathe<br>
+<b>Subject:</b> RE: Questions for WWPD and Dr. Aderhold<o:p></o:p></span></=
+p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Mark and I are already wo=
+rking on this.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">The other two are not sub=
+mitting questions as per Gay.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Hemant M=
+arathe [<a href=3D"mailto:hmarathe@WestWindsorTwp.com">mailto:hmarathe@West=
+WindsorTwp.com</a>]
+<br>
+<b>Sent:</b> Wednesday, June 20, 2018 5:16 PM<br>
+<b>To:</b> Aderhold, David<br>
+<b>Subject:</b> RE: Questions for WWPD and Dr. Aderhold<o:p></o:p></span></=
+p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">David,<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">I am going to pull in que=
+stions from all three ladies so far and sort them as to which I want you to=
+ answer and which I want Mark to answer and which questions
+ I will handle. &nbsp;Enjoy graduation and we will talk tomorrow.<o:p></o:p=
+></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">Hemant<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span><=
+/p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Aderhold=
+, David [<a href=3D"mailto:David.Aderhold@ww-p.org">mailto:David.Aderhold@w=
+w-p.org</a>]
+<br>
+<b>Sent:</b> Wednesday, June 20, 2018 4:53 PM<br>
+<b>To:</b> Hemant Marathe<br>
+<b>Subject:</b> FW: Questions for WWPD and Dr. Aderhold<o:p></o:p></span></=
+p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">FYI</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1F497D">&nbsp;</span><o:p></o:p><=
+/p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Ayesha H=
+amilton [<a href=3D"mailto:ahamilton2537@gmail.com">mailto:ahamilton2537@gm=
+ail.com</a>]
+<br>
+<b>Sent:</b> Wednesday, June 20, 2018 4:52 PM<br>
+<b>To:</b> Gay Huber; Ayesha Hamilton; Robert Garofalo; Mark Lee; Aderhold,=
+ David<br>
+<b>Subject:</b> Re: Questions for WWPD and Dr. Aderhold</span><o:p></o:p></=
+p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">Sorry-hit send too soon.<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">1.&nbsp; What specifically will the police officers =
+be doing in the schools.&nbsp; The video from the SB presentation talks abo=
+ut fulfilling a counsellor function-what training have these officers recei=
+ved for that role?&nbsp;&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">2.&nbsp; Detailed description of the type of trainin=
+g that the WWPD and/or school district will be providing to Class III offic=
+ers to address issues of unconscious bias.&nbsp; Will any kind of training =
+be provided to address these issues and what
+ will the scope of that training be?<o:p></o:p></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">On Wed, Jun 20, 2018 at 4:47 PM, Ayesha Hamilton &lt=
+;<a href=3D"mailto:ahamilton2537@gmail.com" target=3D"_blank">ahamilton2537=
+@gmail.com</a>&gt; wrote:<o:p></o:p></p>
+<div>
+<div>
+<p class=3D"MsoNormal">I preface these questions with the following stateme=
+nt:<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">I am extremely supportive of our police department a=
+nd am not opposed to having armed police officers in the schools.&nbsp; My =
+concern stems from two areas-what will these officers be asked to do in the=
+ schools and how will these officers be
+ trained for their new role of interacting with children on a daily basis.<=
+o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal">1.&nbsp;&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">2.Please provide me with a detailed description of t=
+he type of training that the WWPD and/or the school district will be provid=
+ing to any Class III officer or employee hired by the WWPD.<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">2.&nbsp;&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#888888"><br clear=3D"all">
+</span><o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#888888">&nbsp;</span><o:p></o:=
+p></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:#888888">-- </span><o:p></o:p><=
+/p>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#888888">Ayesha Hamilton, Esq.<=
+/span><o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#888888">Councilwoman, West Win=
+dsor</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#888888">Attorney, Hamilton Law=
+ Firm, P.C.</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#888888">Cell. (215) 738-0222.<=
+/span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#888888">&nbsp;</span><o:p></o:=
+p></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#888888">&nbsp;</span><o:p></o:=
+p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class=3D"MsoNormal"><br>
+<br clear=3D"all">
+<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal">-- <o:p></o:p></p>
+<div>
+<div>
+<p class=3D"MsoNormal">Ayesha Hamilton, Esq.<o:p></o:p></p>
+<div>
+<p class=3D"MsoNormal">Councilwoman, West Windsor<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">Attorney, Hamilton Law Firm, P.C.<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">Cell. (215) 738-0222.<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class=3D"MsoNormal">Please be advised that the Township of West Windsor =
+is subject to the New Jersey Open Public Records Act. As such, any email se=
+nt or received by the Township may be subject to a records request.
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><br>
+&nbsp;&nbsp;=AD=AD&nbsp;&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><br>
+&nbsp;&nbsp;=AD=AD&nbsp;&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><br>
+&nbsp;&nbsp;=AD=AD&nbsp;&nbsp;<o:p></o:p></p>
+</div>
+</div>
+</blockquote>
+</body>
+</html>
+
+--_000_EFBE01D30CC74C3E95E798755E75D1ECWestWindsorTwpcom_--
+

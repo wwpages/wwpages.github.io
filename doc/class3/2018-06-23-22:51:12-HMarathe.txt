@@ -1,0 +1,536 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Sat, 23 Jun 2018 22:51:13 -0400
+X-ASG-Debug-ID: 1529808673-0eddee178646dd0001-zmm0Mu
+Received: from omr-m008e.mx.aol.com (omr-m008e.mx.aol.com [204.29.186.7]) by
+ BCSpam300.westwindsortwp.local with ESMTP id BU5ePBjPUWa0ckjh for
+ <hmarathe@WestWindsorTwp.com>; Sat, 23 Jun 2018 22:51:13 -0400 (EDT)
+X-Barracuda-Envelope-From: hmarathe@verizon.net
+X-Barracuda-Effective-Source-IP: omr-m008e.mx.aol.com[204.29.186.7]
+X-Barracuda-Apparent-Source-IP: 204.29.186.7
+Received: from mtaomg-maa02.mx.aol.com (mtaomg-maa02.mx.aol.com
+ [172.26.222.144])	by omr-m008e.mx.aol.com (Outbound Mail Relay) with ESMTP id
+ EA8B238000AC;	Sat, 23 Jun 2018 22:51:12 -0400 (EDT)
+Received: from core-mbx13a.mail.aol.com (core-mbx13.mail.aol.com
+ [10.75.22.132])	by mtaomg-maa02.mx.aol.com (OMAG/Core Interface) with ESMTP
+ id B007938000082;	Sat, 23 Jun 2018 22:51:12 -0400 (EDT)
+Received: from 173.72.6.18 by webjas-vae197.srv.aolmail.net (10.96.23.200)
+ with HTTP (WebMailUI); Sat, 23 Jun 2018 22:51:12 -0400
+Date: Sat, 23 Jun 2018 22:51:12 -0400
+From: <hmarathe@verizon.net>
+To: <David.Aderhold@ww-p.org>
+CC: <hmarathe@WestWindsorTwp.com>
+Message-ID: <1642fb3d689-c93-1f5e1@webjas-vae197.srv.aolmail.net>
+In-Reply-To: <88E63ADD-26D7-4681-9A6A-FA7D95BAD95D@ww-p.org>
+References: <88E63ADD-26D7-4681-9A6A-FA7D95BAD95D@ww-p.org>
+Subject: Re: Fwd: Shared Services Agreement Questions -
+MIME-Version: 1.0
+X-ASG-Orig-Subj: Re: Fwd: Shared Services Agreement Questions -
+Content-Type: multipart/alternative;
+	boundary="_aa92fe3c-c331-450a-9390-4e6ed98bcb90_"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS AolApp/5.3.5.7-Mac OS X (iPhone)
+X-Originating-IP: [173.72.6.18]
+x-aol-global-disposition: G
+x-aol-sid: 3039ac1ade905b2f07206a7c
+X-Barracuda-Connect: omr-m008e.mx.aol.com[204.29.186.7]
+X-Barracuda-Start-Time: 1529808673
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 21836
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=BSF_SC0_MISMATCH_TO, HTML_MESSAGE, NO_REAL_NAME
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.52284
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 NO_REAL_NAME           From: does not include a real name
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 BSF_SC0_MISMATCH_TO    Envelope rcpt doesn't match header
+Return-Path: hmarathe@verizon.net
+X-MS-Exchange-Organization-OriginalArrivalTime: 24 Jun 2018 02:51:13.9878
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 26138
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Organization-Disclaimer-Hash:
+ 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_aa92fe3c-c331-450a-9390-4e6ed98bcb90_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Yes it was received. I will read the other survey and text you tomorrow
+
+Sent from AOL Mobile Mail
+
+On Saturday, June 23, 2018, Aderhold, David <David.Aderhold@ww-p.org<mailto=
+:David.Aderhold@ww-p.org>> wrote:
+
+Please confirm this was received on Friday
+
+I received no confirmation or acknowledgment from anyone
+
+Thanks
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+From: "Aderhold, David" <David.Aderhold@ww-p.org<mailto:David.Aderhold@ww-p=
+.org>>
+Date: June 22, 2018 at 4:32:29 PM EDT
+To: 'Linda Geevers' <lgeevers@WestWindsorTwp.com<mailto:lgeevers@WestWindso=
+rTwp.com>>, "Alison Miller (amiller@WestWindsorTwp.com<mailto:amiller@WestW=
+indsorTwp.com>)" <amiller@WestWindsorTwp.com<mailto:amiller@WestWindsorTwp.=
+com>>, 'Jyotika Bahree' <jbahree@WestWindsorTwp.com<mailto:jbahree@WestWind=
+sorTwp.com>>, MAYOR'SOFFICE <Mayor'sOffice@WestWindsorTwp.com<mailto:Mayor'=
+sOffice@WestWindsorTwp.com>>, Council <Council@WestWindsorTwp.com<mailto:Co=
+uncil@WestWindsorTwp.com>>, Marlena Schmid <mschmid@westwindsortwp.com<mail=
+to:mschmid@westwindsortwp.com>>, "Garofalo@westwindsorpolice.com<mailto:Gar=
+ofalo@westwindsorpolice.com>" <Garofalo@westwindsorpolice.com<mailto:Garofa=
+lo@westwindsorpolice.com>>, "Mark Lee (Police)" <lee@westwindsorpolice.com<=
+mailto:lee@westwindsorpolice.com>>, "'ahamilton@WestWindsorTWP.com<mailto:a=
+hamilton@WestWindsorTWP.com>'" <ahamilton@WestWindsorTWP.com<mailto:ahamilt=
+on@WestWindsorTWP.com>>, "'vmanzari@WestWindsorTwp.com<mailto:vmanzari@West=
+WindsorTwp.com>'" <vmanzari@WestWindsorTwp.com<mailto:vmanzari@WestWindsorT=
+wp.com>>, "'Ayesha Hamilton West Windsor, NJ'" <ahamilton@ahlawpc.com<mailt=
+o:ahamilton@ahlawpc.com>>, "Hemant Marathe (hmarathe@WestWindsorTwp.com<mai=
+lto:hmarathe@WestWindsorTwp.com>)" <hmarathe@WestWindsorTwp.com<mailto:hmar=
+athe@WestWindsorTwp.com>>
+Cc: Sharon Young <Syoung@WestWindsorTwp.com<mailto:Syoung@WestWindsorTwp.co=
+m>>, Gay Huber <ghuber@westwindsortwp.com<mailto:ghuber@westwindsortwp.com>=
+>, "Fleres, Anthony" <anthony.fleres@ww-p.org<mailto:anthony.fleres@ww-p.or=
+g>>, "Kaish, Michele" <Michele.Kaish@ww-p.org<mailto:Michele.Kaish@ww-p.org=
+>>
+Subject: Shared Services Agreement Questions -
+
+Good Afternoon,
+
+Thank you for the opportunity to present to the West Windsor Township Counc=
+il on Monday evening.  Lt. Lee and I look forward to the opportunity to dis=
+cuss the questions provided.
+
+In an attempt to honor everyone=E2=80=99s time on Monday evening, I have cr=
+eated a series of answers to most of the questions provided.  As many quest=
+ions referenced management and administrative oversight matters, I thought =
+it best to provide responses in advance.  I trust the attached answers will=
+ provide clarity to the questions as answered.  Please let me know if addit=
+ional information is needed.
+
+Further, there were three questions that I believe are better answered duri=
+ng the presentation.
+
+Outline of Presentation for Monday:
+
+
+1.   Overview of Process and Recommendation
+
+a.       Discuss the =E2=80=9CWHY=E2=80=9D
+
+b.      SLEO III vs. SRO vs. Private Security
+
+c.       Memorandum of Agreement with Law Enforcement
+
+d.      Goals and Objectives
+
+e.       District Security
+
+f.       Not Compromising Our Standards
+
+
+
+2.   Hiring
+
+
+
+3.   Training
+
+a.       Field Training Officers
+
+b.      Active Shooter, De-Escalation, Use of Force, Blood Borne Pathogens,=
+ De-fib, Narcan, CPR, Bias, Special Needs Populations, First Aid
+
+c.       SRO
+
+
+
+4.   Responsibilities
+
+a.       Day to Day
+
+
+
+5.   Next Steps
+
+Additionally, I have provided a copy of the Shared Service Agreement that w=
+ill be voted upon by the Board of Education on Tuesday evening.  Lastly, I =
+have provide a copy of the budget that is inclusive of the cost of officers=
+, training, management/oversight, uniforms, and equipment.
+
+My thanks and appreciation for your time and attention to the safety and se=
+curity of our students and staff.
+
+Sincerely,
+
+Dave
+
+David M. Aderhold, Ed.D.
+Superintendent of Schools
+West Windsor =E2=80=93 Plainsboro Regional School District
+(609)716-5000 x5040<tel:(609)716-5000;5040>
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_aa92fe3c-c331-450a-9390-4e6ed98bcb90_
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+Yes it was received. I will read the other survey and text you tomorrow&nbs=
+p;<br>
+<br>
+<div id=3D"__aol_mail_signature__">Sent from AOL Mobile Mail</div>
+<br>
+<div class=3D"aolmail_replyHeader">On&nbsp;Saturday, June 23, 2018,&nbsp;Ad=
+erhold, David&nbsp;&lt;<a dir=3D"ltr" href=3D"mailto:David.Aderhold@ww-p.or=
+g">David.Aderhold@ww-p.org</a>&gt;&nbsp;wrote:
+</div>
+<br>
+<blockquote style=3D"margin:0 0 0 9px; padding:0 0 0 9px">
+<div id=3D"AOLMsgPart_1.2_d7698c52-fdf1-4eb8-89e1-e7ad0bac5d3d">
+<div dir=3D"auto" class=3D"aolReplacedBody">Please confirm this was receive=
+d on Friday
+<div><br>
+</div>
+<div>I received no confirmation or acknowledgment from anyone</div>
+<div><br>
+</div>
+<div>Thanks&nbsp;<br>
+<br>
+<div id=3D"AppleMailSignature">Sent from my iPhone</div>
+<div><br>
+Begin forwarded message:<br>
+<br>
+</div>
+<blockquote>
+<div><b>From:</b> &quot;Aderhold, David&quot; &lt;<a href=3D"mailto:David.A=
+derhold@ww-p.org" target=3D"_blank">David.Aderhold@ww-p.org</a>&gt;<br>
+<b>Date:</b> June 22, 2018 at 4:32:29 PM EDT<br>
+<b>To:</b> 'Linda Geevers' &lt;<a href=3D"mailto:lgeevers@WestWindsorTwp.co=
+m" target=3D"_blank">lgeevers@WestWindsorTwp.com</a>&gt;, &quot;Alison Mill=
+er (<a href=3D"mailto:amiller@WestWindsorTwp.com" target=3D"_blank">amiller=
+@WestWindsorTwp.com</a>)&quot; &lt;<a href=3D"mailto:amiller@WestWindsorTwp=
+.com" target=3D"_blank">amiller@WestWindsorTwp.com</a>&gt;,
+ 'Jyotika Bahree' &lt;<a href=3D"mailto:jbahree@WestWindsorTwp.com" target=
+=3D"_blank">jbahree@WestWindsorTwp.com</a>&gt;, MAYOR'SOFFICE &lt;<a href=
+=3D"mailto:Mayor'sOffice@WestWindsorTwp.com" target=3D"_blank">Mayor'sOffic=
+e@WestWindsorTwp.com</a>&gt;, Council &lt;<a href=3D"mailto:Council@WestWin=
+dsorTwp.com" target=3D"_blank">Council@WestWindsorTwp.com</a>&gt;,
+ Marlena Schmid &lt;<a href=3D"mailto:mschmid@westwindsortwp.com" target=3D=
+"_blank">mschmid@westwindsortwp.com</a>&gt;, &quot;<a href=3D"mailto:Garofa=
+lo@westwindsorpolice.com" target=3D"_blank">Garofalo@westwindsorpolice.com<=
+/a>&quot; &lt;<a href=3D"mailto:Garofalo@westwindsorpolice.com" target=3D"_=
+blank">Garofalo@westwindsorpolice.com</a>&gt;,
+ &quot;Mark Lee (Police)&quot; &lt;<a href=3D"mailto:lee@westwindsorpolice.=
+com" target=3D"_blank">lee@westwindsorpolice.com</a>&gt;, &quot;'<a href=3D=
+"mailto:ahamilton@WestWindsorTWP.com" target=3D"_blank">ahamilton@WestWinds=
+orTWP.com</a>'&quot; &lt;<a href=3D"mailto:ahamilton@WestWindsorTWP.com" ta=
+rget=3D"_blank">ahamilton@WestWindsorTWP.com</a>&gt;,
+ &quot;'<a href=3D"mailto:vmanzari@WestWindsorTwp.com" target=3D"_blank">vm=
+anzari@WestWindsorTwp.com</a>'&quot; &lt;<a href=3D"mailto:vmanzari@WestWin=
+dsorTwp.com" target=3D"_blank">vmanzari@WestWindsorTwp.com</a>&gt;, &quot;'=
+Ayesha Hamilton West Windsor, NJ'&quot; &lt;<a href=3D"mailto:ahamilton@ahl=
+awpc.com" target=3D"_blank">ahamilton@ahlawpc.com</a>&gt;,
+ &quot;Hemant Marathe (<a href=3D"mailto:hmarathe@WestWindsorTwp.com" targe=
+t=3D"_blank">hmarathe@WestWindsorTwp.com</a>)&quot; &lt;<a href=3D"mailto:h=
+marathe@WestWindsorTwp.com" target=3D"_blank">hmarathe@WestWindsorTwp.com</=
+a>&gt;<br>
+<b>Cc:</b> Sharon Young &lt;<a href=3D"mailto:Syoung@WestWindsorTwp.com" ta=
+rget=3D"_blank">Syoung@WestWindsorTwp.com</a>&gt;, Gay Huber &lt;<a href=3D=
+"mailto:ghuber@westwindsortwp.com" target=3D"_blank">ghuber@westwindsortwp.=
+com</a>&gt;, &quot;Fleres, Anthony&quot; &lt;<a href=3D"mailto:anthony.fler=
+es@ww-p.org" target=3D"_blank">anthony.fleres@ww-p.org</a>&gt;,
+ &quot;Kaish, Michele&quot; &lt;<a href=3D"mailto:Michele.Kaish@ww-p.org" t=
+arget=3D"_blank">Michele.Kaish@ww-p.org</a>&gt;<br>
+<b>Subject:</b> <b>Shared Services Agreement Questions - </b><br>
+<br>
+</div>
+</blockquote>
+<div><span></span></div>
+<blockquote>
+<div><style>
+<!--
+@font-face
+	{font-family:SimSun}
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:"\@SimSun"}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif"}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif"}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif"}
+span.emailstyle17
+	{font-family:"Calibri","sans-serif";
+	color:windowtext}
+span.EmailStyle19
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+.MsoChpDefault
+	{font-size:10.0pt;
+	font-family:"Calibri","sans-serif"}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.WordSection1
+	{}
+ol
+	{margin-bottom:0in}
+ul
+	{margin-bottom:0in}
+-->
+</style>
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">Good Afternoon,</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">Thank you for the opportunity to pr=
+esent to the West Windsor Township Council on Monday evening.&nbsp; Lt. Lee=
+ and I look forward to the opportunity to discuss the questions
+ provided.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">In an attempt to honor everyone=E2=
+=80=99s time on Monday evening, I have created a series of answers to most =
+of the questions provided. &nbsp;As many questions referenced management
+ and administrative oversight matters, I thought it best to provide respons=
+es in advance.&nbsp; I trust the attached answers will provide clarity to t=
+he questions as answered.&nbsp; Please let me know if additional informatio=
+n is needed.&nbsp;
+</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">Further, there were three questions=
+ that I believe are better answered during the presentation.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><b><u><span style=3D"font-size:12.0pt; font-family:&=
+quot;Times New Roman&quot;,&quot;serif&quot;">Outline of Presentation for M=
+onday:</span></u></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.25in; text-indent:-.25i=
+n"><b><span style=3D"font-size:18.0pt; font-family:&quot;Times New Roman&qu=
+ot;,&quot;serif&quot;"><span style=3D"">1.<span style=3D"font:7.0pt &quot;T=
+imes New Roman&quot;">&nbsp;&nbsp;
+</span></span></span></b><span dir=3D"LTR"></span><span style=3D"font-size:=
+12.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Overview=
+ of Process and Recommendation</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.75in; text-indent:-.25i=
+n"><span style=3D"font-size:12.0pt; font-family:&quot;Times New Roman&quot;=
+,&quot;serif&quot;"><span style=3D"">a.<span style=3D"font:7.0pt &quot;Time=
+s New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir=3D"LTR"></span><span style=3D"font-size:12.0=
+pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Discuss the =
+=E2=80=9CWHY=E2=80=9D</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.75in; text-indent:-.25i=
+n"><span style=3D"font-size:12.0pt; font-family:&quot;Times New Roman&quot;=
+,&quot;serif&quot;"><span style=3D"">b.<span style=3D"font:7.0pt &quot;Time=
+s New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir=3D"LTR"></span><span style=3D"font-size:12.0=
+pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SLEO III vs.=
+ SRO vs. Private Security
+</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.75in; text-indent:-.25i=
+n"><span style=3D"font-size:12.0pt; font-family:&quot;Times New Roman&quot;=
+,&quot;serif&quot;"><span style=3D"">c.<span style=3D"font:7.0pt &quot;Time=
+s New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir=3D"LTR"></span><span style=3D"font-size:12.0=
+pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Memorandum o=
+f Agreement with Law Enforcement</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.75in; text-indent:-.25i=
+n"><span style=3D"font-size:12.0pt; font-family:&quot;Times New Roman&quot;=
+,&quot;serif&quot;"><span style=3D"">d.<span style=3D"font:7.0pt &quot;Time=
+s New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir=3D"LTR"></span><span style=3D"font-size:12.0=
+pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Goals and Ob=
+jectives</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.75in; text-indent:-.25i=
+n"><span style=3D"font-size:12.0pt; font-family:&quot;Times New Roman&quot;=
+,&quot;serif&quot;"><span style=3D"">e.<span style=3D"font:7.0pt &quot;Time=
+s New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir=3D"LTR"></span><span style=3D"font-size:12.0=
+pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">District Sec=
+urity
+</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.75in; text-indent:-.25i=
+n"><span style=3D"font-size:12.0pt; font-family:&quot;Times New Roman&quot;=
+,&quot;serif&quot;"><span style=3D"">f.<span style=3D"font:7.0pt &quot;Time=
+s New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir=3D"LTR"></span><span style=3D"font-size:12.0=
+pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Not Compromi=
+sing Our Standards</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.75in"><span style=3D"fo=
+nt-size:12.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">=
+&nbsp;</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.25in; text-indent:-.25i=
+n"><b><span style=3D"font-size:18.0pt; font-family:&quot;Times New Roman&qu=
+ot;,&quot;serif&quot;"><span style=3D"">2.<span style=3D"font:7.0pt &quot;T=
+imes New Roman&quot;">&nbsp;&nbsp;
+</span></span></span></b><span dir=3D"LTR"></span><span style=3D"font-size:=
+12.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Hiring</=
+span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.25in"><span style=3D"fo=
+nt-size:12.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">=
+&nbsp;</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.25in; text-indent:-.25i=
+n"><b><span style=3D"font-size:18.0pt; font-family:&quot;Times New Roman&qu=
+ot;,&quot;serif&quot;"><span style=3D"">3.<span style=3D"font:7.0pt &quot;T=
+imes New Roman&quot;">&nbsp;&nbsp;
+</span></span></span></b><span dir=3D"LTR"></span><span style=3D"font-size:=
+12.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Training=
+</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.75in; text-indent:-.25i=
+n"><span style=3D"font-size:12.0pt; font-family:&quot;Times New Roman&quot;=
+,&quot;serif&quot;"><span style=3D"">a.<span style=3D"font:7.0pt &quot;Time=
+s New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir=3D"LTR"></span><span style=3D"font-size:12.0=
+pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Field Traini=
+ng Officers</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.75in; text-indent:-.25i=
+n"><span style=3D"font-size:12.0pt; font-family:&quot;Times New Roman&quot;=
+,&quot;serif&quot;"><span style=3D"">b.<span style=3D"font:7.0pt &quot;Time=
+s New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir=3D"LTR"></span><span style=3D"font-size:12.0=
+pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Active Shoot=
+er, De-Escalation, Use of Force, Blood Borne Pathogens, De-fib, Narcan, CPR=
+, Bias, Special Needs Populations, First Aid</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.75in; text-indent:-.25i=
+n"><span style=3D"font-size:12.0pt; font-family:&quot;Times New Roman&quot;=
+,&quot;serif&quot;"><span style=3D"">c.<span style=3D"font:7.0pt &quot;Time=
+s New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir=3D"LTR"></span><span style=3D"font-size:12.0=
+pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SRO</span></=
+p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.25in"><span style=3D"fo=
+nt-size:12.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">=
+&nbsp;</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.25in; text-indent:-.25i=
+n"><b><span style=3D"font-size:18.0pt; font-family:&quot;Times New Roman&qu=
+ot;,&quot;serif&quot;"><span style=3D"">4.<span style=3D"font:7.0pt &quot;T=
+imes New Roman&quot;">&nbsp;&nbsp;
+</span></span></span></b><span dir=3D"LTR"></span><span style=3D"font-size:=
+12.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Responsi=
+bilities</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.75in; text-indent:-.25i=
+n"><span style=3D"font-size:12.0pt; font-family:&quot;Times New Roman&quot;=
+,&quot;serif&quot;"><span style=3D"">a.<span style=3D"font:7.0pt &quot;Time=
+s New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir=3D"LTR"></span><span style=3D"font-size:12.0=
+pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Day to Day
+</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.25in"><span style=3D"fo=
+nt-size:12.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">=
+&nbsp;</span></p>
+<p class=3D"MsoListParagraph" style=3D"margin-left:.25in; text-indent:-.25i=
+n"><b><span style=3D"font-size:18.0pt; font-family:&quot;Times New Roman&qu=
+ot;,&quot;serif&quot;"><span style=3D"">5.<span style=3D"font:7.0pt &quot;T=
+imes New Roman&quot;">&nbsp;&nbsp;
+</span></span></span></b><span dir=3D"LTR"></span><span style=3D"font-size:=
+12.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Next Ste=
+ps</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">Additionally, I have provided a cop=
+y of the Shared Service Agreement that will be voted upon by the Board of E=
+ducation on Tuesday evening.&nbsp; Lastly, I have provide a copy
+ of the budget that is inclusive of the cost of officers, training, managem=
+ent/oversight, uniforms, and equipment.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">My thanks and appreciation for your=
+ time and attention to the safety and security of our students and staff.</=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;"><br>
+Sincerely, <br>
+<br>
+Dave &nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:14.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt">David M. Aderhol=
+d, Ed.D.</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt">Superintendent o=
+f Schools</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt">West Windsor =E2=
+=80=93 Plainsboro Regional School District</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt"><a dir=3D"ltr" h=
+ref=3D"tel:(609)716-5000;5040">(609)716-5000 x5040</a></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">&nbsp;</span></p>
+</div>
+</div>
+</blockquote>
+<blockquote>
+<div></div>
+</blockquote>
+</div>
+</div>
+</div>
+</blockquote>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_aa92fe3c-c331-450a-9390-4e6ed98bcb90_--
+

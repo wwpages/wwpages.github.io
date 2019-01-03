@@ -1,0 +1,395 @@
+Received: from WWTExch2012.Westwindsortwp.local ([::1]) by
+ WWTExch2012.Westwindsortwp.local ([::1]) with mapi id 14.01.0218.012; Wed, 25
+ Apr 2018 13:23:59 -0400
+From: <crhymer@WestWindsorTwp.com>
+To: <David.Aderhold@ww-p.org>
+Subject: RE: Class III Police Officers
+Thread-Topic: Class III Police Officers
+Thread-Index: AdPcN1xLSCbqygVaTIeT030kpeSBaAAWuWlAAAlkmGAAADsCUAAAWnww
+Date: Wed, 25 Apr 2018 17:23:58 +0000
+Message-ID: <0729EF2B56D31841B7820A319E79EC3C031FAAA286@WWTExch2012.Westwindsortwp.local>
+References: <98E441CFB9DE4F42AA864F9ED21028B5016F4A5382@wwp-exchange2b.westwindsor.k12.nj.us>
+ <129309D3AFB01A42BCB4FB6A4E8C58C5343DBB0D@PTEXCH1.plainsboronj.com>
+ <0729EF2B56D31841B7820A319E79EC3C031FAAA20C@WWTExch2012.Westwindsortwp.local>
+ <98E441CFB9DE4F42AA864F9ED21028B5016F4A7F27@wwp-exchange2b.westwindsor.k12.nj.us>
+In-Reply-To: <98E441CFB9DE4F42AA864F9ED21028B5016F4A7F27@wwp-exchange2b.westwindsor.k12.nj.us>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-ms-exchange-organization-originalsize: 14600
+x-ms-exchange-organization-originalarrivaltime: 25 Apr 2018 17:23:58.1867
+ (UTC)
+x-ms-exchange-organization-messagesource: StoreDriver
+x-ms-exchange-organization-messagedirectionality: Originating
+x-ms-exchange-forest-messagescope: 00000000-0000-0000-0000-000000000000
+x-ms-exchange-organization-messagescope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-BCC:
+x-ms-exchange-organization-originalclientipaddress: 10.11.13.85
+x-originating-ip: [10.11.13.85]
+x-ms-exchange-organization-originalserveripaddress: ::1
+x-ms-exchange-organization-messagelatency: SRV=WWTExch2012.Westwindsortwp.local:TOTAL=1|MSSN=1
+x-ms-exchange-organization-hygienepolicy: Standard
+x-ms-exchange-organization-recipient-limit-verified: True
+x-ms-exchange-forest-rulesexecuted: WWTExch2012
+x-ms-exchange-organization-rules-execution-history: OPRA Disclaimer
+ Footer%%%Spam
+Content-Type: multipart/alternative;
+	boundary="_000_0729EF2B56D31841B7820A319E79EC3C031FAAA286WWTExch2012We_"
+MIME-Version: 1.0
+
+--_000_0729EF2B56D31841B7820A319E79EC3C031FAAA286WWTExch2012We_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Is the address at 505 Village Road East?
+
+Cynthia Rhymer
+Assistant to Marlena Schmid
+Business Administrator
+West Windsor Township
+
+From: Aderhold, David [mailto:David.Aderhold@ww-p.org]
+Sent: Wednesday, April 25, 2018 1:14 PM
+To: Cynthia Rhymer; 'Cancro, Anthony'; Marlena Schmid; Joanne Louth; Russo,=
+ Christopher
+Cc: Armour, Guy; Tavener, Fred; Mark Lee (Police); Rob Garofalo
+Subject: RE: Class III Police Officers
+
+Thank you
+
+From: Cynthia Rhymer [mailto:crhymer@WestWindsorTwp.com]
+Sent: Wednesday, April 25, 2018 1:09 PM
+To: 'Cancro, Anthony'; Aderhold, David; Marlena Schmid; Joanne Louth; Russo=
+, Christopher
+Cc: Armour, Guy; Tavener, Fred; Mark Lee (Police); Rob Garofalo
+Subject: RE: Class III Police Officers
+
+Hi,
+
+Marlena Schmid, Business Administraor and Joanne Louth, Chief Financial Off=
+icer of West Windsor Township will be attending on Monday, April 30, 2018 a=
+t 2:30pm.
+
+Cynthia Rhymer
+Assistant to Marlena Schmid
+Business Administrator
+West Windsor Township
+
+From: Cancro, Anthony [mailto:acancro@plainsboronj.com]
+Sent: Wednesday, April 25, 2018 8:35 AM
+To: Aderhold, David; Marlena Schmid; Russo, Christopher
+Cc: Armour, Guy; Tavener, Fred; Mark Lee (Police); Rob Garofalo
+Subject: RE: Class III Police Officers
+
+Dave- Lt Tavener and I are available on 4/30 @ 230.   Anthony
+
+From: Aderhold, David [mailto:David.Aderhold@ww-p.org]
+Sent: Tuesday, April 24, 2018 9:47 PM
+To: Marlena Schmid <mschmid@westwindsortwp.com<mailto:mschmid@westwindsortw=
+p.com>>; Russo, Christopher <Christopher.Russo@ww-p.org<mailto:Christopher.=
+Russo@ww-p.org>>; Cancro, Anthony <acancro@plainsboronj.com<mailto:acancro@=
+plainsboronj.com>>
+Cc: Armour, Guy <garmour@plainsboropolice.com<mailto:garmour@plainsboropoli=
+ce.com>>; Tavener, Fred <ftavener@plainsboropolice.com<mailto:ftavener@plai=
+nsboropolice.com>>; 'Mark Lee' <lee@westwindsorpolice.com<mailto:lee@westwi=
+ndsorpolice.com>>; 'garfo@westwindsorpolice.com' <garfo@westwindsorpolice.c=
+om<mailto:garfo@westwindsorpolice.com>>
+Subject: Class III Police Officers
+
+Good Evening,
+
+Attached please find draft agreements and materials attained from North Bru=
+nswick Township as well as a draft excel chart for potential WWP Class III =
+expenses/budget.
+
+I would respectfully ask that we arrange a meeting with both police and bus=
+iness office representation to discuss a MOU and financial impact of Class =
+III Officers.
+
+Please let me know if you are able to attend a meeting on Monday, April 30t=
+h at 2:30 at the Board of Education Office.
+
+Sincerely,
+
+Dave
+
+David M. Aderhold
+Superintendent of Schools
+West Windsor - Plainsboro Regional School District
+(609)716-5000 x5040
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+ =20
+
+--_000_0729EF2B56D31841B7820A319E79EC3C031FAAA286WWTExch2012We_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Arial Black";
+	panose-1:2 11 10 4 2 1 2 2 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+span.emailstyle17
+	{mso-style-name:emailstyle17;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.emailstyle18
+	{mso-style-name:emailstyle18;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle23
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle24
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Is the address at 505 =
+Village Road East?<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<p class=3D"MsoNormal"><i><span style=3D"font-family:&quot;Arial Black&quot=
+;,&quot;sans-serif&quot;;color:#365F91">Cynthia Rhymer<o:p></o:p></span></i=
+></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-family:&quot;Arial Black&quot=
+;,&quot;sans-serif&quot;;color:#365F91">Assistant to Marlena Schmid<o:p></o=
+:p></span></i></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-family:&quot;Arial Black&quot=
+;,&quot;sans-serif&quot;;color:#365F91">Business Administrator<o:p></o:p></=
+span></i></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-family:&quot;Arial Black&quot=
+;,&quot;sans-serif&quot;;color:#365F91">West Windsor Township<o:p></o:p></s=
+pan></i></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Aderhold=
+, David [mailto:David.Aderhold@ww-p.org]
+<br>
+<b>Sent:</b> Wednesday, April 25, 2018 1:14 PM<br>
+<b>To:</b> Cynthia Rhymer; 'Cancro, Anthony'; Marlena Schmid; Joanne Louth;=
+ Russo, Christopher<br>
+<b>Cc:</b> Armour, Guy; Tavener, Fred; Mark Lee (Police); Rob Garofalo<br>
+<b>Subject:</b> RE: Class III Police Officers<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Thank you<o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Cynthia =
+Rhymer [<a href=3D"mailto:crhymer@WestWindsorTwp.com">mailto:crhymer@WestWi=
+ndsorTwp.com</a>]
+<br>
+<b>Sent:</b> Wednesday, April 25, 2018 1:09 PM<br>
+<b>To:</b> 'Cancro, Anthony'; Aderhold, David; Marlena Schmid; Joanne Louth=
+; Russo, Christopher<br>
+<b>Cc:</b> Armour, Guy; Tavener, Fred; Mark Lee (Police); Rob Garofalo<br>
+<b>Subject:</b> RE: Class III Police Officers<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Hi,<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Marlena Schmid, Busine=
+ss Administraor and Joanne Louth, Chief Financial Officer of West Windsor T=
+ownship will be attending on Monday, April 30, 2018 at 2:30pm.<o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<p class=3D"MsoNormal"><i><span style=3D"font-family:&quot;Arial Black&quot=
+;,&quot;sans-serif&quot;;color:#365F91">Cynthia Rhymer<o:p></o:p></span></i=
+></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-family:&quot;Arial Black&quot=
+;,&quot;sans-serif&quot;;color:#365F91">Assistant to Marlena Schmid<o:p></o=
+:p></span></i></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-family:&quot;Arial Black&quot=
+;,&quot;sans-serif&quot;;color:#365F91">Business Administrator<o:p></o:p></=
+span></i></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-family:&quot;Arial Black&quot=
+;,&quot;sans-serif&quot;;color:#365F91">West Windsor Township<o:p></o:p></s=
+pan></i></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Cancro, =
+Anthony [<a href=3D"mailto:acancro@plainsboronj.com">mailto:acancro@plainsb=
+oronj.com</a>]
+<br>
+<b>Sent:</b> Wednesday, April 25, 2018 8:35 AM<br>
+<b>To:</b> Aderhold, David; Marlena Schmid; Russo, Christopher<br>
+<b>Cc:</b> Armour, Guy; Tavener, Fred; Mark Lee (Police); Rob Garofalo<br>
+<b>Subject:</b> RE: Class III Police Officers<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Dave- Lt Tavener and I=
+ are available on 4/30 @ 230.&nbsp;&nbsp; Anthony
+</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&nbsp;</span><o:p></o:=
+p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Aderhold, David [<a href=3D"mailto:Davi=
+d.Aderhold@ww-p.org">mailto:David.Aderhold@ww-p.org</a>]
+<br>
+<b>Sent:</b> Tuesday, April 24, 2018 9:47 PM<br>
+<b>To:</b> Marlena Schmid &lt;<a href=3D"mailto:mschmid@westwindsortwp.com"=
+>mschmid@westwindsortwp.com</a>&gt;; Russo, Christopher &lt;<a href=3D"mail=
+to:Christopher.Russo@ww-p.org">Christopher.Russo@ww-p.org</a>&gt;; Cancro, =
+Anthony &lt;<a href=3D"mailto:acancro@plainsboronj.com">acancro@plainsboron=
+j.com</a>&gt;<br>
+<b>Cc:</b> Armour, Guy &lt;<a href=3D"mailto:garmour@plainsboropolice.com">=
+garmour@plainsboropolice.com</a>&gt;; Tavener, Fred &lt;<a href=3D"mailto:f=
+tavener@plainsboropolice.com">ftavener@plainsboropolice.com</a>&gt;; 'Mark =
+Lee' &lt;<a href=3D"mailto:lee@westwindsorpolice.com">lee@westwindsorpolice=
+.com</a>&gt;;
+ 'garfo@westwindsorpolice.com' &lt;<a href=3D"mailto:garfo@westwindsorpolic=
+e.com">garfo@westwindsorpolice.com</a>&gt;<br>
+<b>Subject:</b> Class III Police Officers<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Good Evening,<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Attached please find draft agreements and materials =
+attained from North Brunswick Township as well as a draft excel chart for p=
+otential WWP Class III expenses/budget.<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">I would respectfully ask that we arrange a meeting w=
+ith both police and business office representation to discuss a MOU and fin=
+ancial impact of Class III Officers.<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Please let me know if you are able to attend a meeti=
+ng on Monday, April 30<sup>th</sup> at 2:30 at the Board of Education Offic=
+e.<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Sincerely,<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Dave<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">David M. Aderhold</spa=
+n><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Superintendent of Scho=
+ols</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">West Windsor &#8211; P=
+lainsboro Regional School District</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">(609)716-5000 x5040</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,&quot;serif&quot;">Please be advised that the Township =
+of West Windsor is subject to the New Jersey Open Public Records Act. As su=
+ch, any email sent or received by the Township may be subject
+ to a records request. <o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,&quot;serif&quot;"><br>
+&nbsp;&nbsp;&shy;&shy;&nbsp;&nbsp;<o:p></o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_0729EF2B56D31841B7820A319E79EC3C031FAAA286WWTExch2012We_--
+

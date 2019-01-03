@@ -1,0 +1,142 @@
+Received: from WWTExch2012.Westwindsortwp.local ([::1]) by
+ WWTExch2012.Westwindsortwp.local ([::1]) with mapi id 14.01.0218.012; Thu, 14
+ Jun 2018 10:38:27 -0400
+From: <ghuber@westwindsortwp.com>
+To: <David.Aderhold@ww-p.org>
+Subject: Request for Attendance at Council Meeting to Discuss Class III
+ Officers
+Thread-Topic: Request for Attendance at Council Meeting to Discuss Class III
+ Officers
+Thread-Index: AdQD7OhMlxwywkbHThS40UNgHT/JlQ==
+Date: Thu, 14 Jun 2018 14:38:26 +0000
+Message-ID: <EF77C76C43914745AFC52B0A20593149033F1D0329@WWTExch2012.Westwindsortwp.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-ms-exchange-organization-originalsize: 6671
+x-ms-exchange-organization-originalarrivaltime: 14 Jun 2018 14:38:26.1031
+ (UTC)
+x-ms-exchange-organization-messagesource: StoreDriver
+x-ms-exchange-organization-messagedirectionality: Originating
+x-ms-exchange-forest-messagescope: 00000000-0000-0000-0000-000000000000
+x-ms-exchange-organization-messagescope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-BCC:
+x-ms-exchange-organization-originalclientipaddress: 10.11.13.63
+x-originating-ip: [10.11.13.63]
+x-ms-exchange-organization-originalserveripaddress: ::1
+x-ms-exchange-organization-messagelatency: SRV=WWTExch2012.Westwindsortwp.local:TOTAL=1|MSSN=1
+x-ms-exchange-organization-hygienepolicy: Standard
+x-ms-exchange-organization-recipient-limit-verified: True
+x-ms-exchange-organization-disclaimer-hash: 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+x-ms-exchange-forest-rulesexecuted: WWTExch2012
+x-ms-exchange-organization-rules-execution-history: OPRA Disclaimer
+ Footer%%%Spam
+Content-Type: multipart/alternative;
+	boundary="_000_EF77C76C43914745AFC52B0A20593149033F1D0329WWTExch2012We_"
+MIME-Version: 1.0
+
+--_000_EF77C76C43914745AFC52B0A20593149033F1D0329WWTExch2012We_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Dr. Aderhold:
+
+The Township Council would like to invite you to attend either their June 2=
+5th or July 9th Council meeting to discuss the Class III Officers for the W=
+est Windsor Schools.  They are currently complying questions which will be =
+sent to you prior to the meeting.  Our meetings start at 7:00 p.m.
+
+If you could please let me know at your earliest convenience which of these=
+ dates will work for you I would appreciate it.
+
+Thanks.
+
+Gay
+
+Ms. Gay M. Huber
+Deputy Township Clerk
+West Windsor Township
+609-799-2400 ext. 213
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_000_EF77C76C43914745AFC52B0A20593149033F1D0329WWTExch2012We_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<style>
+<!--
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:"Script MT Bold"}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif"}
+a:link, span.MsoHyperlink
+	{color:#0563C1;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline}
+span.EmailStyle17
+	{font-family:"Calibri","sans-serif";
+	color:windowtext}
+.MsoChpDefault
+	{font-family:"Calibri","sans-serif"}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.WordSection1
+	{}
+-->
+</style>
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Dear Dr. Aderhold:</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">The Township Council would like to invite you to att=
+end either their June 25<sup>th</sup> or July 9<sup>th</sup> Council meetin=
+g to discuss the Class III Officers for the West Windsor Schools.&nbsp; The=
+y are currently complying questions which
+ will be sent to you prior to the meeting.&nbsp; Our meetings start at 7:00=
+ p.m.</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">If you could please let me know at your earliest con=
+venience which of these dates will work for you I would appreciate it.</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">Thanks.</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">Gay </p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Script MT Bold&q=
+uot;; color:#0070C0">Ms. Gay M. Huber</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Script MT Bold&q=
+uot;; color:#0070C0">Deputy Township Clerk</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Script MT Bold&q=
+uot;; color:#0070C0">West Windsor Township</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Script MT Bold&q=
+uot;; color:#0070C0">609-799-2400 ext. 213</span></b></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+</div>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_000_EF77C76C43914745AFC52B0A20593149033F1D0329WWTExch2012We_--
+

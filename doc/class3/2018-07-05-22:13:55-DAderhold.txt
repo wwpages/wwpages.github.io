@@ -1,0 +1,178 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Thu, 5 Jul 2018 22:13:59 -0400
+X-ASG-Debug-ID: 1530843238-0eddee176417e30001-lp3Q2a
+Received: from esa1.hc2742-60.iphmx.com (esa1.hc2742-60.iphmx.com
+ [216.71.142.71]) by BCSpam300.westwindsortwp.local with ESMTP id
+ xfhqN2qxgwNoZSBv for <hmarathe@westwindsortwp.com>; Thu, 05 Jul 2018 22:13:58
+ -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: esa1.hc2742-60.iphmx.com[216.71.142.71]
+X-Barracuda-Apparent-Source-IP: 216.71.142.71
+Received: from ww-p.org (HELO WWP-WEbmail.westwindsor.k12.nj.us)
+ ([204.10.63.5])  by esa1.hc2742-60.iphmx.com with
+ ESMTP/TLS/DHE-RSA-AES256-SHA; 05 Jul 2018 22:13:57 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Thu, 5 Jul 2018
+ 22:13:57 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: Hemant Marathe <hmarathe@WestWindsorTwp.com>
+CC: Rob Garofalo <garfo@westwindsorpolice.com>, "Mark Lee (Police)"
+	<lee@westwindsorpolice.com>
+Subject: Re: Armed Police in WWP Schools
+Thread-Topic: Armed Police in WWP Schools
+X-ASG-Orig-Subj: Re: Armed Police in WWP Schools
+Thread-Index: AQHUFIqy7iUCfgtW8Um6RRDaYrw1AaSBAHnAgAAAarCAAAoG4oAAYHptgAAJg3w=
+Date: Fri, 6 Jul 2018 02:13:55 +0000
+Message-ID: <4A1725E6-A256-4748-90A4-1CBEC9EBCD17@ww-p.org>
+References: <CO2PR01MB1974209373725E0A2CC359E4C4400@CO2PR01MB1974.prod.exchangelabs.com>
+ <08496C729ADB09499C42967E1D7617C8342D6A1F@PTEXCH1.plainsboronj.com>,<129309D3AFB01A42BCB4FB6A4E8C58C5345CE61C@PTEXCH1.plainsboronj.com>,<A0AF1555-3FB4-4F8B-AF28-25202D489F06@ww-p.org>,<808931D0A18FC74390BADDB58A30CF600351B49E4A@WWTExch2012.Westwindsortwp.local>
+In-Reply-To: <808931D0A18FC74390BADDB58A30CF600351B49E4A@WWTExch2012.Westwindsortwp.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Barracuda-Connect: esa1.hc2742-60.iphmx.com[216.71.142.71]
+X-Barracuda-Start-Time: 1530843238
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 4073
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=MAILTO_TO_SPAM_ADDR
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.53035
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 MAILTO_TO_SPAM_ADDR    Includes a link to a likely spammer email
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 06 Jul 2018 02:13:59.6795
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 6995
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+An unarmed officer makes no sense
+
+There is no validity to that
+
+It doesn=92t make common sense
+
+Sent from my iPhone
+
+> On Jul 5, 2018, at 9:40 PM, Hemant Marathe <hmarathe@WestWindsorTwp.com> =
+wrote:
+>=20
+> Thanks for forwarding. This is one of objections that parents have raised=
+. It looks like the email should be in my inbox as well as I see my address=
+ below. I am going to answer the lady.
+>=20
+> Hemant=20
+> ________________________________________
+> From: Aderhold, David [David.Aderhold@ww-p.org]
+> Sent: Thursday, July 05, 2018 3:54 PM
+> To: Hemant Marathe; Rob Garofalo; Mark Lee (Police)
+> Subject: Fwd: Armed Police in WWP Schools
+>=20
+> FYI
+>=20
+> Sent from my iPhone
+>=20
+> Begin forwarded message:
+>=20
+> From: "Cancro, Anthony" <acancro@plainsboronj.com<mailto:acancro@plainsbo=
+ronj.com>>
+> Date: July 5, 2018 at 3:18:27 PM EDT
+> To: "Armour, Guy" <garmour@plainsboropolice.com<mailto:garmour@plainsboro=
+police.com>>, "Aderhold, David" <David.Aderhold@ww-p.org<mailto:David.Aderh=
+old@ww-p.org>>
+> Subject: FW: Armed Police in WWP Schools
+>=20
+>=20
+> fyi
+>=20
+>=20
+> From: Kiru R. [mailto:kiru86@hotmail.com]
+> Sent: Thursday, July 05, 2018 3:12 PM
+> To: Aderhold, David; amiller@westwindsortwp.com<mailto:amiller@westwindso=
+rtwp.com>; jbahree@westwindsortwp.com<mailto:jbahree@westwindsortwp.com>; l=
+geevers@westwindsortwp.com<mailto:lgeevers@westwindsortwp.com>; ahamilton@w=
+estwindsortwp.com<mailto:ahamilton@westwindsortwp.com>; vmanzari@westwindso=
+rtwp.com<mailto:vmanzari@westwindsortwp.com>; Cantu, Peter; Lewis, Neil; Ba=
+nder, David; Nabi, Nuran; Yates, Ed
+> Subject: Armed Police in WWP Schools
+>=20
+>=20
+> Hello,
+>=20
+>=20
+>=20
+> I am a resident of West Windsor and recently heard of the resolution to p=
+lace armed "Resource Officers" in our schools, including our elementary sch=
+ools. While I understand the fear of a mass shooting, I don't think that th=
+e solution is for an officer to carry a weapon around our schools. Looking =
+at the states where shootings have occurred, they've occurred in states wit=
+h lax gun laws (not a descriptor for NJ, to say the least). Therefore, I do=
+n't think that the solution in NJ, especially in this town, is to introduce=
+ guns into the schools, making an object that was once largely inaccessible=
+ now available, walking down the halls with its owner every day. If we had =
+biometric triggers, that'd be one thing, but we don't yet.
+>=20
+>=20
+>=20
+> For safety, I would much prefer that guns be kept in a gun safe(s) where =
+only the officer knows the codes/has access to the safe, or the officer sta=
+ys in the front office and have the unarmed security officers who are alrea=
+dy in the schools do the patrolling. The last thing we need is a tussle bet=
+ween student and officer and the student gets the gun or the officer fears =
+for his life and now we have a dead kid, kids, or dead officer. My husband =
+and I both graduated WWPHS South in the mid-2000s - we had security officer=
+s at that time who patrolled and that system was working just fine. The sit=
+uations the officer is most likely to encounter day to day won't require a =
+gun to solve, so why have the gun transported at all times throughout the s=
+chool?
+>=20
+>=20
+>=20
+> Finally, if you're going through with this, I suggest limiting employment=
+ to State Police only. They have much more extensive training than local co=
+ps and will be less biased than a cop who's lived here a long time and know=
+s all the families.
+>=20
+>=20
+>=20
+> All in all, I am against this plan for many, many reasons beyond the gun =
+issue and honestly this is something that will make me reconsider staying i=
+n this town and sending my kids through this system.
+>=20
+>=20
+>=20
+> ~Julia Ryan
+>=20
+>=20
+>=20
+> Please be advised that the Township of West Windsor is subject to the New=
+ Jersey Open Public Records Act. As such, any email sent or received by the=
+ Township may be subject to a records request.
+>=20
+> Please be advised that the Township of West Windsor is subject to the New=
+ Jersey Open Public Records Act.  As such, any email sent or received by th=
+e Township may be subject to a records request.
+

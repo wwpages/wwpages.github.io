@@ -1,0 +1,107 @@
+Received: from WWTExch2012.Westwindsortwp.local ([::1]) by
+ WWTExch2012.Westwindsortwp.local ([::1]) with Microsoft SMTP Server id
+ 14.01.0218.012; Fri, 22 Jun 2018 16:32:34 -0400
+From: <ghuber@westwindsortwp.com>
+To: <David.Aderhold@ww-p.org>
+Subject: Automatic reply: Shared Services Agreement Questions - 
+Thread-Topic: Shared Services Agreement Questions - 
+Thread-Index: AdQKaCIPGP/4AxYrQxmuVN+ZRj5xpgAAATvJ
+Date: Fri, 22 Jun 2018 20:32:34 +0000
+Message-ID: <4d754f9f5f2b4920b6c5cde2403940b1@WWTExch2012.Westwindsortwp.local>
+References: <98E441CFB9DE4F42AA864F9ED21028B5016F6B2D33@wwp-exchange3.westwindsor.k12.nj.us>
+In-Reply-To: <98E441CFB9DE4F42AA864F9ED21028B5016F6B2D33@wwp-exchange3.westwindsor.k12.nj.us>
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 03
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Inbox-Rules-Loop: ghuber@westwindsortwp.com
+X-MS-TNEF-Correlator:
+x-ms-exchange-organization-originalsize: 4883
+x-ms-exchange-organization-originalarrivaltime: 22 Jun 2018 20:32:34.7462
+ (UTC)
+x-ms-exchange-organization-messagesource: StoreDriver
+x-ms-exchange-organization-messagedirectionality: Originating
+x-ms-exchange-forest-messagescope: 00000000-0000-0000-0000-000000000000
+x-ms-exchange-organization-messagescope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-BCC:
+x-ms-exchange-organization-hygienepolicy: Standard
+x-ms-exchange-organization-recipient-limit-verified: True
+x-ms-exchange-organization-disclaimer-hash: 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+x-ms-exchange-forest-rulesexecuted: WWTExch2012
+x-ms-exchange-organization-rules-execution-history: OPRA Disclaimer
+ Footer%%%Spam
+Content-Type: multipart/alternative;
+	boundary="_000_4d754f9f5f2b4920b6c5cde2403940b1WWTExch2012Westwindsort_"
+MIME-Version: 1.0
+
+--_000_4d754f9f5f2b4920b6c5cde2403940b1WWTExch2012Westwindsort_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+I am out of the office today and will return on Monday, June 25.  If you ne=
+ed immediate assistance please contact Sharon Young, Township Clerk at syou=
+ng@westwindsortwp.com or 609-799-2400.
+
+Gay
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_000_4d754f9f5f2b4920b6c5cde2403940b1WWTExch2012Westwindsort_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<style>
+<!--
+@font-face
+	{font-family:Calibri}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif"}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline}
+span.EmailStyle17
+	{font-family:"Times New Roman","serif"}
+.MsoChpDefault
+	{font-family:"Calibri","sans-serif"}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.WordSection1
+	{}
+-->
+</style>
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:12.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">I am =
+out of the office today and will return on Monday, June 25.&nbsp; If you ne=
+ed immediate assistance please contact Sharon Young, Township Clerk
+ at syoung@westwindsortwp.com or 609-799-2400.</span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:12.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp=
+;</span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:12.0pt; font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Gay
+</span></p>
+</div>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_000_4d754f9f5f2b4920b6c5cde2403940b1WWTExch2012Westwindsort_--
+

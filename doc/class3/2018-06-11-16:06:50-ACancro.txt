@@ -1,0 +1,162 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Mon, 11 Jun 2018 16:07:15 -0400
+X-ASG-Debug-ID: 1528747635-0eddee0a1435a80001-OBQS1U
+Received: from dispatch1-us1.ppe-hosted.com (dispatch1-us1.ppe-hosted.com
+ [148.163.129.52]) by BCSpam300.westwindsortwp.local with ESMTP id
+ IYBN0qqduEqV4CE9 for <mschmid@westwindsortwp.com>; Mon, 11 Jun 2018 16:07:15
+ -0400 (EDT)
+X-Barracuda-Envelope-From: acancro@plainsboronj.com
+X-Barracuda-Effective-Source-IP: dispatch1-us1.ppe-hosted.com[148.163.129.52]
+X-Barracuda-Apparent-Source-IP: 148.163.129.52
+X-Virus-Scanned: Proofpoint Essentials engine
+Received: from mail.plainsboronj.com (mail.plainsboronj.com [199.180.149.130])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))	(No client
+ certificate requested)	by mx1-us4.ppe-hosted.com (Proofpoint Essentials ESMTP
+ Server) with ESMTPS id 3E3F9BC0072;	Mon, 11 Jun 2018 20:07:14 +0000 (UTC)
+Received: from PTEXCH1.plainsboronj.com ([10.10.10.7]) by
+ PTEXCH1.plainsboronj.com ([10.10.10.7]) with mapi id 14.03.0266.001; Mon, 11
+ Jun 2018 16:06:51 -0400
+From: "Cancro, Anthony" <acancro@plainsboronj.com>
+To: "Aderhold, David" <david.aderhold@ww-p.org>, "mschmid@westwindsortwp.com"
+	<mschmid@westwindsortwp.com>, "Armour, Guy" <garmour@plainsboropolice.com>,
+	"Mayers, Gregory" <gmayers@plainsboronj.com>
+Subject: Re: Shared Services Agreement: Township of Plainsboro - West
+ Windsor - Plainsboro Regional School District Board of Education
+Thread-Topic: Shared Services Agreement: Township of Plainsboro - West
+ Windsor - Plainsboro Regional School District Board of Education
+X-ASG-Orig-Subj: Re: Shared Services Agreement: Township of Plainsboro - West
+ Windsor - Plainsboro Regional School District Board of Education
+Thread-Index: AdQBvBMO+0Vi+21oT7qjT+IcW7PbDAAAkg3HAAAVlcAAAEKKBQ==
+Date: Mon, 11 Jun 2018 20:06:50 +0000
+Message-ID: <129309D3AFB01A42BCB4FB6A4E8C58C53458EAE2@PTEXCH1.plainsboronj.com>
+References: <BN7PR17MB219508940CC1B91C90246C7094780@BN7PR17MB2195.namprd17.prod.outlook.com>
+ <129309D3AFB01A42BCB4FB6A4E8C58C53458EA5E@PTEXCH1.plainsboronj.com>,<98E441CFB9DE4F42AA864F9ED21028B5016F696BC4@wwp-exchange3.westwindsor.k12.nj.us>
+In-Reply-To: <98E441CFB9DE4F42AA864F9ED21028B5016F696BC4@wwp-exchange3.westwindsor.k12.nj.us>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-MDID: 1528747634-G0U-GeguvEBe
+X-Barracuda-Connect: dispatch1-us1.ppe-hosted.com[148.163.129.52]
+X-Barracuda-Start-Time: 1528747635
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 2551
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=BSF_SC0_MISMATCH_TO
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.51876
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 BSF_SC0_MISMATCH_TO    Envelope rcpt doesn't match header
+Return-Path: acancro@plainsboronj.com
+X-MS-Exchange-Organization-OriginalArrivalTime: 11 Jun 2018 20:07:15.5121
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 5762
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Organization-Disclaimer-Hash:
+ 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+
+Good to hear.  I'll look at it tonight.
+
+see you tomorrow
+
+
+
+Sent from my Verizon, Samsung Galaxy smartphone
+
+
+-------- Original message --------
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+Date: 6/11/18 3:59 PM (GMT-05:00)
+To: "Cancro, Anthony" <acancro@plainsboronj.com>, mschmid@westwindsortwp.co=
+m, "Armour, Guy" <garmour@plainsboropolice.com>, "Mayers, Gregory" <gmayers=
+@plainsboronj.com>
+Subject: RE: Shared Services Agreement: Township of Plainsboro - West Winds=
+or - Plainsboro Regional School District Board of Education
+
+Best thing I read all day
+
+Minimal comments and complimentary of document
+
+Comments make sense
+
+From: Cancro, Anthony [mailto:acancro@plainsboronj.com]
+Sent: Monday, June 11, 2018 3:57 PM
+To: mschmid@westwindsortwp.com; Aderhold, David; Armour, Guy; Mayers, Grego=
+ry
+Subject: Fwd: Shared Services Agreement: Township of Plainsboro - West Wind=
+sor - Plainsboro Regional School District Board of Education
+
+
+Fyi.  I have not reviewed yet.
+
+
+Sent from my Verizon, Samsung Galaxy smartphone
+
+
+-------- Original message --------
+From: Heidi Frischman <h.frischman@mgplaw.com<mailto:h.frischman@mgplaw.com=
+>>
+Date: 6/11/18 3:50 PM (GMT-05:00)
+To: "Cancro, Anthony" <acancro@plainsboronj.com<mailto:acancro@plainsboronj=
+.com>>
+Subject: Shared Services Agreement: Township of Plainsboro - West Windsor -=
+ Plainsboro Regional School District Board of Education
+
+Please see memorandum with attached red-line and clean copies of Agreement.=
+  Thank you.
+
+
+If you have any questions, please respond directly to:
+
+
+Edwin W. Schmierer, Esq., (direct) 609.436.1200, e.schmierer@mgplaw.com<mai=
+lto:e.schmierer@mgplaw.com>
+
+
+
+
+Heidi Frischman, Legal Assistant
+Mason, Griffin & Pierson, PC
+101 Poor Farm Road
+Princeton, NJ  08540
+(609) 436-1264 (direct)
+(609) 921-6543 (main)
+(609) 683-7978 (fax)
+h.frischman@mgplaw.com<mailto:h.frischman@mgplaw.com>
+visit our website:  www.mgplaw.com<http://www.mgplaw.com>
+
+This email transmission and any accompanying material contain confidential =
+and/or privileged information from the law firm of Mason, Griffin & Pierson=
+, P.C.  This communication is covered by the Electronic Communications Priv=
+acy Act, 18 USC Sections 2510-2521 and may be legally privileged.  If you a=
+re not the intended recipient, you are hereby notified that any retention, =
+dissemination, distribution, copying or use of this communication is strict=
+ly prohibited.  Please reply to the sender if you have received this email =
+in error, and then delete it.  Thank you.
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+

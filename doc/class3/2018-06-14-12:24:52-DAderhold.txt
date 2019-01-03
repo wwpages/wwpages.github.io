@@ -1,0 +1,274 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Thu, 14 Jun 2018 12:24:54 -0400
+X-ASG-Debug-ID: 1528993493-0eddee0a1453bd0001-bTbPWy
+Received: from mail.ww-p.org (mail.ww-p.org [204.10.63.8]) by
+ BCSpam300.westwindsortwp.local with ESMTP id DefI1D14Bl9nzfkx for
+ <ghuber@westwindsortwp.com>; Thu, 14 Jun 2018 12:24:53 -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Apparent-Source-IP: 204.10.63.8
+X-IronPort-AV: E=Sophos;i="5.51,222,1526356800"; 
+   d="scan'208,217";a="139646353"
+Received: from unknown (HELO WWP-WEbmail.westwindsor.k12.nj.us) ([10.7.75.5])
+  by mail.ww-p.org with ESMTP; 14 Jun 2018 12:24:53 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Thu, 14 Jun
+ 2018 12:24:53 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: 'Gay Huber' <ghuber@westwindsortwp.com>
+Subject: RE: Request for Attendance at Council Meeting to Discuss Class III
+ Officers
+Thread-Topic: Request for Attendance at Council Meeting to Discuss Class III
+ Officers
+X-ASG-Orig-Subj: RE: Request for Attendance at Council Meeting to Discuss Class III
+ Officers
+Thread-Index: AdQD7OhMlxwywkbHThS40UNgHT/JlQADxASw
+Date: Thu, 14 Jun 2018 16:24:52 +0000
+Message-ID: <98E441CFB9DE4F42AA864F9ED21028B5016F69F9B7@wwp-exchange3.westwindsor.k12.nj.us>
+References: <EF77C76C43914745AFC52B0A20593149033F1D0329@WWTExch2012.Westwindsortwp.local>
+In-Reply-To: <EF77C76C43914745AFC52B0A20593149033F1D0329@WWTExch2012.Westwindsortwp.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.101.15.98]
+Content-Type: multipart/alternative;
+	boundary="_6be7bac3-a49c-4c91-b4a8-c1fff4bc4fe6_"
+MIME-Version: 1.0
+X-Barracuda-Connect: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Start-Time: 1528993493
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 7159
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.51960
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 14 Jun 2018 16:24:54.4250
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 10340
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_6be7bac3-a49c-4c91-b4a8-c1fff4bc4fe6_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Gay,
+
+Good Afternoon.  I will be present on June 25th for a discussion on Class I=
+II Officers as the Board of Education will be formally voting on the Shared=
+ Service Agreement on June 26th.  Mark Lee and Tony Fleres will be with me.
+
+In order to prepare for the presentation I would ask that I receive questio=
+ns no later than Wednesday, June 20th.  With multiple graduations next week=
+ I will need time to prepare.
+
+Sincerely,
+
+Dave
+
+From: Gay Huber [mailto:ghuber@westwindsortwp.com]
+Sent: Thursday, June 14, 2018 10:38 AM
+To: Aderhold, David
+Subject: Request for Attendance at Council Meeting to Discuss Class III Off=
+icers
+
+Dear Dr. Aderhold:
+
+The Township Council would like to invite you to attend either their June 2=
+5th or July 9th Council meeting to discuss the Class III Officers for the W=
+est Windsor Schools.  They are currently complying questions which will be =
+sent to you prior to the meeting.  Our meetings start at 7:00 p.m.
+
+If you could please let me know at your earliest convenience which of these=
+ dates will work for you I would appreciate it.
+
+Thanks.
+
+Gay
+
+Ms. Gay M. Huber
+Deputy Township Clerk
+West Windsor Township
+609-799-2400 ext. 213
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+ =20
+
+--_6be7bac3-a49c-4c91-b4a8-c1fff4bc4fe6_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Script MT Bold";
+	panose-1:3 4 6 2 4 6 7 8 9 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";}
+span.emailstyle17
+	{mso-style-name:emailstyle17;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Gay,<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><br>
+Good Afternoon.&nbsp; I will be present on June 25<sup>th</sup> for a discu=
+ssion on Class III Officers as the Board of Education will be formally voti=
+ng on the Shared Service Agreement on June 26<sup>th</sup>.&nbsp; Mark Lee =
+and Tony Fleres will be with me.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">In order to prepare fo=
+r the presentation I would ask that I receive questions no later than Wedne=
+sday, June 20<sup>th</sup>.&nbsp; With multiple graduations next week I wil=
+l need time to prepare.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Sincerely,<br>
+<br>
+Dave<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Gay Hube=
+r [mailto:ghuber@westwindsortwp.com]
+<br>
+<b>Sent:</b> Thursday, June 14, 2018 10:38 AM<br>
+<b>To:</b> Aderhold, David<br>
+<b>Subject:</b> Request for Attendance at Council Meeting to Discuss Class =
+III Officers<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal">Dear Dr. Aderhold:<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">The Township Council would like to invite you to att=
+end either their June 25<sup>th</sup> or July 9<sup>th</sup> Council meetin=
+g to discuss the Class III Officers for the West Windsor Schools.&nbsp; The=
+y are currently complying questions which
+ will be sent to you prior to the meeting.&nbsp; Our meetings start at 7:00=
+ p.m.<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">If you could please let me know at your earliest con=
+venience which of these dates will work for you I would appreciate it.<o:p>=
+</o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Thanks.<o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal">Gay <o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Script MT Bold&q=
+uot;;color:#0070C0">Ms. Gay M. Huber</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Script MT Bold&q=
+uot;;color:#0070C0">Deputy Township Clerk</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Script MT Bold&q=
+uot;;color:#0070C0">West Windsor Township</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Script MT Bold&q=
+uot;;color:#0070C0">609-799-2400 ext. 213</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,&quot;serif&quot;">Please be advised that the Township =
+of West Windsor is subject to the New Jersey Open Public Records Act. As su=
+ch, any email sent or received by the Township may be subject
+ to a records request. <br>
+&nbsp;&nbsp;&shy;&shy;&nbsp;&nbsp;<o:p></o:p></span></p>
+</div>
+</body>
+</html>
+
+--_6be7bac3-a49c-4c91-b4a8-c1fff4bc4fe6_--
+

@@ -1,0 +1,135 @@
+Received: from WWTExch2012.Westwindsortwp.local ([::1]) by
+ WWTExch2012.Westwindsortwp.local ([::1]) with mapi id 14.01.0218.012; Thu, 5
+ Jul 2018 21:40:46 -0400
+From: <hmarathe@WestWindsorTwp.com>
+To: <David.Aderhold@ww-p.org>, <garfo@westwindsorpolice.com>,
+	<lee@westwindsorpolice.com>
+Subject: RE: Armed Police in WWP Schools
+Thread-Topic: Armed Police in WWP Schools
+Thread-Index: AQHUFIqy7iUCfgtW8Um6RRDaYrw1AaSBAHnAgAAAarCAAAoG4oAAYHpt
+Date: Fri, 6 Jul 2018 01:40:46 +0000
+Message-ID: <808931D0A18FC74390BADDB58A30CF600351B49E4A@WWTExch2012.Westwindsortwp.local>
+References: <CO2PR01MB1974209373725E0A2CC359E4C4400@CO2PR01MB1974.prod.exchangelabs.com>
+ <08496C729ADB09499C42967E1D7617C8342D6A1F@PTEXCH1.plainsboronj.com>,<129309D3AFB01A42BCB4FB6A4E8C58C5345CE61C@PTEXCH1.plainsboronj.com>,<A0AF1555-3FB4-4F8B-AF28-25202D489F06@ww-p.org>
+In-Reply-To: <A0AF1555-3FB4-4F8B-AF28-25202D489F06@ww-p.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-ms-exchange-organization-originalsize: 14676
+x-ms-exchange-organization-originalarrivaltime: 06 Jul 2018 01:40:46.0053
+ (UTC)
+x-ms-exchange-organization-messagesource: StoreDriver
+x-ms-exchange-organization-messagedirectionality: Originating
+x-ms-exchange-forest-messagescope: 00000000-0000-0000-0000-000000000000
+x-ms-exchange-organization-messagescope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-BCC:
+x-ms-exchange-organization-originalclientipaddress: 10.11.13.253
+x-originating-ip: [10.11.13.253]
+x-ms-exchange-organization-originalserveripaddress: 10.11.13.52
+x-ms-exchange-organization-messagelatency: SRV=WWTExch2012.Westwindsortwp.local:TOTAL=0
+x-ms-exchange-organization-hygienepolicy: Standard
+x-ms-exchange-organization-recipient-limit-verified: True
+x-ms-exchange-forest-rulesexecuted: WWTExch2012
+x-ms-exchange-organization-rules-execution-history: OPRA Disclaimer
+ Footer%%%Spam
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Thanks for forwarding. This is one of objections that parents have raised. =
+It looks like the email should be in my inbox as well as I see my address b=
+elow. I am going to answer the lady.
+
+Hemant=20
+________________________________________
+From: Aderhold, David [David.Aderhold@ww-p.org]
+Sent: Thursday, July 05, 2018 3:54 PM
+To: Hemant Marathe; Rob Garofalo; Mark Lee (Police)
+Subject: Fwd: Armed Police in WWP Schools
+
+FYI
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+From: "Cancro, Anthony" <acancro@plainsboronj.com<mailto:acancro@plainsboro=
+nj.com>>
+Date: July 5, 2018 at 3:18:27 PM EDT
+To: "Armour, Guy" <garmour@plainsboropolice.com<mailto:garmour@plainsboropo=
+lice.com>>, "Aderhold, David" <David.Aderhold@ww-p.org<mailto:David.Aderhol=
+d@ww-p.org>>
+Subject: FW: Armed Police in WWP Schools
+
+
+fyi
+
+
+From: Kiru R. [mailto:kiru86@hotmail.com]
+Sent: Thursday, July 05, 2018 3:12 PM
+To: Aderhold, David; amiller@westwindsortwp.com<mailto:amiller@westwindsort=
+wp.com>; jbahree@westwindsortwp.com<mailto:jbahree@westwindsortwp.com>; lge=
+evers@westwindsortwp.com<mailto:lgeevers@westwindsortwp.com>; ahamilton@wes=
+twindsortwp.com<mailto:ahamilton@westwindsortwp.com>; vmanzari@westwindsort=
+wp.com<mailto:vmanzari@westwindsortwp.com>; Cantu, Peter; Lewis, Neil; Band=
+er, David; Nabi, Nuran; Yates, Ed
+Subject: Armed Police in WWP Schools
+
+
+Hello,
+
+
+
+I am a resident of West Windsor and recently heard of the resolution to pla=
+ce armed "Resource Officers" in our schools, including our elementary schoo=
+ls. While I understand the fear of a mass shooting, I don't think that the =
+solution is for an officer to carry a weapon around our schools. Looking at=
+ the states where shootings have occurred, they've occurred in states with =
+lax gun laws (not a descriptor for NJ, to say the least). Therefore, I don'=
+t think that the solution in NJ, especially in this town, is to introduce g=
+uns into the schools, making an object that was once largely inaccessible n=
+ow available, walking down the halls with its owner every day. If we had bi=
+ometric triggers, that'd be one thing, but we don't yet.
+
+
+
+For safety, I would much prefer that guns be kept in a gun safe(s) where on=
+ly the officer knows the codes/has access to the safe, or the officer stays=
+ in the front office and have the unarmed security officers who are already=
+ in the schools do the patrolling. The last thing we need is a tussle betwe=
+en student and officer and the student gets the gun or the officer fears fo=
+r his life and now we have a dead kid, kids, or dead officer. My husband an=
+d I both graduated WWPHS South in the mid-2000s - we had security officers =
+at that time who patrolled and that system was working just fine. The situa=
+tions the officer is most likely to encounter day to day won't require a gu=
+n to solve, so why have the gun transported at all times throughout the sch=
+ool?
+
+
+
+Finally, if you're going through with this, I suggest limiting employment t=
+o State Police only. They have much more extensive training than local cops=
+ and will be less biased than a cop who's lived here a long time and knows =
+all the families.
+
+
+
+All in all, I am against this plan for many, many reasons beyond the gun is=
+sue and honestly this is something that will make me reconsider staying in =
+this town and sending my kids through this system.
+
+
+
+~Julia Ryan
+
+
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+

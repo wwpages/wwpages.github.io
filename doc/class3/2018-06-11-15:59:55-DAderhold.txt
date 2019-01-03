@@ -1,0 +1,374 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Mon, 11 Jun 2018 15:59:58 -0400
+X-ASG-Debug-ID: 1528747197-0eddee0a1335910001-OBQS1U
+Received: from mail.ww-p.org (mail.ww-p.org [204.10.63.8]) by
+ BCSpam300.westwindsortwp.local with ESMTP id ydjWLUD42GCpRIHc for
+ <mschmid@westwindsortwp.com>; Mon, 11 Jun 2018 15:59:57 -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Apparent-Source-IP: 204.10.63.8
+X-IronPort-AV: E=Sophos;i="5.51,211,1526356800"; 
+   d="scan'208,217";a="139154936"
+Received: from unknown (HELO WWP-WEbmail.westwindsor.k12.nj.us) ([10.7.75.5])
+  by mail.ww-p.org with ESMTP; 11 Jun 2018 15:59:57 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Mon, 11 Jun
+ 2018 15:59:56 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: "'Cancro, Anthony'" <acancro@plainsboronj.com>,
+	"mschmid@westwindsortwp.com" <mschmid@westwindsortwp.com>, "Armour, Guy"
+	<garmour@plainsboropolice.com>, "Mayers, Gregory" <gmayers@plainsboronj.com>
+Subject: RE: Shared Services Agreement: Township of Plainsboro - West
+ Windsor - Plainsboro Regional School District Board of Education
+Thread-Topic: Shared Services Agreement: Township of Plainsboro - West
+ Windsor - Plainsboro Regional School District Board of Education
+X-ASG-Orig-Subj: RE: Shared Services Agreement: Township of Plainsboro - West
+ Windsor - Plainsboro Regional School District Board of Education
+Thread-Index: AdQBvBMO+0Vi+21oT7qjT+IcW7PbDAAAkg3HAAAVlcA=
+Date: Mon, 11 Jun 2018 19:59:55 +0000
+Message-ID: <98E441CFB9DE4F42AA864F9ED21028B5016F696BC4@wwp-exchange3.westwindsor.k12.nj.us>
+References: <BN7PR17MB219508940CC1B91C90246C7094780@BN7PR17MB2195.namprd17.prod.outlook.com>
+ <129309D3AFB01A42BCB4FB6A4E8C58C53458EA5E@PTEXCH1.plainsboronj.com>
+In-Reply-To: <129309D3AFB01A42BCB4FB6A4E8C58C53458EA5E@PTEXCH1.plainsboronj.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.101.9.100]
+Content-Type: multipart/alternative;
+	boundary="_a40b7586-f865-46fe-bfc0-d4563f50fc8e_"
+MIME-Version: 1.0
+X-Barracuda-Connect: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Start-Time: 1528747197
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 11683
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=BSF_SC0_MISMATCH_TO, HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.51876
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 BSF_SC0_MISMATCH_TO    Envelope rcpt doesn't match header
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 11 Jun 2018 19:59:58.1006
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 15514
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Organization-Disclaimer-Hash:
+ 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_a40b7586-f865-46fe-bfc0-d4563f50fc8e_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Best thing I read all day
+
+Minimal comments and complimentary of document
+
+Comments make sense
+
+From: Cancro, Anthony [mailto:acancro@plainsboronj.com]
+Sent: Monday, June 11, 2018 3:57 PM
+To: mschmid@westwindsortwp.com; Aderhold, David; Armour, Guy; Mayers, Grego=
+ry
+Subject: Fwd: Shared Services Agreement: Township of Plainsboro - West Wind=
+sor - Plainsboro Regional School District Board of Education
+
+
+Fyi.  I have not reviewed yet.
+
+
+Sent from my Verizon, Samsung Galaxy smartphone
+
+
+-------- Original message --------
+From: Heidi Frischman <h.frischman@mgplaw.com<mailto:h.frischman@mgplaw.com=
+>>
+Date: 6/11/18 3:50 PM (GMT-05:00)
+To: "Cancro, Anthony" <acancro@plainsboronj.com<mailto:acancro@plainsboronj=
+.com>>
+Subject: Shared Services Agreement: Township of Plainsboro - West Windsor -=
+ Plainsboro Regional School District Board of Education
+
+Please see memorandum with attached red-line and clean copies of Agreement.=
+  Thank you.
+
+
+If you have any questions, please respond directly to:
+
+
+Edwin W. Schmierer, Esq., (direct) 609.436.1200, e.schmierer@mgplaw.com<mai=
+lto:e.schmierer@mgplaw.com>
+
+
+
+
+Heidi Frischman, Legal Assistant
+Mason, Griffin & Pierson, PC
+101 Poor Farm Road
+Princeton, NJ  08540
+(609) 436-1264 (direct)
+(609) 921-6543 (main)
+(609) 683-7978 (fax)
+h.frischman@mgplaw.com<mailto:h.frischman@mgplaw.com>
+visit our website:  www.mgplaw.com<http://www.mgplaw.com>
+
+This email transmission and any accompanying material contain confidential =
+and/or privileged information from the law firm of Mason, Griffin & Pierson=
+, P.C.  This communication is covered by the Electronic Communications Priv=
+acy Act, 18 USC Sections 2510-2521 and may be legally privileged.  If you a=
+re not the intended recipient, you are hereby notified that any retention, =
+dissemination, distribution, copying or use of this communication is strict=
+ly prohibited.  Please reply to the sender if you have received this email =
+in error, and then delete it.  Thank you.
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_a40b7586-f865-46fe-bfc0-d4563f50fc8e_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<style>
+<!--
+@font-face
+	{font-family:SimSun}
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:Tahoma}
+@font-face
+	{font-family:"\@SimSun"}
+@font-face
+	{font-family:"Segoe UI"}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif"}
+a:link, span.MsoHyperlink
+	{color:#0563C1;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline}
+p
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif"}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif"}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{margin-right:0in;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif"}
+span.emailstyle17
+	{font-family:"Calibri","sans-serif";
+	color:windowtext}
+span.EmailStyle21
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.BalloonTextChar
+	{font-family:"Tahoma","sans-serif"}
+.MsoChpDefault
+	{font-size:10.0pt;
+	font-family:"Calibri","sans-serif"}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.WordSection1
+	{}
+-->
+</style>
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Best thing I read all =
+day</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Minimal comments and c=
+omplimentary of document</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Comments make sense</s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&nbsp;</span></p>
+<div>
+<div style=3D"border:none; border-top:solid #B5C4DF 1.0pt; padding:3.0pt 0i=
+n 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt; font-family:&quo=
+t;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-=
+size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Cancro=
+, Anthony [mailto:acancro@plainsboronj.com]
+<br>
+<b>Sent:</b> Monday, June 11, 2018 3:57 PM<br>
+<b>To:</b> mschmid@westwindsortwp.com; Aderhold, David; Armour, Guy; Mayers=
+, Gregory<br>
+<b>Subject:</b> Fwd: Shared Services Agreement: Township of Plainsboro - We=
+st Windsor - Plainsboro Regional School District Board of Education</span><=
+/p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;</p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">Fyi.&nbsp; I have not reviewed yet.=
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+</div>
+<div id=3D"composer_signature">
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;; color:#575757">Sent from my Verizon=
+, Samsung Galaxy smartphone</span></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">-------- Original message --------<=
+/span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">From: Heidi Frischman &lt;<a href=
+=3D"mailto:h.frischman@mgplaw.com">h.frischman@mgplaw.com</a>&gt;
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">Date: 6/11/18 3:50 PM (GMT-05:00)
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">To: &quot;Cancro, Anthony&quot; &lt=
+;<a href=3D"mailto:acancro@plainsboronj.com">acancro@plainsboronj.com</a>&g=
+t;
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">Subject: Shared Services Agreement:=
+ Township of Plainsboro - West Windsor - Plainsboro Regional School Distric=
+t Board of Education
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt; font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal">Please see memorandum with attached red-line and cle=
+an copies of Agreement.&nbsp; Thank you.</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<div>
+<p style=3D"margin:0in; margin-bottom:.0001pt"><strong><span style=3D"font-=
+size:10.0pt; font-family:&quot;Segoe UI&quot;,&quot;sans-serif&quot;; color=
+:black">If you have any questions, please respond directly to:
+</span></strong></p>
+<p style=3D"margin:0in; margin-bottom:.0001pt"><span style=3D"font-size:10.=
+0pt; font-family:&quot;Segoe UI&quot;,&quot;sans-serif&quot;; color:black">=
+&nbsp;</span></p>
+</div>
+<p class=3D"MsoNormal"><strong><span style=3D"font-size:10.0pt; font-family=
+:&quot;Segoe UI&quot;,&quot;sans-serif&quot;; color:black">Edwin W. Schmier=
+er, Esq., (direct) 609.436.1200,
+</span></strong><strong><span style=3D"font-size:10.0pt; font-family:&quot;=
+Segoe UI&quot;,&quot;sans-serif&quot;; color:blue"><a href=3D"mailto:e.schm=
+ierer@mgplaw.com"><span style=3D"font-weight:normal">e.schmierer@mgplaw.com=
+</span></a></span></strong></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal"><i><span style=3D"font-family:&quot;Arial&quot;,&quo=
+t;sans-serif&quot;">Heidi Frischman, Legal Assistant</span></i></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Arial&quot;,&quo=
+t;sans-serif&quot;">Mason, Griffin &amp; Pierson, PC</span></b><span style=
+=3D"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><br>
+101 Poor Farm Road<br>
+Princeton, NJ&nbsp; 08540<br>
+(609) 436-1264 (direct)<br>
+(609) 921-6543 (main)<br>
+(609) 683-7978 (fax)<br>
+</span><span style=3D"font-family:&quot;Segoe UI&quot;,&quot;sans-serif&quo=
+t;"><a href=3D"mailto:h.frischman@mgplaw.com"><span style=3D"font-family:&q=
+uot;Arial&quot;,&quot;sans-serif&quot;; color:blue">h.frischman@mgplaw.com<=
+/span></a><br>
+</span><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"=
+>visit our website:&nbsp; <a href=3D"http://www.mgplaw.com">
+www.mgplaw.com</a></span><span style=3D"font-size:7.5pt; font-family:&quot;=
+Arial&quot;,&quot;sans-serif&quot;"><br>
+</span><span style=3D"font-size:10.0pt; font-family:&quot;Segoe UI&quot;,&q=
+uot;sans-serif&quot;"><br>
+</span><span style=3D"font-size:7.5pt; font-family:&quot;Segoe UI&quot;,&qu=
+ot;sans-serif&quot;">This email transmission and any accompanying material =
+contain confidential and/or privileged information from the law firm of Mas=
+on, Griffin &amp; Pierson, P.C.&nbsp; This communication is covered
+ by the Electronic Communications Privacy Act, 18 USC Sections 2510-2521 an=
+d may be legally privileged.&nbsp; If you are not the intended recipient, y=
+ou are hereby notified that any retention, dissemination, distribution, cop=
+ying or use of this communication is
+ strictly prohibited.&nbsp; Please reply to the sender if you have received=
+ this email in error, and then delete it.&nbsp; Thank you.</span></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+</div>
+</div>
+</div>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_a40b7586-f865-46fe-bfc0-d4563f50fc8e_--
+

@@ -1,0 +1,312 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Sat, 21 Jul 2018 21:59:01 -0400
+X-ASG-Debug-ID: 1532224739-0eddee69b61c9e0001-lp3Q2a
+Received: from esa2.hc2742-60.iphmx.com (esa2.hc2742-60.iphmx.com
+ [216.71.147.66]) by BCSpam300.westwindsortwp.local with ESMTP id
+ JXiiTiScZ2YbXoa3 for <hmarathe@westwindsortwp.com>; Sat, 21 Jul 2018 21:58:59
+ -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: esa2.hc2742-60.iphmx.com[216.71.147.66]
+X-Barracuda-Apparent-Source-IP: 216.71.147.66
+Received: from ww-p.org (HELO WWP-WEbmail.westwindsor.k12.nj.us)
+ ([204.10.63.5])  by esa2.hc2742-60.iphmx.com with
+ ESMTP/TLS/DHE-RSA-AES256-SHA; 21 Jul 2018 21:58:58 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Sat, 21 Jul
+ 2018 21:58:57 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: Hemant Marathe <hmarathe@WestWindsorTwp.com>
+Subject: Fwd: West Windsor Township Meeting 7/30
+Thread-Topic: West Windsor Township Meeting 7/30
+X-ASG-Orig-Subj: Fwd: West Windsor Township Meeting 7/30
+Thread-Index: AQHUIUvbzpijO6UC9US48K/7hmR5zaSaYsV+gAAZvQo=
+Date: Sun, 22 Jul 2018 01:58:57 +0000
+Message-ID: <960D4AAC-5EAF-4F28-94FD-6E0241C36BDC@ww-p.org>
+References: <CAPHN_fHPKr_awP91pnEcCSC4xnvzrvruwwwu0SGNDGTzcXetHA@mail.gmail.com>,<007ADD14-0E0A-4E41-8965-DC7882B135D6@ww-p.org>
+In-Reply-To: <007ADD14-0E0A-4E41-8965-DC7882B135D6@ww-p.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/alternative;
+	boundary="_a3fce0d3-3f7d-4063-825f-c4ac715043b5_"
+MIME-Version: 1.0
+X-Barracuda-Connect: esa2.hc2742-60.iphmx.com[216.71.147.66]
+X-Barracuda-Start-Time: 1532224739
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 9119
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.54162
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 22 Jul 2018 01:59:01.1965
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 12138
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Organization-Disclaimer-Hash:
+ 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_a3fce0d3-3f7d-4063-825f-c4ac715043b5_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+From: "Krug, Dana" <Dana.Krug@ww-p.org<mailto:Dana.Krug@ww-p.org>>
+Date: July 21, 2018 at 8:26:50 PM EDT
+To: "Aderhold, David" <David.Aderhold@ww-p.org<mailto:David.Aderhold@ww-p.o=
+rg>>
+Subject: Fwd: West Windsor Township Meeting 7/30
+
+
+
+Sent from Dana's iPhone
+
+Begin forwarded message:
+
+From: Eilleen Cardone <ebcardone@gmail.com<mailto:ebcardone@gmail.com>>
+Date: July 21, 2018 at 7:37:41 PM EDT
+To: <Council@westwindsortwp.com<mailto:Council@westwindsortwp.com>>, <wwt@w=
+estwindsortwp.com<mailto:wwt@westwindsortwp.com>>
+Cc: <anthony.fleres@ww-p.org<mailto:anthony.fleres@ww-p.org>>, <isaac.cheng=
+@ww-p.org<mailto:isaac.cheng@ww-p.org>>, <carol.herts@ww-p.org<mailto:carol=
+.herts@ww-p.org>>, <louisa.ho@ww-p.org<mailto:louisa.ho@ww-p.org>>, <rachel=
+.juliana@ww-p.org<mailto:rachel.juliana@ww-p.org>>, <michele.kaish@ww-p.org=
+<mailto:michele.kaish@ww-p.org>>, <dana.krug@ww-p.org<mailto:dana.krug@ww-p=
+.org>>, <martin.whitfield@ww-p.org<mailto:martin.whitfield@ww-p.org>>, <yu.=
+zhong@ww-p.org<mailto:yu.zhong@ww-p.org>>
+Subject: West Windsor Township Meeting 7/30
+
+Good Evening,
+
+I am writing to you as a concerned mother of an active second grader in WWP=
+ schools, and a 3 year old who would possibly attend in a few years.  I do =
+not want additional armed police officers in our schools.  I would attend t=
+he meeting on 7/30 and express my opposition there, however I'm out of town=
+ with family.  If the council rejects, my understanding is the decision wou=
+ld go back to the BOE and parents opposed to this solution will have more o=
+f an opportunity to express our opinions to the BOE.  There have been sever=
+al social media posts from the Mayor's office worded like the office is att=
+empting to shut down communication, which is disheartening.
+
+My request is not coming from a lack of faith in our police department - I =
+have the utmost respect for and trust in our officers.  I feel to better pr=
+otect our children we need a balance of mental health support in addition t=
+o security.  Our high schoolers especially have an immediate need for addit=
+ional mental health and counselor support, where I've read we have had repe=
+at issues of depression, and suicide threats.
+
+I don't work in a building with an armed security guard, my daughter's dayc=
+are does not have armed security.  My son's elementary school does not need=
+ it, either.  There are other ways to create a secure building.  I feel the=
+ money is better used towards mental health screening and support, and I ha=
+ve no opposition to additional unarmed security.  I feel our community also=
+ deserves more information and opportunities to ask questions about this ch=
+ange in a non-hostile atmosphere with open dialogue, at hours of the day/we=
+ek where most working parents are available to attend.
+
+What training will the active/retired officers have, and what support would=
+ they receive?  The Parkland security officer failed to help that situation=
+ - when was the last time he was evaluated or had a mental health screening=
+?  Retired officers would be coming back into the workforce from years of e=
+xposure in a high-stress job, how would they be initially screened and then=
+ what kind of ongoing support would they receive, and how often would they =
+be evaluated on an ongoing basis?
+
+A balance of additional services to students and existing / proposed staff =
+is just as important (in my opinion more important) as evaluating security =
+needs.
+
+Again, I work in a secure but unarmed local building, as do many people.  I=
+ don't see the need for armed guards in our schools and I wasn't aware of t=
+his earlier BOE vote or I would have voiced my opinion at that time.
+
+Thank you for your time and for listening to my opinion on this matter.
+
+Sincerely,
+
+
+
+Eilleen Cardone
+
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_a3fce0d3-3f7d-4063-825f-c4ac715043b5_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+</head>
+<body dir=3D"auto">
+<br>
+<br>
+<div id=3D"AppleMailSignature">Sent from my iPhone</div>
+<div><br>
+Begin forwarded message:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div><b>From:</b> &quot;Krug, Dana&quot; &lt;<a href=3D"mailto:Dana.Krug@ww=
+-p.org">Dana.Krug@ww-p.org</a>&gt;<br>
+<b>Date:</b> July 21, 2018 at 8:26:50 PM EDT<br>
+<b>To:</b> &quot;Aderhold, David&quot; &lt;<a href=3D"mailto:David.Aderhold=
+@ww-p.org">David.Aderhold@ww-p.org</a>&gt;<br>
+<b>Subject:</b> <b>Fwd: West Windsor Township Meeting 7/30</b><br>
+<br>
+</div>
+</blockquote>
+<blockquote type=3D"cite">
+<div><br>
+<br>
+<div id=3D"AppleMailSignature">Sent from Dana's iPhone</div>
+<div><br>
+Begin forwarded message:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div><b>From:</b> Eilleen Cardone &lt;<a href=3D"mailto:ebcardone@gmail.com=
+">ebcardone@gmail.com</a>&gt;<br>
+<b>Date:</b> July 21, 2018 at 7:37:41 PM EDT<br>
+<b>To:</b> &lt;<a href=3D"mailto:Council@westwindsortwp.com">Council@westwi=
+ndsortwp.com</a>&gt;, &lt;<a href=3D"mailto:wwt@westwindsortwp.com">wwt@wes=
+twindsortwp.com</a>&gt;<br>
+<b>Cc:</b> &lt;<a href=3D"mailto:anthony.fleres@ww-p.org">anthony.fleres@ww=
+-p.org</a>&gt;, &lt;<a href=3D"mailto:isaac.cheng@ww-p.org">isaac.cheng@ww-=
+p.org</a>&gt;, &lt;<a href=3D"mailto:carol.herts@ww-p.org">carol.herts@ww-p=
+.org</a>&gt;, &lt;<a href=3D"mailto:louisa.ho@ww-p.org">louisa.ho@ww-p.org<=
+/a>&gt;,
+ &lt;<a href=3D"mailto:rachel.juliana@ww-p.org">rachel.juliana@ww-p.org</a>=
+&gt;, &lt;<a href=3D"mailto:michele.kaish@ww-p.org">michele.kaish@ww-p.org<=
+/a>&gt;, &lt;<a href=3D"mailto:dana.krug@ww-p.org">dana.krug@ww-p.org</a>&g=
+t;, &lt;<a href=3D"mailto:martin.whitfield@ww-p.org">martin.whitfield@ww-p.=
+org</a>&gt;,
+ &lt;<a href=3D"mailto:yu.zhong@ww-p.org">yu.zhong@ww-p.org</a>&gt;<br>
+<b>Subject:</b> <b>West Windsor Township Meeting 7/30</b><br>
+<br>
+</div>
+</blockquote>
+<blockquote type=3D"cite">
+<div>
+<div dir=3D"ltr">Good Evening,
+<div><br>
+</div>
+<div>I am writing to you as a concerned mother of an active second grader i=
+n WWP schools, and a 3 year old who would possibly attend in a few years.&n=
+bsp; I do not want additional armed police officers in our schools.&nbsp; I=
+ would attend the meeting on 7/30 and express
+ my opposition there, however I'm out of town with family.&nbsp; If the cou=
+ncil rejects, my understanding is the decision would go back to the BOE and=
+ parents opposed to this solution will have more of an opportunity to expre=
+ss our opinions to the BOE.&nbsp;
+<span style=3D"font-size:small; background-color:rgb(255,255,255); float:no=
+ne; display:inline">
+There have been several social media posts from the Mayor's office worded l=
+ike the office is attempting to shut down communication, which is dishearte=
+ning.&nbsp;</span>
+</div>
+<div><br>
+</div>
+<div>My request is not coming from a lack of faith in our police department=
+ - I have the utmost respect for and trust in our officers.&nbsp; I feel to=
+ better protect our children we need a balance of mental health support in =
+addition to security.&nbsp; Our high schoolers
+ especially have an immediate need for additional mental health and counsel=
+or support, where I've read we have had repeat issues of depression, and su=
+icide threats.&nbsp;</div>
+<div><br>
+</div>
+<div>I don't work in a building with an armed security guard, my daughter's=
+ daycare does not have armed security.&nbsp; My son's elementary school doe=
+s not need it, either.&nbsp; There are other ways to create a secure buildi=
+ng.&nbsp; I feel the money is better used towards
+ mental health screening and support, and I have no opposition to additiona=
+l unarmed security.&nbsp; I feel our community also deserves more informati=
+on and opportunities to ask questions about this change in a non-hostile at=
+mosphere with open dialogue, at hours
+ of the day/week where most working parents are available to attend.&nbsp;<=
+/div>
+<div><br>
+</div>
+<div>What training will the active/retired officers have, and what support =
+would they receive?&nbsp; The Parkland security officer failed to help that=
+ situation - when was the last time he was evaluated or had a mental health=
+ screening?&nbsp; Retired officers would be
+ coming back into the workforce from years of exposure in a high-stress job=
+, how would they be initially screened and then what kind of ongoing suppor=
+t would they receive, and how often would they be evaluated on an ongoing b=
+asis?</div>
+<div><br>
+</div>
+<div>A balance of additional services to students and existing / proposed s=
+taff is just as important (in my opinion more important) as evaluating secu=
+rity needs.&nbsp;&nbsp;<br>
+</div>
+<div><br>
+</div>
+<div>Again, I work in a secure but unarmed local building, as do many peopl=
+e.&nbsp; I don't see the need for armed guards in our schools and I wasn't =
+aware of this earlier BOE vote or I would have voiced my opinion at that ti=
+me.</div>
+<div><br>
+</div>
+<div>Thank you for your time and for listening to my opinion on this matter=
+.</div>
+<div><br>
+</div>
+<div>Sincerely,</div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div>Eilleen Cardone</div>
+<div><br>
+</div>
+<div><br>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</blockquote>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_a3fce0d3-3f7d-4063-825f-c4ac715043b5_--
+

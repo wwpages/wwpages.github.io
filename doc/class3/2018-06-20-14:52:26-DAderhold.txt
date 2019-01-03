@@ -1,0 +1,514 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Wed, 20 Jun 2018 14:52:28 -0400
+X-ASG-Debug-ID: 1529520747-0eddee178611290001-DgNuJm
+Received: from mail.ww-p.org (mail.ww-p.org [204.10.63.8]) by
+ BCSpam300.westwindsortwp.local with ESMTP id 3TK2Ea1rGzoSBcir; Wed, 20 Jun
+ 2018 14:52:27 -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Apparent-Source-IP: 204.10.63.8
+X-IronPort-AV: E=Sophos;i="5.51,248,1526356800"; 
+   d="scan'208,217";a="140629802"
+Received: from unknown (HELO WWP-WEbmail.westwindsor.k12.nj.us) ([10.7.75.5])
+  by mail.ww-p.org with ESMTP; 20 Jun 2018 14:52:27 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Wed, 20 Jun
+ 2018 14:52:27 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: 'Sharon Young' <Syoung@WestWindsorTwp.com>
+CC: Gay Huber <ghuber@westwindsortwp.com>, Alison Miller
+	<amiller@WestWindsorTwp.com>, Hemant Marathe <hmarathe@WestWindsorTwp.com>
+Subject: RE: Request for Attendance at Council Meeting to Discuss Class III
+ Officers
+Thread-Topic: Request for Attendance at Council Meeting to Discuss Class III
+ Officers
+X-ASG-Orig-Subj: RE: Request for Attendance at Council Meeting to Discuss Class III
+ Officers
+Thread-Index: AdQD7OhMlxwywkbHThS40UNgHT/JlQAASNzwAACDJeAAAuhj4AExLvBAAABojfAAAHP1QAAA8smw
+Date: Wed, 20 Jun 2018 18:52:26 +0000
+Message-ID: <98E441CFB9DE4F42AA864F9ED21028B5016F6ABB87@wwp-exchange3.westwindsor.k12.nj.us>
+References: <EF77C76C43914745AFC52B0A20593149033F1D0369@WWTExch2012.Westwindsortwp.local>
+ <EB9FE8490D4B6245B273E091633E1410033F1E1CFD@WWTExch2012.Westwindsortwp.local>
+ <914C4DC1FFE58545AF019F286088A16DCF797FE3@WWTExch2012.Westwindsortwp.local>
+ <EB9FE8490D4B6245B273E091633E14100348F6B17A@WWTExch2012.Westwindsortwp.local>
+ <98E441CFB9DE4F42AA864F9ED21028B5016F6AB8B3@wwp-exchange3.westwindsor.k12.nj.us>
+ <EB9FE8490D4B6245B273E091633E14100348F6B22C@WWTExch2012.Westwindsortwp.local>
+In-Reply-To: <EB9FE8490D4B6245B273E091633E14100348F6B22C@WWTExch2012.Westwindsortwp.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.101.9.103]
+Content-Type: multipart/alternative;
+	boundary="_d784dab6-b16c-4dbb-a649-09aaaab52309_"
+MIME-Version: 1.0
+X-Barracuda-Connect: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Start-Time: 1529520747
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 16469
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.52127
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 20 Jun 2018 18:52:28.9886
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 20621
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_d784dab6-b16c-4dbb-a649-09aaaab52309_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+I will not be able to prepare a presentation to respond to the concerns unt=
+il I have a comprehensive list of questions.  I had respectfully asked for =
+all questions to be received by today.   Do you know if this will happen?
+
+
+
+From: Sharon Young [mailto:Syoung@WestWindsorTwp.com]
+Sent: Wednesday, June 20, 2018 2:43 PM
+To: Aderhold, David
+Cc: Gay Huber; Alison Miller; Hemant Marathe
+Subject: RE: Request for Attendance at Council Meeting to Discuss Class III=
+ Officers
+
+No it is not.  This is only from Ms. Bahree.
+
+Sharon L. Young
+Township Clerk
+West Windsor Township
+609-799-2400 ext. 220
+
+"Please be advised that the Township of West Windsor is subject to the New =
+Jersey Open Public Records Act.  As such, any email sent or received by the=
+ Township may be subject to a records request. "
+
+
+From: Aderhold, David [mailto:David.Aderhold@ww-p.org]
+Sent: Wednesday, June 20, 2018 2:12 PM
+To: Sharon Young
+Cc: Gay Huber; Alison Miller; Hemant Marathe
+Subject: RE: Request for Attendance at Council Meeting to Discuss Class III=
+ Officers
+
+Sharon,
+
+Is this a comprehensive list of questions from the WW Township Council?
+
+Thanks,
+
+Dave
+
+From: Sharon Young [mailto:Syoung@WestWindsorTwp.com]
+Sent: Wednesday, June 20, 2018 2:00 PM
+To: Aderhold, David
+Cc: Gay Huber; Alison Miller
+Subject: FW: Request for Attendance at Council Meeting to Discuss Class III=
+ Officers
+
+Questions for Monday's attendance at the WWT Council Meeting.
+
+Sharon L. Young
+Township Clerk
+West Windsor Township
+609-799-2400 ext. 220
+
+"Please be advised that the Township of West Windsor is subject to the New =
+Jersey Open Public Records Act.  As such, any email sent or received by the=
+ Township may be subject to a records request. "
+
+
+From: Jyotika Bahree
+Sent: Friday, June 15, 2018 8:34 AM
+To: Sharon Young
+Subject: RE: Request for Attendance at Council Meeting to Discuss Class III=
+ Officers
+
+Hi Sharon,
+
+Here are my questions for Dr. Aderhold -
+
+
+1.       Can there be a common recruitment task force for the two townships=
+ - WW and Plainsboro - composed of officers from both towns for the purpose=
+s of achieving consistency in the quality of hired officers for schools in =
+both towns?
+
+2.       Will the Class III SRO double up as "eyes on the door" or will the=
+ school district continue that program the way its run currently?
+
+3.       Can you describe a typical day of the SRO as they go about fulfill=
+ing their many and challenging responsibilities as educators, informal coun=
+selors and community police officers in the schools? And if they are inside=
+ a class somewhere in our very large schools, what does it mean for respons=
+e times if there were to be an incident?
+
+4.       Would a 2-day training program be comprehensive enough to cover al=
+l aspects of their job responsibilities? And would they be required to unde=
+rgo training on a regular basis so they can perform their jobs effectively?
+
+Thank you!
+
+Jyotika
+
+ =20
+
+--_d784dab6-b16c-4dbb-a649-09aaaab52309_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Calisto MT";
+	panose-1:2 4 6 3 5 5 5 3 3 4;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+span.emailstyle17
+	{mso-style-name:emailstyle17;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.emailstyle18
+	{mso-style-name:emailstyle18;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle23
+	{mso-style-type:personal;
+	color:black;}
+span.EmailStyle24
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle25
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle26
+	{mso-style-type:personal;
+	color:black;}
+span.EmailStyle27
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle28
+	{mso-style-type:personal;
+	color:black;}
+span.EmailStyle29
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">I will not be able to =
+prepare a presentation to respond to the concerns until I have a comprehens=
+ive list of questions.&nbsp; I had respectfully asked for all questions to =
+be received by today.&nbsp; &nbsp;Do you know if this
+ will happen?<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Sharon Y=
+oung [mailto:Syoung@WestWindsorTwp.com]
+<br>
+<b>Sent:</b> Wednesday, June 20, 2018 2:43 PM<br>
+<b>To:</b> Aderhold, David<br>
+<b>Cc:</b> Gay Huber; Alison Miller; Hemant Marathe<br>
+<b>Subject:</b> RE: Request for Attendance at Council Meeting to Discuss Cl=
+ass III Officers<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:black">No it is not.&nbsp; This=
+ is only from Ms. Bahree.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:black"><o:p>&nbsp;</o:p></span>=
+</p>
+<div>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:12.0pt;font-family:&quot=
+;Calisto MT&quot;,&quot;serif&quot;;color:black">Sharon L. Young<o:p></o:p>=
+</span></i></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:12.0pt;font-family:&quot=
+;Calisto MT&quot;,&quot;serif&quot;;color:black">Township Clerk<o:p></o:p><=
+/span></i></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:12.0pt;font-family:&quot=
+;Calisto MT&quot;,&quot;serif&quot;;color:black">West Windsor Township<o:p>=
+</o:p></span></i></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:12.0pt;font-family:&quot=
+;Calisto MT&quot;,&quot;serif&quot;;color:black">609-799-2400 ext. 220<o:p>=
+</o:p></span></i></p>
+<p class=3D"MsoNormal"><b><i><span style=3D"font-size:12.0pt;font-family:&q=
+uot;Calisto MT&quot;,&quot;serif&quot;;color:black"><o:p>&nbsp;</o:p></span=
+></i></b></p>
+<p class=3D"MsoNormal"><b><i><span style=3D"color:blue">&quot;Please be adv=
+ised that the&nbsp;Township of West Windsor&nbsp;is subject to the New Jers=
+ey Open Public Records Act.&nbsp; As such, any email sent or received by th=
+e&nbsp;Township may be subject to a records request.&nbsp;&quot;</span></i>=
+<span style=3D"color:black"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:12.0pt;font-family:&quot=
+;Calisto MT&quot;,&quot;serif&quot;;color:black"><o:p>&nbsp;</o:p></span></=
+i></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:black"><o:p>&nbsp;</o:p></span>=
+</p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Aderhold=
+, David [<a href=3D"mailto:David.Aderhold@ww-p.org">mailto:David.Aderhold@w=
+w-p.org</a>]
+<br>
+<b>Sent:</b> Wednesday, June 20, 2018 2:12 PM<br>
+<b>To:</b> Sharon Young<br>
+<b>Cc:</b> Gay Huber; Alison Miller; Hemant Marathe<br>
+<b>Subject:</b> RE: Request for Attendance at Council Meeting to Discuss Cl=
+ass III Officers<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Sharon,<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Is this a comprehensiv=
+e list of questions from the WW Township Council?<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Thanks,<br>
+<br>
+Dave<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Sharon Y=
+oung [<a href=3D"mailto:Syoung@WestWindsorTwp.com">mailto:Syoung@WestWindso=
+rTwp.com</a>]
+<br>
+<b>Sent:</b> Wednesday, June 20, 2018 2:00 PM<br>
+<b>To:</b> Aderhold, David<br>
+<b>Cc:</b> Gay Huber; Alison Miller<br>
+<b>Subject:</b> FW: Request for Attendance at Council Meeting to Discuss Cl=
+ass III Officers<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:black">Questions for Monday&#82=
+17;s attendance at the WWT Council Meeting.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:black"><o:p>&nbsp;</o:p></span>=
+</p>
+<div>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:12.0pt;font-family:&quot=
+;Calisto MT&quot;,&quot;serif&quot;;color:black">Sharon L. Young<o:p></o:p>=
+</span></i></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:12.0pt;font-family:&quot=
+;Calisto MT&quot;,&quot;serif&quot;;color:black">Township Clerk<o:p></o:p><=
+/span></i></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:12.0pt;font-family:&quot=
+;Calisto MT&quot;,&quot;serif&quot;;color:black">West Windsor Township<o:p>=
+</o:p></span></i></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:12.0pt;font-family:&quot=
+;Calisto MT&quot;,&quot;serif&quot;;color:black">609-799-2400 ext. 220<o:p>=
+</o:p></span></i></p>
+<p class=3D"MsoNormal"><b><i><span style=3D"font-size:12.0pt;font-family:&q=
+uot;Calisto MT&quot;,&quot;serif&quot;;color:black"><o:p>&nbsp;</o:p></span=
+></i></b></p>
+<p class=3D"MsoNormal"><b><i><span style=3D"color:blue">&quot;Please be adv=
+ised that the&nbsp;Township of West Windsor&nbsp;is subject to the New Jers=
+ey Open Public Records Act.&nbsp; As such, any email sent or received by th=
+e&nbsp;Township may be subject to a records request.&nbsp;&quot;</span></i>=
+<span style=3D"color:black"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:12.0pt;font-family:&quot=
+;Calisto MT&quot;,&quot;serif&quot;;color:black"><o:p>&nbsp;</o:p></span></=
+i></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:black"><o:p>&nbsp;</o:p></span>=
+</p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Jyotika =
+Bahree
+<br>
+<b>Sent:</b> Friday, June 15, 2018 8:34 AM<br>
+<b>To:</b> Sharon Young<br>
+<b>Subject:</b> RE: Request for Attendance at Council Meeting to Discuss Cl=
+ass III Officers<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Hi Sharon,<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Here are my questions =
+for Dr. Aderhold &#8211;
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoListParagraph" style=3D"text-indent:-.25in"><span style=3D"c=
+olor:#1F497D">1.</span><span style=3D"font-size:7.0pt;font-family:&quot;Tim=
+es New Roman&quot;,&quot;serif&quot;;color:#1F497D">&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span><span style=3D"color:#1F497D">Can there be a common recruitment task=
+ force for the two townships &#8211; WW and Plainsboro &#8211; composed of =
+officers from both towns for the purposes of achieving consistency in the q=
+uality of hired officers for schools in both towns?<o:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"text-indent:-.25in"><span style=3D"c=
+olor:#1F497D">2.</span><span style=3D"font-size:7.0pt;font-family:&quot;Tim=
+es New Roman&quot;,&quot;serif&quot;;color:#1F497D">&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span><span style=3D"color:#1F497D">Will the Class III SRO double up as &#=
+8220;eyes on the door&#8221; or will the school district continue that prog=
+ram the way its run currently?<o:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"text-indent:-.25in"><span style=3D"c=
+olor:#1F497D">3.</span><span style=3D"font-size:7.0pt;font-family:&quot;Tim=
+es New Roman&quot;,&quot;serif&quot;;color:#1F497D">&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span><span style=3D"color:#1F497D">Can you describe a typical day of the =
+SRO as they go about fulfilling their many and challenging
+</span><span style=3D"color:#1F4E79">responsibilities as educators, informa=
+l counselors and community police officers in the schools? And if they are =
+inside a class somewhere in our very large schools, what does it mean for r=
+esponse times if there were to be
+ an incident?</span><span style=3D"color:#1F497D"><o:p></o:p></span></p>
+<p class=3D"MsoListParagraph" style=3D"text-indent:-.25in"><span style=3D"c=
+olor:#1F497D">4.</span><span style=3D"font-size:7.0pt;font-family:&quot;Tim=
+es New Roman&quot;,&quot;serif&quot;;color:#1F497D">&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span><span style=3D"color:#1F497D">Would a 2-day training program be comp=
+rehensive enough to cover all aspects of their job responsibilities? And wo=
+uld they be required to undergo training on a regular basis so they can per=
+form their jobs effectively?
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Thank you!<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Jyotika<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,&quot;serif&quot;"><br>
+&nbsp;&nbsp;&shy;&shy;&nbsp;&nbsp;<o:p></o:p></span></p>
+</div>
+</body>
+</html>
+
+--_d784dab6-b16c-4dbb-a649-09aaaab52309_--
+

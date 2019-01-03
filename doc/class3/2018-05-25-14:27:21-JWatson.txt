@@ -1,0 +1,1336 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Fri, 25 May 2018 14:27:24 -0400
+X-ASG-Debug-ID: 1527272843-0eddee178318850001-gI7hzy
+Received: from mail.ww-p.org (mail.ww-p.org [204.10.63.8]) by
+ BCSpam300.westwindsortwp.local with ESMTP id 0ZYzunGu4IJAVPYm; Fri, 25 May
+ 2018 14:27:23 -0400 (EDT)
+X-Barracuda-Envelope-From: Jamie.Watson@ww-p.org
+X-Barracuda-Effective-Source-IP: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Apparent-Source-IP: 204.10.63.8
+X-Attachment-filename: WW May 25th - June 7th, 2018.xlsx
+X-IronPort-AV: E=Sophos;i="5.49,440,1520913600"; 
+   d="xml'?bin'?scan'208,217,72,48?xlsx'208,217,72,48,72,48?rels'208,217,72,48,72,48";a="136727142"
+Received: from unknown (HELO WWP-WEbmail.westwindsor.k12.nj.us) ([10.7.75.5])
+  by mail.ww-p.org with ESMTP; 25 May 2018 14:27:22 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Fri, 25 May
+ 2018 14:27:23 -0400
+From: "Watson, Jamie" <Jamie.Watson@ww-p.org>
+To: "'lgeevers@westwindsortwp.com'" <lgeevers@westwindsortwp.com>,
+	"'hmarathe@westwindsortwp.com'" <hmarathe@westwindsortwp.com>,
+	"'amiller@westwindsortwp.com'" <amiller@westwindsortwp.com>,
+	"'ahamilton@westwindsortwp.com'" <ahamilton@westwindsortwp.com>,
+	"'jbahree@westwindsortwp.com'" <jbahree@westwindsortwp.com>,
+	"'vmanzari@westwindsortwp.com'" <vmanzari@westwindsortwp.com>, 'Sharon Young'
+	<Syoung@WestWindsorTwp.com>, 'Gay Huber' <ghuber@westwindsortwp.com>,
+	"'Marlena Schmid (mschmid@westwindsortwp.com)'" <mschmid@westwindsortwp.com>,
+	'MAYOR'SOFFICE' <mayor@westwindsortwp.com>
+CC: "Hutner, Gerri" <Gerri.Hutner@ww-p.org>, "Cave,  Rick"
+	<Rick.Cave@ww-p.org>, 'Cynthia Rhymer' <crhymer@WestWindsorTwp.com>, 'Barbara
+ Campbell' <bcampbell@WestWindsorTwp.com>, 'Meena Mishra'
+	<meena.mishra@gmail.com>, "'anthony.pojuner@diag.bracco.com'"
+	<anthony.pojuner@diag.bracco.com>, 'Lynnie Sharma' <lynsharma@gmail.com>,
+	'Erika Fields' <erikajfields@gmail.com>, "'RJSlinn@aol.com'"
+	<RJSlinn@aol.com>, 'Jenny Yu' <jenclm07@gmail.com>, "Watson, Jackie"
+	<Jackie.Watson@ww-p.org>, "Watson, Jamie" <Jamie.Watson@ww-p.org>
+Subject: The West Windsor Cable TV Schedule for May 25th - June 7th, 2018
+Thread-Topic: The West Windsor Cable TV Schedule for May 25th - June 7th,
+ 2018
+X-ASG-Orig-Subj: The West Windsor Cable TV Schedule for May 25th - June 7th, 2018
+Thread-Index: AdP0VgT9KlNDNN/VTy+n7Q0YBkrpyw==
+Date: Fri, 25 May 2018 18:27:21 +0000
+Message-ID: <F88C1E578689794EAE3E6A1294732EE382797985@wwp-exchange3.westwindsor.k12.nj.us>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.7.77.130]
+Content-Type: multipart/mixed;
+	boundary="_ea9d9e78-420d-4482-b589-4327c79d65a7_"
+MIME-Version: 1.0
+X-Barracuda-Connect: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Start-Time: 1527272843
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 33728
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.60
+X-Barracuda-Spam-Status: No, SCORE=0.60 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=HTML_MESSAGE, MARKETING_SUBJECT
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.51255
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.60 MARKETING_SUBJECT      Subject contains popular marketing words
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Return-Path: Jamie.Watson@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 25 May 2018 18:27:24.4639
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 59199
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Organization-Disclaimer-Hash:
+ 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_ea9d9e78-420d-4482-b589-4327c79d65a7_
+Content-Type: multipart/alternative;
+	boundary="_b4a8349e-1825-4976-aee0-39f505bb5545_"
+
+--_b4a8349e-1825-4976-aee0-39f505bb5545_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Comcast viewers may watch both live and pre-recorded West Windsor Cable Tel=
+evision programs on Channel 27, as well as School and Municipal Bulletin Bo=
+ards.
+
+Verizon viewers may watch pre-recorded West Windsor Cable Television progra=
+ms along with School and Municipal Bulletin Boards on Channel 42.  Live bro=
+adcasts from West Windsor are only available to Verizon viewers on Channel =
+41.
+
+Visit the West Windsor Township website to view recorded Town Council Meeti=
+ngs and other municipal events.
+
+Thanks for watching,
+Jamie Watson
+Broadcast Station Manager
+West Windsor-Plainsboro Cable Television Network
+
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_b4a8349e-1825-4976-aee0-39f505bb5545_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<style>
+<!--
+@font-face
+	{font-family:SimSun}
+@font-face
+	{font-family:SimSun}
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:Tahoma}
+@font-face
+	{font-family:"\@SimSun"}
+@font-face
+	{font-family:"Gill Sans MT"}
+@font-face
+	{font-family:"Bookman Old Style"}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif"}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline}
+p
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif"}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif"}
+span.emailstyle17
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle18
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle19
+	{font-family:"Arial","sans-serif";
+	color:navy}
+span.emailstyle20
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle21
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle22
+	{font-family:"Arial","sans-serif";
+	color:navy}
+span.emailstyle23
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle24
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle25
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle26
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle27
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle28
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle29
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle30
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle31
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle32
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle33
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle34
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle35
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle36
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle37
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle38
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle39
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle40
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle41
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle42
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle43
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle44
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle45
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle46
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle47
+	{font-family:"Bookman Old Style","serif";
+	color:navy}
+span.emailstyle48
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle49
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle50
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle51
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle52
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle53
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle54
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle55
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle56
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle57
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle58
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle59
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle60
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle61
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle62
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle63
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle64
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle65
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle66
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle67
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle68
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle69
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle70
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle71
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle72
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle73
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle74
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle75
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle76
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle77
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle78
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle79
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle80
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle81
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle82
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle83
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle84
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle85
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle86
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle87
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle88
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle89
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle90
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle91
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle92
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle93
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle94
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle95
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle96
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle97
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle98
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle99
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle100
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle101
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle102
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle103
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle104
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle105
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle106
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle107
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle108
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle109
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle110
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle111
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle112
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle113
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle114
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle115
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle116
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle117
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle118
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle119
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle120
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle121
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle122
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle123
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle124
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle125
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle126
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle127
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle128
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle129
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle130
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle131
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle132
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle133
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle134
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle135
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle136
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle137
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle138
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle139
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle140
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle141
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle142
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle143
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle144
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle145
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle146
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle147
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle148
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle149
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle150
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle151
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle152
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle153
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle154
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle155
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle156
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle157
+	{font-family:"Tahoma","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal}
+span.emailstyle158
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle159
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle160
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle161
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle162
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle163
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle164
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle165
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle166
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle167
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle168
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle169
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle170
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle171
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle172
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle173
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle174
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle175
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle176
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle177
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle178
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle179
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle180
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle181
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle182
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle183
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle184
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle185
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle186
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle187
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle188
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle189
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle190
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle191
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle192
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle193
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle194
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle195
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle196
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle197
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle198
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle199
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle200
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle201
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle202
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle203
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle204
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle205
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle206
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle207
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle208
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle209
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.emailstyle210
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle213
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle214
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle215
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle216
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle217
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle218
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle219
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle220
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle221
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle222
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle223
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle224
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle225
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle226
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle227
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle228
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle229
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle230
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle231
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle232
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle233
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle234
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle235
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle236
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle237
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle238
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle239
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle240
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle241
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle242
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle243
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle244
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle245
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle246
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle247
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle248
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle249
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle250
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+span.EmailStyle251
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+.MsoChpDefault
+	{font-size:10.0pt}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.WordSection1
+	{}
+-->
+</style>
+</head>
+<body bgcolor=3D"white" lang=3D"EN-US" link=3D"blue" vlink=3D"blue">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt; font-family:&quo=
+t;Gill Sans MT&quot;,&quot;sans-serif&quot;; color:black">Comcast</span></b=
+><span style=3D"font-size:11.0pt; font-family:&quot;Gill Sans MT&quot;,&quo=
+t;sans-serif&quot;; color:black"> viewers may watch both live and pre-recor=
+ded
+ West Windsor Cable Television programs on Channel 27, as well as School an=
+d Municipal Bulletin Boards.
+</span><span style=3D"color:black"></span></p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;G=
+ill Sans MT&quot;,&quot;sans-serif&quot;; color:black">&nbsp;</span><span s=
+tyle=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt; font-family:&quo=
+t;Gill Sans MT&quot;,&quot;sans-serif&quot;; color:black">Verizon</span></b=
+><span style=3D"font-size:11.0pt; font-family:&quot;Gill Sans MT&quot;,&quo=
+t;sans-serif&quot;; color:black"> viewers may watch pre-recorded West Winds=
+or
+ Cable Television programs along with School and Municipal Bulletin Boards =
+on Channel 42.&nbsp; Live broadcasts from West Windsor are
+<u>only</u> available to Verizon viewers on Channel 41.</span><span style=
+=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;G=
+ill Sans MT&quot;,&quot;sans-serif&quot;; color:black">&nbsp;</span><span s=
+tyle=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;G=
+ill Sans MT&quot;,&quot;sans-serif&quot;; color:black">Visit the West Winds=
+or Township website to view recorded Town Council Meetings and other munici=
+pal events. &nbsp;</span><span style=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;G=
+ill Sans MT&quot;,&quot;sans-serif&quot;; color:black">&nbsp;</span><span s=
+tyle=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;G=
+ill Sans MT&quot;,&quot;sans-serif&quot;; color:black">Thanks for watching,=
+</span><span style=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;G=
+ill Sans MT&quot;,&quot;sans-serif&quot;; color:black">Jamie Watson</span><=
+span style=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; font-family:&quot;Gi=
+ll Sans MT&quot;,&quot;sans-serif&quot;; color:black">Broadcast Station Man=
+ager</span><span style=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt; font-family:&quot;Gi=
+ll Sans MT&quot;,&quot;sans-serif&quot;; color:black">West Windsor-Plainsbo=
+ro Cable Television Network</span><span style=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:black">&nbsp;</span><span style=
+=3D"color:black"></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1F497D">&nbsp;</span><span styl=
+e=3D"color:black"></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_b4a8349e-1825-4976-aee0-39f505bb5545_--
+
+--_ea9d9e78-420d-4482-b589-4327c79d65a7_
+Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;
+	name="WW May 25th - June 7th, 2018.xlsx"
+Content-Description: WW May 25th - June 7th, 2018.xlsx
+Content-Disposition: attachment;
+	filename="WW May 25th - June 7th, 2018.xlsx"; size=14990;
+	creation-date="Fri, 25 May 2018 18:00:16 GMT";
+	modification-date="Fri, 25 May 2018 18:00:16 GMT"
+Content-Transfer-Encoding: base64
+
+UEsDBBQABgAIAAAAIQAhjEY6dgEAAIwFAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIooAAC
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADE
+VMlqwzAQvRf6D0bXYivJoZQSJ4cuxzaQ9AMUa2yL2JLQTNLk7zt2FkrIgmmgFxtLmreMNW84XtdV
+tIKAxtlU9JOeiMBmThtbpOJr9h4/iQhJWa0qZyEVG0AxHt3fDWcbDxhxtcVUlET+WUrMSqgVJs6D
+5Z3chVoRf4ZCepUtVAFy0Os9ysxZAksxNRhiNHyFXC0rit7WvLxVMjdWRC/bcw1VKpT3lckUsVC5
+svqIJHZ5bjLQLlvWDJ2gD6A0lgBUV4kPhhnDFIjYGAp5kjNAhd1Id64SrmyFYWk8PrD1MwzNznlX
+u7pP/h3BaIgmKtCHqtm7XFfy24XF3LlFchmka2vaFiW1Mnav+wJ/exhl++rfWEjjrwXuqGPwTzqI
+7zrI9vn3VrQwV4wjbSrAG7vdgl5jLlUAPSWeouLmAn5jX9LBoz0JziOnR4DuXdiPalMdewaCQAYO
+w3rq0h8YOXq6Ex4FEjTZpkGf4JZtlo5+AAAA//8DAFBLAwQUAAYACAAAACEAtVUwI/UAAABMAgAA
+CwAIAl9yZWxzLy5yZWxzIKIEAiigAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIySz07DMAzG70i8Q+T76m5ICKGlu0xIuyFUHsAk7h+1jaMk
+QPf2hAOCSmPb0fbnzz9b3u7maVQfHGIvTsO6KEGxM2J712p4rZ9WD6BiImdpFMcajhxhV93ebF94
+pJSbYtf7qLKLixq6lPwjYjQdTxQL8exypZEwUcphaNGTGahl3JTlPYa/HlAtPNXBaggHeweqPvo8
++bK3NE1veC/mfWKXToxAnhM7y3blQ2YLqc/bqJpCy0mDFfOc0xHJ+yJjA54m2lxP9P+2OHEiS4nQ
+SODzPN+Kc0Dr64Eun2ip+L3OPOKnhOFNZPhhwcUPVF8AAAD//wMAUEsDBBQABgAIAAAAIQBKqaZh
++gAAAEcDAAAaAAgBeGwvX3JlbHMvd29ya2Jvb2sueG1sLnJlbHMgogQBKKAAAQAAAAAAAAAAAAAA
+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
+
+--_ea9d9e78-420d-4482-b589-4327c79d65a7_--
+

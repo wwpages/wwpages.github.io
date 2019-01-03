@@ -1,0 +1,149 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Mon, 21 May 2018 19:56:04 -0400
+X-ASG-Debug-ID: 1526946963-0eddee13050e480001-OBQS1U
+Received: from mail.ww-p.org (mail.ww-p.org [204.10.63.8]) by
+ BCSpam300.westwindsortwp.local with ESMTP id pG0sNrerHUKT4FJ3 for
+ <mschmid@westwindsortwp.com>; Mon, 21 May 2018 19:56:03 -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Apparent-Source-IP: 204.10.63.8
+X-IronPort-AV: E=Sophos;i="5.49,428,1520913600"; 
+   d="scan'208,217";a="135893252"
+Received: from unknown (HELO WWP-WEbmail.westwindsor.k12.nj.us) ([10.7.75.5])
+  by mail.ww-p.org with ESMTP; 21 May 2018 19:56:03 -0400
+Received: from WWP-EXCHANGE2B.westwindsor.k12.nj.us
+ ([fe80::4838:b4c8:5c22:a850]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Mon, 21 May
+ 2018 19:56:02 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: Marlena Schmid <mschmid@westwindsortwp.com>
+Subject: Re: No comment .during our business meeting from CM about Class III
+ Officers in Schools. 
+Thread-Topic: No comment .during our business meeting from CM about Class
+ III Officers in Schools. 
+X-ASG-Orig-Subj: Re: No comment .during our business meeting from CM about Class III
+ Officers in Schools. 
+Thread-Index: AdPxXy1T2iUfd+WPTSybtpc2tAxF5QAABhbB
+Date: Mon, 21 May 2018 23:56:02 +0000
+Message-ID: <F3C80C97-9F6F-4F32-B366-8DCE10081E8F@ww-p.org>
+References: <42D18407A474984C9809A6A45229A77C033532BB4B@WWTExch2012.Westwindsortwp.local>
+In-Reply-To: <42D18407A474984C9809A6A45229A77C033532BB4B@WWTExch2012.Westwindsortwp.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/alternative;
+	boundary="_121a10d3-5741-4752-a5aa-67e30200eb19_"
+MIME-Version: 1.0
+X-Barracuda-Connect: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Start-Time: 1526946963
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 1700
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.51124
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 21 May 2018 23:56:04.0371
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 4597
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_121a10d3-5741-4752-a5aa-67e30200eb19_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you
+
+Sent from my iPhone
+
+On May 21, 2018, at 7:55 PM, Marlena Schmid <mschmid@westwindsortwp.com<mai=
+lto:mschmid@westwindsortwp.com>> wrote:
+
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+  =AD=AD
+
+--_121a10d3-5741-4752-a5aa-67e30200eb19_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+</head>
+<body dir=3D"auto">
+Thank you<br>
+<br>
+<div id=3D"AppleMailSignature">Sent from my iPhone</div>
+<div><br>
+On May 21, 2018, at 7:55 PM, Marlena Schmid &lt;<a href=3D"mailto:mschmid@w=
+estwindsortwp.com">mschmid@westwindsortwp.com</a>&gt; wrote:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div><style>
+<!--
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Calibri}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif}
+a:link, span.MsoHyperlink
+	{color:#0563C1;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline}
+span.EmailStyle17
+	{font-family:"Calibri",sans-serif;
+	color:windowtext}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.WordSection1
+	{}
+-->
+</style>
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">&nbsp;</p>
+</div>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+<br>
+&nbsp;&nbsp;=AD=AD&nbsp;&nbsp; </div>
+</blockquote>
+</body>
+</html>
+
+--_121a10d3-5741-4752-a5aa-67e30200eb19_--
+

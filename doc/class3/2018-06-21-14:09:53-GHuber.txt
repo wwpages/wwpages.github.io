@@ -1,0 +1,136 @@
+Received: from WWTExch2012.Westwindsortwp.local ([::1]) by
+ WWTExch2012.Westwindsortwp.local ([::1]) with mapi id 14.01.0218.012; Thu, 21
+ Jun 2018 14:09:54 -0400
+From: <ghuber@westwindsortwp.com>
+To: <issac.chang@ww-p.org>, <anthony.fleres@ww-p.org>, <carol.herts@ww-p.org>,
+	<louisa.ho@ww-p.org>, <rachel.juliana@ww-p.org>, <michele.kaish@ww-p.org>,
+	<dana.krug@ww-p.org>, <martin.whitfield@ww-p.org>, <yu.zhong@ww-p.org>
+CC: <amiller@WestWindsorTwp.com>, <Syoung@WestWindsorTwp.com>
+Subject: Board of Education Members Invitation to WW Township Council Meeting
+Thread-Topic: Board of Education Members Invitation to WW Township Council
+ Meeting
+Thread-Index: AdQJikUlCNv4+LrQTla/Atjyu6Bfsw==
+Date: Thu, 21 Jun 2018 18:09:53 +0000
+Message-ID: <EF77C76C43914745AFC52B0A205931490348F57680@WWTExch2012.Westwindsortwp.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-ms-exchange-organization-originalsize: 12427
+x-ms-exchange-organization-originalarrivaltime: 21 Jun 2018 18:09:53.8340
+ (UTC)
+x-ms-exchange-organization-messagesource: StoreDriver
+x-ms-exchange-organization-messagedirectionality: Originating
+x-ms-exchange-forest-messagescope: 00000000-0000-0000-0000-000000000000
+x-ms-exchange-organization-messagescope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-BCC:
+x-ms-exchange-organization-originalclientipaddress: 10.11.13.63
+x-originating-ip: [10.11.13.63]
+x-ms-exchange-organization-originalserveripaddress: ::1
+x-ms-exchange-organization-messagelatency: SRV=WWTExch2012.Westwindsortwp.local:TOTAL=0
+x-ms-exchange-organization-hygienepolicy: Standard
+x-ms-exchange-organization-recipient-limit-verified: True
+x-ms-exchange-organization-disclaimer-hash: 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+x-ms-exchange-forest-rulesexecuted: WWTExch2012
+x-ms-exchange-organization-rules-execution-history: OPRA Disclaimer
+ Footer%%%Spam
+Content-Type: multipart/alternative;
+	boundary="_000_EF77C76C43914745AFC52B0A205931490348F57680WWTExch2012We_"
+MIME-Version: 1.0
+
+--_000_EF77C76C43914745AFC52B0A205931490348F57680WWTExch2012We_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Members of the West Windsor-Plainsboro Board of Education:
+
+Council President Miller would like to invite you to attend the West Windso=
+r Council Meeting this Monday, June 25, 2018. Dr. Aderhold will be addressi=
+ng the Class III Police Officer hiring.  Our meeting starts at 7:00 p.m.  I=
+f you have any questions you can reach Council President Miller at amiller@=
+westwindsortwp.com.
+
+Gay
+
+Ms. Gay M. Huber
+Deputy Township Clerk
+West Windsor Township
+609-799-2400 ext. 213
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_000_EF77C76C43914745AFC52B0A205931490348F57680WWTExch2012We_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<style>
+<!--
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:"Script MT Bold"}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif"}
+a:link, span.MsoHyperlink
+	{color:#0563C1;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline}
+span.EmailStyle17
+	{font-family:"Calibri","sans-serif";
+	color:windowtext}
+.MsoChpDefault
+	{font-family:"Calibri","sans-serif"}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.WordSection1
+	{}
+-->
+</style>
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Dear Members of the West Windsor-Plainsboro Board of=
+ Education:</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">Council President Miller would like to invite you to=
+ attend the West Windsor Council Meeting this Monday, June 25, 2018. Dr. Ad=
+erhold will be addressing the Class III Police Officer hiring.&nbsp; Our me=
+eting starts at 7:00 p.m.&nbsp; If you have
+ any questions you can reach Council President Miller at amiller@westwindso=
+rtwp.com.</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">Gay</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Script MT Bold&q=
+uot;; color:#0070C0">Ms. Gay M. Huber</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Script MT Bold&q=
+uot;; color:#0070C0">Deputy Township Clerk</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Script MT Bold&q=
+uot;; color:#0070C0">West Windsor Township</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Script MT Bold&q=
+uot;; color:#0070C0">609-799-2400 ext. 213</span></b></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+</div>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_000_EF77C76C43914745AFC52B0A205931490348F57680WWTExch2012We_--
+

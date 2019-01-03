@@ -1,0 +1,100 @@
+Received: from WWTExch2012.Westwindsortwp.local ([::1]) by
+ WWTExch2012.Westwindsortwp.local ([::1]) with mapi id 14.01.0218.012; Mon, 21
+ May 2018 19:55:23 -0400
+From: <mschmid@westwindsortwp.com>
+To: <David.Aderhold@ww-p.org>
+Subject: No comment .during our business meeting from CM about Class III
+ Officers in Schools. 
+Thread-Topic: No comment .during our business meeting from CM about Class
+ III Officers in Schools. 
+Thread-Index: AdPxXy1T2iUfd+WPTSybtpc2tAxF5Q==
+Date: Mon, 21 May 2018 23:55:22 +0000
+Message-ID: <42D18407A474984C9809A6A45229A77C033532BB4B@WWTExch2012.Westwindsortwp.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+x-ms-exchange-organization-originalsize: 5485
+x-ms-exchange-organization-originalarrivaltime: 21 May 2018 23:55:22.4641
+ (UTC)
+x-ms-exchange-organization-messagesource: StoreDriver
+x-ms-exchange-organization-messagedirectionality: Originating
+x-ms-exchange-forest-messagescope: 00000000-0000-0000-0000-000000000000
+x-ms-exchange-organization-messagescope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-BCC:
+x-ms-exchange-organization-originalclientipaddress: 10.11.13.91
+x-originating-ip: [10.11.13.91]
+x-ms-exchange-organization-originalserveripaddress: ::1
+x-ms-exchange-organization-messagelatency: SRV=WWTExch2012.Westwindsortwp.local:TOTAL=0
+x-ms-exchange-organization-hygienepolicy: Standard
+x-ms-exchange-organization-recipient-limit-verified: True
+x-ms-exchange-organization-disclaimer-hash: 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+x-ms-exchange-forest-rulesexecuted: WWTExch2012
+x-ms-exchange-organization-rules-execution-history: OPRA Disclaimer
+ Footer%%%Spam
+Content-Type: multipart/alternative;
+	boundary="_000_42D18407A474984C9809A6A45229A77C033532BB4BWWTExch2012We_"
+MIME-Version: 1.0
+
+--_000_42D18407A474984C9809A6A45229A77C033532BB4BWWTExch2012We_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_000_42D18407A474984C9809A6A45229A77C033532BB4BWWTExch2012We_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<style>
+<!--
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Calibri}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif}
+a:link, span.MsoHyperlink
+	{color:#0563C1;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline}
+span.EmailStyle17
+	{font-family:"Calibri",sans-serif;
+	color:windowtext}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.WordSection1
+	{}
+-->
+</style>
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">&nbsp;</p>
+</div>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_000_42D18407A474984C9809A6A45229A77C033532BB4BWWTExch2012We_--
+

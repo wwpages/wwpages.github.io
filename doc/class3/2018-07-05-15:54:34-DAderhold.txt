@@ -1,0 +1,320 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Thu, 5 Jul 2018 15:56:22 -0400
+X-ASG-Debug-ID: 1530820581-0eddee176514920001-lp3Q2a
+Received: from esa2.hc2742-60.iphmx.com (esa2.hc2742-60.iphmx.com
+ [216.71.147.66]) by BCSpam300.westwindsortwp.local with ESMTP id
+ iBO6oOEym1fPugKJ for <hmarathe@westwindsortwp.com>; Thu, 05 Jul 2018 15:56:21
+ -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: esa2.hc2742-60.iphmx.com[216.71.147.66]
+X-Barracuda-Apparent-Source-IP: 216.71.147.66
+Received: from ww-p.org (HELO WWP-WEbmail.westwindsor.k12.nj.us)
+ ([204.10.63.5])  by esa2.hc2742-60.iphmx.com with
+ ESMTP/TLS/DHE-RSA-AES256-SHA; 05 Jul 2018 15:56:20 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Thu, 5 Jul 2018
+ 15:54:36 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: Hemant Marathe <hmarathe@WestWindsorTwp.com>, Robert Garofolo
+	<garfo@westwindsorpolice.com>, Mark Lee <lee@westwindsorpolice.com>
+Subject: Fwd: Armed Police in WWP Schools
+Thread-Topic: Armed Police in WWP Schools
+X-ASG-Orig-Subj: Fwd: Armed Police in WWP Schools
+Thread-Index: AQHUFIqy7iUCfgtW8Um6RRDaYrw1AaSBAHnAgAAAarCAAAoG4g==
+Date: Thu, 5 Jul 2018 19:54:34 +0000
+Message-ID: <A0AF1555-3FB4-4F8B-AF28-25202D489F06@ww-p.org>
+References: <CO2PR01MB1974209373725E0A2CC359E4C4400@CO2PR01MB1974.prod.exchangelabs.com>
+ <08496C729ADB09499C42967E1D7617C8342D6A1F@PTEXCH1.plainsboronj.com>,<129309D3AFB01A42BCB4FB6A4E8C58C5345CE61C@PTEXCH1.plainsboronj.com>
+In-Reply-To: <129309D3AFB01A42BCB4FB6A4E8C58C5345CE61C@PTEXCH1.plainsboronj.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/alternative;
+	boundary="_88686168-b764-4a8c-b685-51d6f5ab023f_"
+MIME-Version: 1.0
+X-Barracuda-Connect: esa2.hc2742-60.iphmx.com[216.71.147.66]
+X-Barracuda-Start-Time: 1530820581
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 10093
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=HTML_MESSAGE, MAILTO_TO_SPAM_ADDR
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.53017
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 MAILTO_TO_SPAM_ADDR    Includes a link to a likely spammer email
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 05 Jul 2018 19:56:22.3738
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 13432
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Organization-Disclaimer-Hash:
+ 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_88686168-b764-4a8c-b685-51d6f5ab023f_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+FYI
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+From: "Cancro, Anthony" <acancro@plainsboronj.com<mailto:acancro@plainsboro=
+nj.com>>
+Date: July 5, 2018 at 3:18:27 PM EDT
+To: "Armour, Guy" <garmour@plainsboropolice.com<mailto:garmour@plainsboropo=
+lice.com>>, "Aderhold, David" <David.Aderhold@ww-p.org<mailto:David.Aderhol=
+d@ww-p.org>>
+Subject: FW: Armed Police in WWP Schools
+
+
+fyi
+
+
+From: Kiru R. [mailto:kiru86@hotmail.com]
+Sent: Thursday, July 05, 2018 3:12 PM
+To: Aderhold, David; amiller@westwindsortwp.com<mailto:amiller@westwindsort=
+wp.com>; jbahree@westwindsortwp.com<mailto:jbahree@westwindsortwp.com>; lge=
+evers@westwindsortwp.com<mailto:lgeevers@westwindsortwp.com>; ahamilton@wes=
+twindsortwp.com<mailto:ahamilton@westwindsortwp.com>; vmanzari@westwindsort=
+wp.com<mailto:vmanzari@westwindsortwp.com>; Cantu, Peter; Lewis, Neil; Band=
+er, David; Nabi, Nuran; Yates, Ed
+Subject: Armed Police in WWP Schools
+
+
+Hello,
+
+
+
+I am a resident of West Windsor and recently heard of the resolution to pla=
+ce armed "Resource Officers" in our schools, including our elementary schoo=
+ls. While I understand the fear of a mass shooting, I don't think that the =
+solution is for an officer to carry a weapon around our schools. Looking at=
+ the states where shootings have occurred, they've occurred in states with =
+lax gun laws (not a descriptor for NJ, to say the least). Therefore, I don'=
+t think that the solution in NJ, especially in this town, is to introduce g=
+uns into the schools, making an object that was once largely inaccessible n=
+ow available, walking down the halls with its owner every day. If we had bi=
+ometric triggers, that'd be one thing, but we don't yet.
+
+
+
+For safety, I would much prefer that guns be kept in a gun safe(s) where on=
+ly the officer knows the codes/has access to the safe, or the officer stays=
+ in the front office and have the unarmed security officers who are already=
+ in the schools do the patrolling. The last thing we need is a tussle betwe=
+en student and officer and the student gets the gun or the officer fears fo=
+r his life and now we have a dead kid, kids, or dead officer. My husband an=
+d I both graduated WWPHS South in the mid-2000s - we had security officers =
+at that time who patrolled and that system was working just fine. The situa=
+tions the officer is most likely to encounter day to day won't require a gu=
+n to solve, so why have the gun transported at all times throughout the sch=
+ool?
+
+
+
+Finally, if you're going through with this, I suggest limiting employment t=
+o State Police only. They have much more extensive training than local cops=
+ and will be less biased than a cop who's lived here a long time and knows =
+all the families.
+
+
+
+All in all, I am against this plan for many, many reasons beyond the gun is=
+sue and honestly this is something that will make me reconsider staying in =
+this town and sending my kids through this system.
+
+
+
+~Julia Ryan
+
+
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_88686168-b764-4a8c-b685-51d6f5ab023f_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+</head>
+<body dir=3D"auto">
+FYI&nbsp;<br>
+<br>
+<div id=3D"AppleMailSignature">Sent from my iPhone</div>
+<div><br>
+Begin forwarded message:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div><b>From:</b> &quot;Cancro, Anthony&quot; &lt;<a href=3D"mailto:acancro=
+@plainsboronj.com">acancro@plainsboronj.com</a>&gt;<br>
+<b>Date:</b> July 5, 2018 at 3:18:27 PM EDT<br>
+<b>To:</b> &quot;Armour, Guy&quot; &lt;<a href=3D"mailto:garmour@plainsboro=
+police.com">garmour@plainsboropolice.com</a>&gt;, &quot;Aderhold, David&quo=
+t; &lt;<a href=3D"mailto:David.Aderhold@ww-p.org">David.Aderhold@ww-p.org</=
+a>&gt;<br>
+<b>Subject:</b> <b>FW: Armed Police in WWP Schools</b><br>
+<br>
+</div>
+</blockquote>
+<blockquote type=3D"cite">
+<div><style>
+<!--
+@font-face
+	{font-family:"Cambria Math"}
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:Tahoma}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline}
+p
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif}
+span.EmailStyle18
+	{font-family:"Calibri",sans-serif;
+	color:#1F497D}
+span.EmailStyle19
+	{font-family:"Calibri",sans-serif;
+	color:#1F497D}
+.MsoChpDefault
+	{font-size:10.0pt}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.WordSection1
+	{}
+-->
+</style>
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,sans-serif; color:#1F497D">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,sans-serif; color:#1F497D">fyi</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,sans-serif; color:#1F497D">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,sans-serif; color:#1F497D">&nbsp;</span></p>
+<div>
+<div style=3D"border:none; border-top:solid #B5C4DF 1.0pt; padding:3.0pt 0i=
+n 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt; font-family:&quo=
+t;Tahoma&quot;,sans-serif">From:</span></b><span style=3D"font-size:10.0pt;=
+ font-family:&quot;Tahoma&quot;,sans-serif"> Kiru R. [<a href=3D"mailto:kir=
+u86@hotmail.com">mailto:kiru86@hotmail.com</a>]
+<br>
+<b>Sent:</b> Thursday, July 05, 2018 3:12 PM<br>
+<b>To:</b> Aderhold, David; <a href=3D"mailto:amiller@westwindsortwp.com">a=
+miller@westwindsortwp.com</a>;
+<a href=3D"mailto:jbahree@westwindsortwp.com">jbahree@westwindsortwp.com</a=
+>; <a href=3D"mailto:lgeevers@westwindsortwp.com">
+lgeevers@westwindsortwp.com</a>; <a href=3D"mailto:ahamilton@westwindsortwp=
+.com">ahamilton@westwindsortwp.com</a>;
+<a href=3D"mailto:vmanzari@westwindsortwp.com">vmanzari@westwindsortwp.com<=
+/a>; Cantu, Peter; Lewis, Neil; Bander, David; Nabi, Nuran; Yates, Ed<br>
+<b>Subject:</b> Armed Police in WWP Schools</span></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;</p>
+<div id=3D"divtagdefaultwrapper">
+<p><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; color:black">=
+Hello, </span></p>
+<p><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; color:black">=
+&nbsp;</span></p>
+<p><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; color:black">=
+I am a resident of West Windsor and recently heard of the resolution to pla=
+ce armed &quot;Resource Officers&quot; in our schools, including our elemen=
+tary schools. While I understand the fear of a mass shooting,
+ I don't think that the solution is for an officer to carry a weapon around=
+ our schools. Looking at the states where shootings have occurred, they've =
+occurred in states with lax gun laws (not a descriptor for NJ, to say the l=
+east). Therefore, I don't think
+ that the solution in NJ, especially in this town, is to introduce guns int=
+o the schools, making an object that was once largely&nbsp;inaccessible now=
+ available, walking down the halls with its owner every day. If we had biom=
+etric triggers, that'd be one thing,
+ but we don't yet. </span></p>
+<p><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; color:black">=
+&nbsp;</span></p>
+<p><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; color:black">=
+For safety, I would much prefer that guns be kept in a gun safe(s) where on=
+ly the officer knows the codes/has access to the safe, or the officer stays=
+&nbsp;in the front office and have&nbsp;the unarmed security
+ officers who are already in the schools do the patrolling. The last thing =
+we need is a tussle between student and officer and the student gets the gu=
+n or the officer fears for his life and now we have a dead kid, kids, or de=
+ad officer.&nbsp;My husband and I both
+ graduated WWPHS South in the mid-2000s - we had security officers at that =
+time who patrolled&nbsp;and that system was working just fine. The situatio=
+ns the officer is most likely to encounter day to day&nbsp;won't require a =
+gun to solve, so why have the gun transported
+ at all times throughout the school? </span></p>
+<p><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; color:black">=
+&nbsp;</span></p>
+<p><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; color:black">=
+Finally, if you're going through with this,&nbsp;I suggest limiting employm=
+ent&nbsp;to State Police only. They have much more extensive training than =
+local cops and will be less biased than a cop who's lived
+ here a long time and knows all the families. </span></p>
+<p><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; color:black">=
+&nbsp;</span></p>
+<p><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; color:black">=
+All in all, I am against this plan for many, many reasons beyond the gun is=
+sue and honestly this is something that will make me reconsider staying in =
+this town and sending my kids through this system.&nbsp;&nbsp;</span></p>
+<p><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; color:black">=
+&nbsp;</span></p>
+<p><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; color:black">=
+~Julia Ryan</span></p>
+<p><span style=3D"font-family:&quot;Calibri&quot;,sans-serif; color:black">=
+&nbsp;</span></p>
+</div>
+</div>
+</div>
+</blockquote>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_88686168-b764-4a8c-b685-51d6f5ab023f_--
+

@@ -1,0 +1,507 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Sat, 14 Jul 2018 14:41:06 -0400
+X-ASG-Debug-ID: 1531593664-0eddee152416850001-4FogO6
+Received: from esa1.hc2742-60.iphmx.com (esa1.hc2742-60.iphmx.com
+ [216.71.142.71]) by BCSpam300.westwindsortwp.local with ESMTP id
+ yj5QAB11le4G1R8W; Sat, 14 Jul 2018 14:41:04 -0400 (EDT)
+X-Barracuda-Envelope-From: anthony.fleres@ww-p.org
+X-Barracuda-Effective-Source-IP: esa1.hc2742-60.iphmx.com[216.71.142.71]
+X-Barracuda-Apparent-Source-IP: 216.71.142.71
+Received: from ww-p.org (HELO WWP-WEbmail.westwindsor.k12.nj.us)
+ ([204.10.63.5])  by esa1.hc2742-60.iphmx.com with
+ ESMTP/TLS/DHE-RSA-AES256-SHA; 14 Jul 2018 14:41:02 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Sat, 14 Jul
+ 2018 14:41:01 -0400
+From: "Fleres, Anthony" <anthony.fleres@ww-p.org>
+To: "John K. Hinsdale" <hin@alma.com>, "AMiller@westwindsortwp.com"
+	<AMiller@westwindsortwp.com>, "JBahree@westwindsortwp.com"
+	<JBahree@westwindsortwp.com>, "LGeevers@westwindsortwp.com"
+	<LGeevers@westwindsortwp.com>, "AHamilton@westwindsortwp.com"
+	<AHamilton@westwindsortwp.com>, "VManzari@westwindsortwp.com"
+	<VManzari@westwindsortwp.com>, "HMarathe@westwindsortwp.com"
+	<HMarathe@westwindsortwp.com>, "Kaish, Michele" <Michele.Kaish@ww-p.org>,
+	"Cheng, Isaac" <Isaac.Cheng@ww-p.org>, "Herts, Carol" <Carol.Herts@ww-p.org>,
+	"Ho, Louisa" <Louisa.Ho@ww-p.org>, "Juliana, Rachel"
+	<Rachel.Juliana@ww-p.org>, "Krug, Dana" <Dana.Krug@ww-p.org>, "Whitfield,
+ Martin" <Martin.Whitfield@ww-p.org>, "Aderhold, David"
+	<David.Aderhold@ww-p.org>
+Subject: RE: June 27, 2018 Discussion of Class III issue on Facebook
+Thread-Topic: June 27, 2018 Discussion of Class III issue on Facebook
+X-ASG-Orig-Subj: RE: June 27, 2018 Discussion of Class III issue on Facebook
+Thread-Index: AQHUDtnAlwScqgpBH0uF5bYg5N/fd6R3j7cAgBbYooCAAK9MNg==
+Date: Sat, 14 Jul 2018 18:41:01 +0000
+Message-ID: <9D4FC89B84722343BD81158A59E0DADF014BD22A93@wwp-exchange3.westwindsor.k12.nj.us>
+References: <20180628121541.GA28609@uli>
+ <20180629142632.GA28054@uli>,<20180714031932.GA25231@uli>
+In-Reply-To: <20180714031932.GA25231@uli>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [173.71.125.195]
+Content-Type: multipart/alternative;
+	boundary="_c968f125-510e-4cef-859a-4c06a5c5c3c3_"
+MIME-Version: 1.0
+X-Barracuda-Connect: esa1.hc2742-60.iphmx.com[216.71.142.71]
+X-Barracuda-Start-Time: 1531593664
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 18146
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.53653
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Return-Path: anthony.fleres@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 14 Jul 2018 18:41:06.3912
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 22220
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Organization-Disclaimer-Hash:
+ 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_c968f125-510e-4cef-859a-4c06a5c5c3c3_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Mr. Hinsdale,
+
+Concerning your request for a response to the interactions among elected me=
+mbers of the West Windsor Township government, speaking for the WW-P Board =
+of Education, it would be inappropriate to comment. Further, there is no ma=
+tter before the board of education for us to enable or inhibit.
+
+Separately, I would like to clarify the events. At the June 11 WW Council m=
+eeting, it was decided to invite Dr. Aderhold to a subsequent meeting to di=
+scuss the use of Class III officers in WW-P schools. It was also agreed tha=
+t council members would send any questions they may have on the Shared Serv=
+ices Agreement to Dr. Aderhold, so he could be better prepared to respond t=
+o them. I assume you would agree that this was a reasonable course of actio=
+n.
+
+As Dr. Aderhold stated in his June 22 email to the council members, to save=
+ time at the meeting, he was attaching written responses to a number of the=
+ir questions but felt some could be better answered during the presentation=
+. As I recall the June 25 meeting, Ms. Hamilton=92s concerns were discussed=
+ by both Dr. Aderhold and Lt. Lee. Since the original intent was to address=
+ all of the questions on Monday, for you to characterize =93to be discussed=
+ on Monday=94 as being nonresponsive was simply wrong and misleading.
+
+
+To quote one of my earlier emails to you, =93the issue of school security a=
+nd student safety is a complicated and, currently an emotionally-charged to=
+pic, with groups of well-meaning individuals offering different, sometimes =
+conflicting, solutions.=94 Going forward, let=92s assume that all parties, =
+especially those we don=92t agree with, are at least acting in good faith.
+
+
+Anthony Fleres
+President, Board of Education
+West Windsor-Plainsboro Regional School District
+
+________________________________________
+From: John K. Hinsdale [hin@alma.com]
+Sent: Friday, July 13, 2018 11:19 PM
+To: AMiller@westwindsortwp.com; JBahree@westwindsortwp.com; LGeevers@westwi=
+ndsortwp.com; AHamilton@westwindsortwp.com; VManzari@westwindsortwp.com; HM=
+arathe@westwindsortwp.com; Fleres, Anthony; Kaish, Michele; Cheng, Isaac; H=
+erts, Carol; Ho, Louisa; Juliana, Rachel; Krug, Dana; Zhong, Yu; Whitfield,=
+ Martin; Aderhold, David
+Subject: Re: June 27, 2018 Discussion of Class III issue on Facebook
+
+Hi all,
+
+I'd like to follow up on my FYI Email below from two Fridays ago (6/29) abo=
+ut the harshly and unfairly critical online post from the Mayor of 6/27.  L=
+ast time I wrote:
+
+> This Email is for your information only.  It is not a complaint or any ot=
+her kind of request for action and response is entirely optional.
+
+This time it is a complaint and I am requesting a response (from the School=
+ District).
+
+I call your attention to a comment from the Mayor, in the middle of page 8 =
+(discussion is attached again for your convenience):
+
+Comment from Hemant Marathe at June 27, 2018, 5:19pm
+"Ayesha Krishnan Hamilton as a council women ... You were offered an opport=
+unity to comment on the agreement twice in writing and not a single comment=
+ was received from you."
+
+To date I had taken the basis for this criticism to be credible, but it now=
+ appears actually to have been made up by the Mayor, something I'm now used=
+ to.  However in this case the School District appears also to have contrib=
+uted to the circumstances that allow this, and this is a real problem for m=
+e.
+
+Today I received, by way of a response to an OPRA document request, an Emai=
+l Q&A between the Township and District preceding the 6/25 Council meeting.=
+  The 6/25 meeting was the one where Superintendent Aderhold spoke, and at =
+which Council had yet more Q&A about the Class III program.
+
+I've attached that here as two files, Dr. Aderhold's 6/22 Email and its Q&A=
+ attachment.  At the very end of the Q&A from WW Council, is the District's=
+ (non-)response to the inquiry about bias training:
+
+[Q. from Hamilton]
+"2. Detailed description of the type of training that the WWPD and/or schoo=
+l district will be providing to Class III officers to address issues of unc=
+onscious bias. Will any kind of training be provided to address these issue=
+s and what will the scope of that training be?"
+
+And the (non-)response from the District:
+"To be discussed on Monday." [i.e., 6/25/18 Council meeting]
+
+As the Mayor was included in this pre-meeting Q&A discussion there is no po=
+ssible basis for his criticism of the Council member's waiting until the me=
+eting to pose her question: it was simply not answered at all in advance by=
+ the District.
+
+Again, I am used to this kind of thing from the Mayor, but I cannot tolerat=
+e its enablement by the District, to whose care I entrust my kids every day=
+.  I need a bit more rectitude in that arena.
+
+I would like some response from someone in the District (I don't care who, =
+any Board member, Superintendent, etc.) as to what you think of this, and w=
+hether you think it is OK.  If I don't hear back I am going to assume you a=
+re all OK with this.  I hope it is clear why this is a problem.
+
+I am making this request not as a WW taxpayer but as a parent with kids in =
+the WW-P schools.
+
+Looking forward to hearing back,
+
+        John Hinsdale
+
+On Fri, Jun 29, 2018 at 10:26:32AM -0400, John K. Hinsdale wrote:
+>
+> To:
+> Members of West Windsor Town Council (5)
+> Mayor of West Windsor, Hemant Marathe
+> Members of West Windsor-Plainsboro Board of Education (9)
+> WW-P Superintendent of Schools, David Aderhold, Ed.D.
+>
+> From: John Hinsdale
+>
+> Dear Members of Council, Mayor Marathe, Members of the School Board, and =
+Dr. Aderhold --
+>
+> Following up on my message yesterday, attached is an updated version of t=
+hat online discussion.  I send it because it includes new commentary from t=
+he Mayor on the topic in that closed, members-only forum.  This would appea=
+r to be the final version of the discussion, now that the unelected/unappoi=
+nted private citizen who solely moderates the forum has blocked access to f=
+urther contributions to the thread.
+>
+> You may have heard of recent court decisions saying that it is not OK for=
+ a government executive to conduct discussions on social media that block l=
+egitimate citizen contributors:
+>
+> https://knightcolumbia.org/content/knight-institute-v-trump-lawsuit-chall=
+enging-president-trumps-blocking-critics-twitter
+>
+> This was in the news with respect to President Trump blocking users on Tw=
+itter whose opinions he did not like.  I believe the same thing is happenin=
+g here.  Latecomers to the discussion (maybe they were away on vacation) ca=
+nnot contribute.  In any case, any access to the forum itself is controlled=
+ arbitrarily.  It is also replete with fake accounts which post in the same=
+ sub-threads as the Mayor's.
+>
+> I'm not sure that this tainting of the democratic process could or should=
+ affect the decision making that needs to occur with respect to the Class I=
+II program.  Perhaps it should.  But I will say that all of this will cease=
+ to be a problem once y'all start involving everyone like you're supposed t=
+o, instead of ramming this through during the quiet summer months, which it=
+ would appear are not so quiet.
+>
+> Thank you for your time and consideration.  This Email is for your inform=
+ation only.  It is not a complaint or any other kind of request for action =
+and response is entirely optional.
+>
+>       Sincerely,
+>
+>       John Hinsdale
+>       38 Quaker Road, West Windsor
+>
+>
+>
+>
+> On Thu, Jun 28, 2018 at 08:15:41AM -0400, John K. Hinsdale wrote:
+> >
+> > To:
+> > Members of West Windsor Town Council (5)
+> > Mayor of West Windsor, Hemant Marathe
+> > Members of West Windsor-Plainsboro Board of Education (9)
+> > WW-P Superintendent of Schools, David Aderhold, Ed.D.
+> >
+> > From: John Hinsdale
+> >
+> >
+> > Dear Members of Council, Mayor Marathe, Members of the School Board, an=
+d Dr. Aderhold --
+> >
+> > For your information, attached is a PDF file of a discussion going on F=
+acebook since 9:40am yesterday, concerning the Class III officers issue.  I=
+ send it in the hope that it will be useful to you.
+> >
+> >
+> >         Sincerely,
+> >
+> >         John Hinsdale
+> >         38 Quaker Road, West Windsor
+>
+>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_c968f125-510e-4cef-859a-4c06a5c5c3c3_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style id=3D"owaParaStyle">
+<!--
+p
+	{margin-bottom:0px;
+	margin-top:0px}
+-->
+</style>
+</head>
+<body>
+<div style=3D"direction:ltr; font-family:Calibri; color:#000000; font-size:=
+12pt">
+<p>Mr. Hinsdale,<br>
+&nbsp;<br>
+Concerning your request for a response to the interactions among elected me=
+mbers of the West Windsor Township government, speaking for the WW-P Board =
+of Education, it would be inappropriate to comment. Further, there is no ma=
+tter before the board of education&nbsp;for
+ us to enable or inhibit.</p>
+<p><br>
+Separately, I would like to clarify the events. At the June 11 WW Council m=
+eeting,&nbsp;it was decided to invite Dr. Aderhold to a subsequent meeting =
+to discuss the use of Class III officers in WW-P schools. It was&nbsp;also&=
+nbsp;agreed that council members would send any
+ questions they may have on the Shared Services Agreement to Dr. Aderhold, =
+so he could be better prepared to respond to them. I assume you would agree=
+ that this was a reasonable course of action.<br>
+&nbsp;<br>
+As Dr. Aderhold stated in his June 22 email to the council members, to save=
+ time at the meeting, he was attaching written responses to a number of the=
+ir questions but felt some could be better answered during the presentation=
+. As I recall the June 25 meeting,
+ Ms. Hamilton=92s concerns were discussed by both Dr. Aderhold and Lt. Lee.=
+ Since the original intent was to address all of the questions on Monday, f=
+or you to characterize =93to be discussed on Monday=94 as being nonresponsi=
+ve&nbsp;was simply wrong and misleading.</p>
+<p>&nbsp;</p>
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0pt"><span style=3D"font-siz=
+e:12pt; font-family:&quot;Times New Roman&quot;,serif"><font face=3D"Calibr=
+i">To quote one of my earlier emails to you, =93the issue of school securit=
+y and student safety is a complicated and, currently
+ an emotionally-charged topic, with groups of well-meaning individuals offe=
+ring different, sometimes conflicting, solutions.=94 Going forward, let=92s=
+ assume that all parties, especially those we don=92t agree with, are at le=
+ast acting in good faith.
+</font></span></p>
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0pt">&nbsp;</p>
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0pt"><br>
+Anthony Fleres<br>
+President, Board of Education<br>
+West Windsor-Plainsboro Regional School District<br>
+<br>
+________________________________________<br>
+From: John K. Hinsdale [hin@alma.com]<br>
+Sent: Friday, July 13, 2018 11:19 PM<br>
+To: AMiller@westwindsortwp.com; JBahree@westwindsortwp.com; LGeevers@westwi=
+ndsortwp.com; AHamilton@westwindsortwp.com; VManzari@westwindsortwp.com; HM=
+arathe@westwindsortwp.com; Fleres, Anthony; Kaish, Michele; Cheng, Isaac; H=
+erts, Carol; Ho, Louisa; Juliana,
+ Rachel; Krug, Dana; Zhong, Yu; Whitfield, Martin; Aderhold, David<br>
+Subject: Re: June 27, 2018 Discussion of Class III issue on Facebook<br>
+<br>
+Hi all,<br>
+<br>
+I'd like to follow up on my FYI Email below from two Fridays ago (6/29) abo=
+ut the harshly and unfairly critical online post from the Mayor of 6/27.&nb=
+sp; Last time I wrote:<br>
+<br>
+&gt; This Email is for your information only.&nbsp; It is not a complaint o=
+r any other kind of request for action and response is entirely optional.<b=
+r>
+<br>
+This time it is a complaint and I am requesting a response (from the School=
+ District).<br>
+<br>
+I call your attention to a comment from the Mayor, in the middle of page 8 =
+(discussion is attached again for your convenience):<br>
+<br>
+Comment from Hemant Marathe at June 27, 2018, 5:19pm<br>
+&quot;Ayesha Krishnan Hamilton as a council women ... You were offered an o=
+pportunity to comment on the agreement twice in writing and not a single co=
+mment was received from you.&quot;<br>
+<br>
+To date I had taken the basis for this criticism to be credible, but it now=
+ appears actually to have been made up by the Mayor, something I'm now used=
+ to.&nbsp; However in this case the School District appears also to have co=
+ntributed to the circumstances that allow
+ this, and this is a real problem for me.<br>
+<br>
+Today I received, by way of a response to an OPRA document request, an Emai=
+l Q&amp;A between the Township and District preceding the 6/25 Council meet=
+ing.&nbsp; The 6/25 meeting was the one where Superintendent Aderhold spoke=
+, and at which Council had yet more Q&amp;A about
+ the Class III program.<br>
+<br>
+I've attached that here as two files, Dr. Aderhold's 6/22 Email and its Q&a=
+mp;A attachment.&nbsp; At the very end of the Q&amp;A from WW Council, is t=
+he District's (non-)response to the inquiry about bias training:<br>
+<br>
+[Q. from Hamilton]<br>
+&quot;2. Detailed description of the type of training that the WWPD and/or =
+school district will be providing to Class III officers to address issues o=
+f unconscious bias. Will any kind of training be provided to address these =
+issues and what will the scope of that
+ training be?&quot;<br>
+<br>
+And the (non-)response from the District:<br>
+&quot;To be discussed on Monday.&quot; [i.e., 6/25/18 Council meeting]<br>
+<br>
+As the Mayor was included in this pre-meeting Q&amp;A discussion there is n=
+o possible basis for his criticism of the Council member's waiting until th=
+e meeting to pose her question: it was simply not answered at all in advanc=
+e by the District.<br>
+<br>
+Again, I am used to this kind of thing from the Mayor, but I cannot tolerat=
+e its enablement by the District, to whose care I entrust my kids every day=
+.&nbsp; I need a bit more rectitude in that arena.<br>
+<br>
+I would like some response from someone in the District (I don't care who, =
+any Board member, Superintendent, etc.) as to what you think of this, and w=
+hether you think it is OK.&nbsp; If I don't hear back I am going to assume =
+you are all OK with this.&nbsp; I hope it
+ is clear why this is a problem.<br>
+<br>
+I am making this request not as a WW taxpayer but as a parent with kids in =
+the WW-P schools.<br>
+<br>
+Looking forward to hearing back,<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; John Hinsdale<br>
+<br>
+On Fri, Jun 29, 2018 at 10:26:32AM -0400, John K. Hinsdale wrote:<br>
+&gt;<br>
+&gt; To:<br>
+&gt; Members of West Windsor Town Council (5)<br>
+&gt; Mayor of West Windsor, Hemant Marathe<br>
+&gt; Members of West Windsor-Plainsboro Board of Education (9)<br>
+&gt; WW-P Superintendent of Schools, David Aderhold, Ed.D.<br>
+&gt;<br>
+&gt; From: John Hinsdale<br>
+&gt;<br>
+&gt; Dear Members of Council, Mayor Marathe, Members of the School Board, a=
+nd Dr. Aderhold --<br>
+&gt;<br>
+&gt; Following up on my message yesterday, attached is an updated version o=
+f that online discussion.&nbsp; I send it because it includes new commentar=
+y from the Mayor on the topic in that closed, members-only forum.&nbsp; Thi=
+s would appear to be the final version of the
+ discussion, now that the unelected/unappointed private citizen who solely =
+moderates the forum has blocked access to further contributions to the thre=
+ad.<br>
+&gt;<br>
+&gt; You may have heard of recent court decisions saying that it is not OK =
+for a government executive to conduct discussions on social media that bloc=
+k legitimate citizen contributors:<br>
+&gt;<br>
+&gt; https://knightcolumbia.org/content/knight-institute-v-trump-lawsuit-ch=
+allenging-president-trumps-blocking-critics-twitter<br>
+&gt;<br>
+&gt; This was in the news with respect to President Trump blocking users on=
+ Twitter whose opinions he did not like.&nbsp; I believe the same thing is =
+happening here.&nbsp; Latecomers to the discussion (maybe they were away on=
+ vacation) cannot contribute.&nbsp; In any case, any
+ access to the forum itself is controlled arbitrarily.&nbsp; It is also rep=
+lete with fake accounts which post in the same sub-threads as the Mayor's.<=
+br>
+&gt;<br>
+&gt; I'm not sure that this tainting of the democratic process could or sho=
+uld affect the decision making that needs to occur with respect to the Clas=
+s III program.&nbsp; Perhaps it should.&nbsp; But I will say that all of th=
+is will cease to be a problem once y'all start
+ involving everyone like you're supposed to, instead of ramming this throug=
+h during the quiet summer months, which it would appear are not so quiet.<b=
+r>
+&gt;<br>
+&gt; Thank you for your time and consideration.&nbsp; This Email is for you=
+r information only.&nbsp; It is not a complaint or any other kind of reques=
+t for action and response is entirely optional.<br>
+&gt;<br>
+&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sincerely,<br>
+&gt;<br>
+&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; John Hinsdale<br>
+&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38 Quaker Road, West Windsor<br>
+&gt;<br>
+&gt;<br>
+&gt;<br>
+&gt;<br>
+&gt; On Thu, Jun 28, 2018 at 08:15:41AM -0400, John K. Hinsdale wrote:<br>
+&gt; &gt;<br>
+&gt; &gt; To:<br>
+&gt; &gt; Members of West Windsor Town Council (5)<br>
+&gt; &gt; Mayor of West Windsor, Hemant Marathe<br>
+&gt; &gt; Members of West Windsor-Plainsboro Board of Education (9)<br>
+&gt; &gt; WW-P Superintendent of Schools, David Aderhold, Ed.D.<br>
+&gt; &gt;<br>
+&gt; &gt; From: John Hinsdale<br>
+&gt; &gt;<br>
+&gt; &gt;<br>
+&gt; &gt; Dear Members of Council, Mayor Marathe, Members of the School Boa=
+rd, and Dr. Aderhold --<br>
+&gt; &gt;<br>
+&gt; &gt; For your information, attached is a PDF file of a discussion goin=
+g on Facebook since 9:40am yesterday, concerning the Class III officers iss=
+ue.&nbsp; I send it in the hope that it will be useful to you.<br>
+&gt; &gt;<br>
+&gt; &gt;<br>
+&gt; &gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sincerely,<br>
+&gt; &gt;<br>
+&gt; &gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; John Hinsdale<br>
+&gt; &gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38 Quaker Road, W=
+est Windsor<br>
+&gt;<br>
+&gt;</p>
+</div>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_c968f125-510e-4cef-859a-4c06a5c5c3c3_--
+

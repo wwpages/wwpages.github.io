@@ -1,0 +1,295 @@
+Received: from BCSpam300.westwindsortwp.local (10.11.13.198) by
+ WWTExch2012.Westwindsortwp.local (10.11.13.52) with Microsoft SMTP Server id
+ 14.1.218.12; Wed, 30 May 2018 20:24:01 -0400
+X-ASG-Debug-ID: 1527726240-0eddee17843a5d0001-OBQS1U
+Received: from mail.ww-p.org (mail.ww-p.org [204.10.63.8]) by
+ BCSpam300.westwindsortwp.local with ESMTP id afTPcsbCizHQR2DZ for
+ <mschmid@westwindsortwp.com>; Wed, 30 May 2018 20:24:00 -0400 (EDT)
+X-Barracuda-Envelope-From: David.Aderhold@ww-p.org
+X-Barracuda-Effective-Source-IP: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Apparent-Source-IP: 204.10.63.8
+X-IronPort-AV: E=Sophos;i="5.49,461,1520913600"; 
+   d="scan'208,217";a="137212515"
+Received: from unknown (HELO WWP-WEbmail.westwindsor.k12.nj.us) ([10.7.75.5])
+  by mail.ww-p.org with ESMTP; 30 May 2018 20:23:59 -0400
+Received: from WWP-EXCHANGE3.westwindsor.k12.nj.us
+ ([fe80::8fe:1d7c:3977:8125]) by WWP-WEbmail.westwindsor.k12.nj.us
+ ([fe80::55b5:e4a7:4e77:b6f9%16]) with mapi id 14.03.0389.001; Wed, 30 May
+ 2018 20:23:59 -0400
+From: "Aderhold, David" <David.Aderhold@ww-p.org>
+To: "Cancro, Anthony" <acancro@plainsboronj.com>
+CC: "Armour, Guy" <garmour@plainsboropolice.com>, Robert Garofalo
+	<garfo@westwindsorpolice.com>, "Tavener, Fred"
+	<ftavener@plainsboropolice.com>, Mark Lee <lee@westwindsorpolice.com>,
+	"Russo, Christopher" <Christopher.Russo@ww-p.org>, Marlena Schmid
+	<mschmid@westwindsortwp.com>
+Subject: Re: Tuesday, June 5th
+Thread-Topic: Tuesday, June 5th
+X-ASG-Orig-Subj: Re: Tuesday, June 5th
+Thread-Index: AdP4RYSzjiMG8+J2SvCXlETQaxUBZgAKJsOgAAHi1a4=
+Date: Thu, 31 May 2018 00:23:59 +0000
+Message-ID: <79D2296A-6928-4E6A-AA96-E51101E5B277@ww-p.org>
+References: <98E441CFB9DE4F42AA864F9ED21028B5016F6663B2@wwp-exchange3.westwindsor.k12.nj.us>,<129309D3AFB01A42BCB4FB6A4E8C58C53457FD76@PTEXCH1.plainsboronj.com>
+In-Reply-To: <129309D3AFB01A42BCB4FB6A4E8C58C53457FD76@PTEXCH1.plainsboronj.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/alternative;
+	boundary="_4f2917c5-f7ef-49a9-a344-6200d4312977_"
+MIME-Version: 1.0
+X-Barracuda-Connect: mail.ww-p.org[204.10.63.8]
+X-Barracuda-Start-Time: 1527726240
+X-Barracuda-URL: https://10.11.13.198:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at westwindsortwp.local
+X-Barracuda-Scan-Msg-Size: 8067
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=2.5 KILL_LEVEL=4.0 tests=BSF_SC0_MISMATCH_TO, HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.51449
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 BSF_SC0_MISMATCH_TO    Envelope rcpt doesn't match header
+Return-Path: David.Aderhold@ww-p.org
+X-MS-Exchange-Organization-OriginalArrivalTime: 31 May 2018 00:24:01.1580
+ (UTC)
+X-MS-Exchange-Forest-ArrivalHubServer: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalClientIPAddress: 10.11.13.198
+X-MS-Exchange-Organization-OriginalServerIPAddress: 10.11.13.52
+X-MS-Exchange-Organization-AuthSource: WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Organization-Cross-Premises-Headers-Processed:
+ WWTExch2012.Westwindsortwp.local
+X-MS-Exchange-Organization-OriginalSize: 11460
+X-MS-Exchange-Forest-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-MessageScope: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Organization-HygienePolicy: Standard
+X-MS-Exchange-Organization-Recipient-Limit-Verified: True
+X-MS-Exchange-Organization-Disclaimer-Hash:
+ 0935327025034fd0101c9873cd05fde337eb3fa17336b7888bd981da5743cd3f
+X-MS-Exchange-Forest-RulesExecuted: WWTExch2012
+X-MS-Exchange-Organization-Rules-Execution-History: OPRA Disclaimer
+ Footer%%%Spam
+
+--_4f2917c5-f7ef-49a9-a344-6200d4312977_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+My opinion is it will be advantageous to have legal reps present on both si=
+de to assist in facilitating this process
+
+Time is of the essence and we need to move this forward.
+
+I will send the draft later when I get to my computer
+
+
+
+Sent from my iPhone
+
+On May 30, 2018, at 7:42 PM, Cancro, Anthony <acancro@plainsboronj.com<mail=
+to:acancro@plainsboronj.com>> wrote:
+
+
+Dave =96 that time and date works for me.   Can you please send Marlena and=
+ I the draft contracts to review prior to the mtg so we have the ability to=
+ converse at the 6/5 mtg.
+
+I would prefer we make our way through the policy and financial matters fir=
+st, then have the district attorney discuss the key legal issues at the mtg=
+, and let Marlena and I work it through our attorney after this mtg.  This =
+is my opinion, if Marlena feels differently, she can say so.
+
+Thanks, look forward to the mtg.
+
+Anthony
+
+From: Aderhold, David [mailto:David.Aderhold@ww-p.org]
+Sent: Wednesday, May 30, 2018 2:39 PM
+To: Armour, Guy; 'Robert Garofalo'; Tavener, Fred; Mark Lee; Russo, Christo=
+pher; Cancro, Anthony; 'Marlena Schmid'
+Subject: Tuesday, June 5th
+
+Good Afternoon,
+
+I would like to set up our next opportunity to discuss the implementation a=
+nd process for proceeding with Class III Police Officers.  In speaking with=
+ Chief Garofalo and Chief Armour we have tentatively held Tuesday, June 5th=
+ from 10:30 =96 12:30 for our next discussion.
+
+Further, I believe we would be best suited to have both the township attorn=
+ey (which I believe is the same firm) and the district attorney (Comegno La=
+w Group) attend to review the contract and discuss the logistics of the nex=
+t steps.  Rob, Guy, and I have shared draft contracts to assist in our disc=
+ussion with the larger group.
+
+I have reserved C110/C111 at the Board of Education Offices for the meeting=
+.
+
+It is probably also a good idea to have Greg and Joanne join us.  I didn=92=
+t have their email addresses readily available.
+
+Please let me know if you are able to join us.
+
+Sincerely,
+
+Dave
+
+David M. Aderhold
+Superintendent of Schools
+West Windsor =96 Plainsboro Regional School District
+(609)716-5000 x5040
+
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+
+--_4f2917c5-f7ef-49a9-a344-6200d4312977_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+</head>
+<body dir=3D"auto">
+My opinion is it will be advantageous to have legal reps present on both si=
+de to assist in facilitating this process
+<div><br>
+</div>
+<div>Time is of the essence and we need to move this forward.</div>
+<div><br>
+</div>
+<div>I will send the draft later when I get to my computer&nbsp;</div>
+<div><br>
+</div>
+<div><br>
+<br>
+<div id=3D"AppleMailSignature">Sent from my iPhone</div>
+<div><br>
+On May 30, 2018, at 7:42 PM, Cancro, Anthony &lt;<a href=3D"mailto:acancro@=
+plainsboronj.com">acancro@plainsboronj.com</a>&gt; wrote:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div><style>
+<!--
+@font-face
+	{font-family:Calibri}
+@font-face
+	{font-family:Tahoma}
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif"}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline}
+span.EmailStyle17
+	{font-family:"Calibri","sans-serif";
+	color:windowtext}
+span.EmailStyle18
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+.MsoChpDefault
+	{font-size:10.0pt}
+@page WordSection1
+	{margin:1.0in 1.0in 1.0in 1.0in}
+div.WordSection1
+	{}
+-->
+</style>
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><i><span style=3D"color:#1F497D">&nbsp;</span></i></=
+p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Dave =96 that time and=
+ date works for me.&nbsp;&nbsp; Can you please send Marlena and I the draft=
+ contracts to review prior to the mtg so we have the ability to converse at=
+ the 6/5 mtg.
+</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">I would prefer we make=
+ our way through the policy and financial matters first, then have the dist=
+rict attorney discuss the key legal issues at the mtg, and let Marlena and =
+I work it through our attorney after
+ this mtg. &nbsp;This is my opinion, if Marlena feels differently, she can =
+say so.</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Thanks, look forward t=
+o the mtg.</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Anthony </span></p>
+<p class=3D"MsoNormal"><a name=3D"_MailEndCompose"><span style=3D"color:#1F=
+497D">&nbsp;</span></a></p>
+<div>
+<div style=3D"border:none; border-top:solid #B5C4DF 1.0pt; padding:3.0pt 0i=
+n 0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt; font-family:&quo=
+t;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-=
+size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Aderho=
+ld, David [<a href=3D"mailto:David.Aderhold@ww-p.org">mailto:David.Aderhold=
+@ww-p.org</a>]
+<br>
+<b>Sent:</b> Wednesday, May 30, 2018 2:39 PM<br>
+<b>To:</b> Armour, Guy; 'Robert Garofalo'; Tavener, Fred; Mark Lee; Russo, =
+Christopher; Cancro, Anthony; 'Marlena Schmid'<br>
+<b>Subject:</b> Tuesday, June 5th</span></p>
+</div>
+</div>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">Good Afternoon,</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">I would like to set up our next opportunity to discu=
+ss the implementation and process for proceeding with Class III Police Offi=
+cers.&nbsp; In speaking with Chief Garofalo and Chief Armour we have tentat=
+ively held Tuesday, June 5<sup>th</sup>
+ from 10:30 =96 12:30 for our next discussion.</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">Further, I believe we would be best suited to have b=
+oth the township attorney (which I believe is the same firm) and the distri=
+ct attorney (Comegno Law Group) attend to review the contract and discuss t=
+he logistics of the next steps.&nbsp; Rob,
+ Guy, and I have shared draft contracts to assist in our discussion with th=
+e larger group.</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">I have reserved C110/C111 at the Board of Education =
+Offices for the meeting.</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">It is probably also a good idea to have Greg and Joa=
+nne join us. &nbsp;I didn=92t have their email addresses readily available.=
+</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">Please let me know if you are able to join us.</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal">Sincerely,<br>
+<br>
+Dave</p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">David M. Aderhold</spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Superintendent of Scho=
+ols</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">West Windsor =96 Plain=
+sboro Regional School District</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">(609)716-5000 x5040</s=
+pan></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+</div>
+</div>
+</blockquote>
+</div>
+Please be advised that the Township of West Windsor is subject to the New J=
+ersey Open Public Records Act. As such, any email sent or received by the T=
+ownship may be subject to a records request.
+</body>
+</html>
+
+--_4f2917c5-f7ef-49a9-a344-6200d4312977_--
+
