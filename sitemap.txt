@@ -1046,5 +1046,7 @@ https://wwpages.github.io/index.html
 https://wwpages.github.io/init.txt
 https://wwpages.github.io/robots.txt
 https://wwpages.github.io/sitemap.txt
+https://wwpages.github.io/wwfm/index.html
+https://wwpages.github.io/wwfm/wwfm.pdf
 https://wwpages.github.io/www/humor/index.html
 https://wwpages.github.io/www/index.html
