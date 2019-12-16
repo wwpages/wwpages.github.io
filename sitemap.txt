@@ -1051,6 +1051,8 @@ https://wwpages.github.io/pnd/2019-R191.txt
 https://wwpages.github.io/pnd/3442.16_Area_in_Need_of_Redevelopment_Study_Draft_Version_1.0_07-03-19.pdf
 https://wwpages.github.io/pnd/3576-25-Route-1-Penns-Neck-Area-Business-Redevelopment-Plan-Draft.pdf
 https://wwpages.github.io/pnd/PB-agenda-072419.pdf
+https://wwpages.github.io/pnd/PB-agenda-110619.pdf
+https://wwpages.github.io/pnd/PlanningBoardMin191106.pdf
 https://wwpages.github.io/pnd/TC-Minutes-20190903-Business.pdf
 https://wwpages.github.io/pnd/blob/index.html
 https://wwpages.github.io/pnd/blob/slide1.html
@@ -1069,8 +1071,10 @@ https://wwpages.github.io/pnd/lots/lot_39_4.pdf
 https://wwpages.github.io/pnd/lots/lot_39_5.pdf
 https://wwpages.github.io/pnd/lots/lot_39_7.pdf
 https://wwpages.github.io/pnd/penns_discussion_2019_07_24.txt
+https://wwpages.github.io/pnd/penns_discussion_2019_11_06.txt
 https://wwpages.github.io/pnd/penns_neck_southwest_owners_2019.pdf
 https://wwpages.github.io/pnd/planning_board_minutes_2019_07_24.pdf
+https://wwpages.github.io/pnd/planning_board_minutes_2019_11_06.pdf
 https://wwpages.github.io/pnd/tc-minutes-041519.pdf
 https://wwpages.github.io/robots.txt
 https://wwpages.github.io/sitemap.txt
