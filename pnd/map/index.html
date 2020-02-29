@@ -1,0 +1,77 @@
+<html><head><title>Penns Neck Interactive Map</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta property="og:url"         content="http://wwpages.github.io/pnd/map/" />
+<meta property="og:site_name"   content="Penns Neck Interactive Map" />
+<meta property="og:type"        content="article" />
+<meta property="og:title"       content="Penns Neck Interacive Map" />
+<meta property="og:description" content="Photos of the ten lots to be razed in Penns Neck, NJ" />
+<meta property="og:image"       content="http://wwpages.github.io/pnd/map/cover.png" />
+<meta property="og:image:width"  content="1200" />
+<meta property="og:image:height" content="630" />
+
+</head>
+
+<body>
+
+<script>
+
+function loadp(name)  {
+  var imgurl = 'map_' + name + '.jpg';
+  var desc = 'Lot ' + name.replace('_', '.');
+  console.log(imgurl);
+  window.open(imgurl, desc, 'resizable=1');
+}
+
+window.onload = function () {
+    var ImageMap = function (map) {
+            var n,
+                areas = map.getElementsByTagName('area'),
+                len = areas.length,
+                coords = [],
+                // Width of raw image
+                previousWidth = 1813;
+            for (n = 0; n < len; n++) {
+                coords[n] = areas[n].coords.split(',');
+            }
+            this.resize = function () {
+                var n, m, clen,
+                    x = document.body.clientWidth / previousWidth;
+                for (n = 0; n < len; n++) {
+                    clen = coords[n].length;
+                    for (m = 0; m < clen; m++) {
+                        coords[n][m] *= x;
+                    }
+                    areas[n].coords = coords[n].join(',');
+                }
+                previousWidth = document.body.clientWidth;
+                return true;
+            };
+            window.onresize = this.resize;
+        },
+        imageMap = new ImageMap(document.getElementById('image_map'));
+    imageMap.resize();
+}
+</script>
+
+These are the ten lots in Penns Neck to be razed.  Tap or click on a lot to see a photo of that lot, or view <a target="_montage" href="map_montage.jpg">all lots</a> at once.
+<hr>
+
+<div width="100%">
+<img id="mapimg" src="map.png" width="100%" border="0" usemap="#image_map" alt="Penns Neck Map" />
+<map id="image_map" name="image_map">
+  <area alt="Lot 39.27" title="Lot 39.27" onClick="loadp('39_27')" coords="737,354,999,892" shape="rect">
+  <area alt="Lot 39.5" title="Lot 39.5" onClick="loadp('39_5')" coords="1025,390,1201,814" shape="rect">
+  <area alt="Lot 39.7" title="Lot 39.7" onClick="loadp('39_7')" coords="1222,281,1485,743" shape="rect">
+  <area alt="Lot 39.4" title="Lot 39.4" onClick="loadp('39_4')" coords="763,942,1203,1240" shape="rect">
+  <area alt="Lot 39.16" title="Lot 39.16" onClick="loadp('39_16')" coords="1226,778,1483,1236" shape="rect">
+  <area alt="Lot 38.3" title="Lot 38.3" onClick="loadp('38_3')" coords="780,1398,1195,1666" shape="rect">
+  <area alt="Lot 38.3" title="Lot 38.3" onClick="loadp('38_2')" coords="790,1692,1197,1971" shape="rect">
+  <area alt="Lot 38.1" title="Lot 38.1" onClick="loadp('38_1')" coords="800,1997,1195,2308" shape="rect">
+  <area alt="Lot 38.25" title="Lot 38.25" onClick="loadp('38_25')" coords="1214,1398,1447,1840" shape="rect">
+  <area alt="Lot 38.45" title="Lot 38.45" onClick="loadp('38_45')" coords="1216,1862,1443,2312" shape="rect">
+</map>
+</div>
+
+</body></html>
