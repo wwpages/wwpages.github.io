@@ -17,6 +17,10 @@ https://wwpages.github.io/council/2018_08_20/TC-BOH-Minutes-20180820-West-Windso
 https://wwpages.github.io/council/2018_08_20/index.html
 https://wwpages.github.io/council/2019_04_29/index.html
 https://wwpages.github.io/council/index.html
+https://wwpages.github.io/covid/covid.html
+https://wwpages.github.io/covid/index.html
+https://wwpages.github.io/covid/manzari_covid_2020_05_24_10_05.pdf
+https://wwpages.github.io/covid/wwcovid.html
 https://wwpages.github.io/doc/2018-R157.pdf
 https://wwpages.github.io/doc/20180405-TransmittalResolution2018-R097GunSafety.pdf
 https://wwpages.github.io/doc/Legislatures-List-for-2018-R097.pdf
@@ -1047,6 +1051,15 @@ https://wwpages.github.io/pnd/blob/slide1.html
 https://wwpages.github.io/pnd/blob/slide2.html
 https://wwpages.github.io/pnd/blob/slide3.html
 https://wwpages.github.io/pnd/blob/slide4.html
+https://wwpages.github.io/pnd/deeds/deed_38_1_and_3_kahn_2007_11_09.pdf
+https://wwpages.github.io/pnd/deeds/deed_38_25_kahn_2016_02_25.pdf
+https://wwpages.github.io/pnd/deeds/deed_38_2_kahn_2007_11_06.pdf
+https://wwpages.github.io/pnd/deeds/deed_38_45_kahn_2016_10_06.pdf
+https://wwpages.github.io/pnd/deeds/deed_39_16_weiner_1994_12_12.pdf
+https://wwpages.github.io/pnd/deeds/deed_39_27_patlola_2016_04_28.pdf
+https://wwpages.github.io/pnd/deeds/deed_39_4_chuang_2015_07_24.pdf
+https://wwpages.github.io/pnd/deeds/deed_39_5_patlola_2019_03_11.pdf
+https://wwpages.github.io/pnd/deeds/deed_39_7_kahn_2008_07_26.pdf
 https://wwpages.github.io/pnd/index.html
 https://wwpages.github.io/pnd/lots.html
 https://wwpages.github.io/pnd/lots/lot_38_1.pdf

@@ -1,0 +1,273 @@
+<html>
+  <head>
+<title>West Windsor, NJ COVID-19 Statistics</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta property="og:url"         content="http://wwpages.github.io/covid/wwcovid.html" />
+<meta property="og:site_name"   content="Stats for West Windsor, NJ" />
+<meta property="og:type"        content="article" />
+<meta property="og:title"       content="West Windsor, NJ COVID-19 Statistics" />
+<meta property="og:description" content="Day-by-day and cumulative charts" />
+<meta property="og:image"       content="http://wwpages.github.io/covid/wwcovid.png" />
+<meta property="og:image:width"  content="1200" />
+<meta property="og:image:height" content="630" />
+
+    <!--Load Google Charts -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+
+// Load the Visualization API and the corechart package.
+google.charts.load('current', {'packages':['corechart']});
+
+// Set a callback to run when the Google Visualization API is loaded.
+google.charts.setOnLoadCallback(getAndDraw);
+
+// Globals, set by getAndDraw() and used by drawAll()
+var days, chartData;
+var daysDefaulted = false;
+var CHARTS = [
+    ['positive', 'Positive COVID-19 Test Results, Each Day', 'positiveChange', 'Positive Test Results', true],
+    ['recovered',  'COVID-19 Cleared from Isolation, Each Day', 'recoveredChange', 'Cleared', true],
+    ['death',  'COVID-19 Fatalities, Each Day', 'deathChange', 'Deaths', true],
+    ['cumrecovering', 'Cumulative COVID-19 Positive & Recovering', 'recovering', 'Recovering', true],
+    ['cumpositive', 'Cumulative Positive COVID-19 Test Results', 'positive', 'Positive Test Results', false],
+    ['cumrecovered',  'Cumulative COVID-19 Cleared from Isolation', 'recovered', 'Cleared', false],
+    ['cumdeath', 'Cumulative COVID-19 Fatalities', 'death', 'Deaths', false]
+];
+
+// Parse rows of data into array of objects keys on first row of column names
+function parseRows(rows) {
+    result = []
+    var cols;
+    for (var i=0; i < rows.length; i++) {
+        if ( i == 0 ) {
+            cols = rows[i];
+            continue;
+        }
+        robj = {}
+        for (var c=0; c < cols.length; c++)
+            robj[cols[c]] = parseInt(rows[i][c]);
+        result.push(robj)
+    }
+    return result;
+}
+
+function getAndDraw() {
+
+    var daysList = document.getElementById('days')
+
+    // Default days from URL if given
+    if ( ! daysDefaulted ) {
+        var url = window.location.href;
+        var idx = url.lastIndexOf('#');
+        if ( idx >= 0 ) {
+            days = url.substring(idx+1);
+            var opts = daysList.options;
+            for (var si=0; si < opts.length; si++ ) {
+                if ( opts[si].value == days ) {
+                    daysList.selectedIndex = si;
+                    daysDefaulted = true;
+                    break;
+                }
+            }
+        }
+    }
+    
+    var daysList = document.getElementById('days')
+    var daysOpt = daysList.options[daysList.selectedIndex];
+    days = parseInt(daysOpt.value);
+
+    var dataUrl = 'https://sheets.googleapis.com/v4/spreadsheets/1sTHZSGqNqnrkhZ9eRXSlaLqa-bCoveLIk9oltI6ae2o/values/data?key=AIzaSyA_S0wWWowTVBPEDlPeVr9LPChu1mFHphs';
+    // fetch(dataUrl, {mode: 'no-cors'})
+    fetch(dataUrl)
+        .then(
+            function(response) {
+                if (response.status !== 200) {
+                    console.log('Looks like there was a problem. Status Code: ' + response.status);
+                    return;
+                }
+                
+                // Save away the response data for redraw
+                response.json().then(function(data) {
+                    chartData = parseRows(data.values);
+                    drawAll();
+                });
+            }
+        )
+        .catch(function(err) {
+            console.log('Fetch Error :-S', err);
+        });
+}
+
+function drawAll() {
+    for (var i=0; i < CHARTS.length; i++) {
+        var [chartid, title, metric, unit, show_average] = CHARTS[i];
+        title += ' — West Windsor, NJ';
+        drawChart(metric, unit, chartid, title, show_average);
+    }
+}
+
+function yyyymmdd_to_date(d) {
+    var s = d.toString();
+    var year = parseInt(s.substring(0, 4));
+    var month = parseInt(s.substring(4, 6)) - 1;
+    var day = parseInt(s.substring(6, 8));
+    return new Date(year, month, day);
+}
+
+// Draw a single chart for a particular metric
+function drawChart(metric, unit, chartid, title, show_average) {
+
+    // Get the raw data and moving average
+    var pairs = []
+    var lim = chartData.length >= days ? days : chartData.length;
+    for (var i = 0; i < chartData.length; i++) {
+        var dt = yyyymmdd_to_date(chartData[i].date);
+        var value = chartData[i][metric];
+        pairs.push([dt, value]);
+    }
+
+    var AVG_DAYS = 7;
+    var raw = []
+    var window_start = -1;
+    var avg_start = -1;
+    var window_sum = 0;
+    for (var i = 0; i < pairs.length; i++) {
+        var [dtstr, value] = pairs[i];
+        var avg_value = undefined;
+        if ( ! show_average ) {
+            raw.push([dtstr, value, avg_value]);
+            continue;
+        }
+        if ( value && window_start < 0 ) {
+            window_start = i;
+            avg_start = window_start + AVG_DAYS - 1;
+        }
+        if ( window_start >= 0 ) {
+            var a_value = value;
+            if ( ! value )
+                a_value = 0;
+            window_sum += a_value;
+            if ( i >= avg_start ) {
+                if ( i > avg_start ) {
+                    var sub_value = pairs[i - AVG_DAYS][1];
+                    if ( ! sub_value )
+                        sub_value = 0;
+                    window_sum -= sub_value;
+                }
+                avg_value = window_sum / AVG_DAYS;
+            }
+        }
+        raw.push([dtstr, value, avg_value]);
+    }
+
+    // Create the data table.
+    data = new google.visualization.DataTable();
+    data.addColumn('date', 'Date');
+    data.addColumn('number', unit);
+    if ( show_average )
+        data.addColumn('number', AVG_DAYS.toString() + '-day Average');
+    rows = [];
+    var any_data = false;
+    for (var i = raw.length - lim; i < raw.length; i++) {
+        var dtstr = raw[i][0];
+        var value = raw[i][1];
+        if ( value )
+            any_data = true;
+        if ( show_average )
+            rows.push([dtstr, value, raw[i][2]]);
+        else
+            rows.push([dtstr, value]);
+    }
+    data.addRows(rows);
+    
+    // Hide if no data
+    var divElt = document.getElementById(chartid + '_div');
+    if ( ! any_data )
+        divElt.style.display = 'none';
+    else {
+        divElt.style.display = 'inherit';
+        
+        // Set chart options
+        var options = {
+            title: title,
+            vAxis: { title: unit, minValue: 0},
+            hAxis: { format: 'MMM\nd', gridlines: { color: 'transparent' } }
+        };
+
+        // Instantiate and draw chart
+        var chart;
+        if ( show_average ) {
+            options.lineWidth = 4;
+            options.seriesType = 'bars';
+            options.series = {1: {type: 'line'}};
+            chart = new google.visualization.ComboChart(divElt);
+        }
+        else
+            chart = new google.visualization.ColumnChart(divElt);
+        chart.draw(data, options);
+    }
+}
+
+    </script>
+  </head>
+
+  <body>
+
+    <style>
+    .cchart { width: 100%;
+              margin: 0 0 20px 0;
+            }
+    .nopad { width: 100%;
+           }
+    </style>
+
+
+Show for last
+
+<select id="days" onchange="getAndDraw()">
+<option value="14">14 days</option>
+<option value="21">21 days</option>
+<option value="30">30 days</option>
+<option value="45" selected>45 days</option>
+<option value="60">60 days</option>
+<option value="90">90 days</option>
+<option value="120">120 days</option>
+<option value="9999">all time</option>
+</select>
+    
+Page generated at: <span id="datetime"></span>.  Please see notes and disclaimer at bottom.
+
+<h2>COVID-19 Daily Statistics&mdash;West Windsor, NJ</h2>
+    <div class="cchart" id="positive_div"></div>
+    <div class="cchart" id="recovered_div"></div>
+    <div class="cchart" id="cumrecovering_div"></div>
+    <div class="cchart" id="death_div"></div>
+<hr>    
+
+<h2>COVID-19 Cumulative To Date Statistics&mdash;West Windsor, NJ</h2>
+    <div class="cchart" id="cumpositive_div"></div>
+    <div class="cchart" id="cumrecovered_div"></div>
+    <div class="cchart" id="cumdeath_div"></div>
+
+    <script>
+      var dt = new Date();
+      document.getElementById("datetime").innerHTML = dt.toLocaleString();
+
+      window.onresize = drawAll;
+    </script>
+
+    <hr>
+
+Data charted above is drawn from <a href="https://docs.google.com/spreadsheets/d/1sTHZSGqNqnrkhZ9eRXSlaLqa-bCoveLIk9oltI6ae2o/">this Google Sheet</a>.
+<p/>
+<font size="-2">
+<i>
+<b>NOTE:</b> This is not a government web site and is not affiliated with the Township of West Windsor, NJ in any way.
+    While every effort is made to ensure accuracy, completeness and timeliness of data, the user assumes all risks associated with viewing this data.  Data is sourced from public information posted by West Windsor Township, NJ on its web site and by Township officials
+in private forums.
+</font>
+</i>
+  </body>
+</html>
