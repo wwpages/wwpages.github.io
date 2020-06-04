@@ -75,7 +75,7 @@ function getAndDraw() {
     if ( state == "US" )
         dataUrl += 'us/daily.json';
     else
-        dataUrl += 'states/' + state + '/daily.json';
+        dataUrl += 'states/' + state.toLowerCase() + '/daily.json';
 
     // fetch(dataUrl, {mode: 'no-cors'})
     fetch(dataUrl)
