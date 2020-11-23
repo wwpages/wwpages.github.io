@@ -82,6 +82,7 @@ function getAndDraw() {
 
     // COVID Tracking has separate API for US vs. states
     var dataUrl = 'https://cors-anywhere.herokuapp.com/https://covidtracking.com/api/v1/';
+    // var dataUrl = 'https://cors-proxy.htmldriven.com/?url=https://covidtracking.com/api/v1/';
     if ( state == "US" )
         dataUrl += 'us/daily.json';
     else
