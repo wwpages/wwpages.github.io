@@ -1103,6 +1103,15 @@ https://wwpages.github.io/pnd/property_cards/1113_39_27.pdf
 https://wwpages.github.io/pnd/property_cards/1113_39_4.pdf
 https://wwpages.github.io/pnd/property_cards/1113_39_5.pdf
 https://wwpages.github.io/pnd/property_cards/1113_39_7.pdf
+https://wwpages.github.io/pnd/sarnoff/index.html
+https://wwpages.github.io/pnd/sarnoff/lsr_008514_150001_activity_2021_06_08.pdf
+https://wwpages.github.io/pnd/sarnoff/lsr_008514_150001_case_oversight_2021_06_08.pdf
+https://wwpages.github.io/pnd/sarnoff/lsr_008514_150001_fact_sheet_2021_06_08.pdf
+https://wwpages.github.io/pnd/sarnoff/lsr_008514_160001_activity_2021_06_08.pdf
+https://wwpages.github.io/pnd/sarnoff/lsr_008514_160001_case_oversight_2021_06_08.pdf
+https://wwpages.github.io/pnd/sarnoff/pi_008514_case_2021_06_08.pdf
+https://wwpages.github.io/pnd/sarnoff/pi_008514_site_detail_2021_06_08.pdf
+https://wwpages.github.io/pnd/sarnoff/sarnoff_13793_enforcement_actions_2021_06_08.pdf
 https://wwpages.github.io/pnd/tc-minutes-041519.pdf
 https://wwpages.github.io/robots.txt
 https://wwpages.github.io/sitemap.txt
