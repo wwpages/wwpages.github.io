@@ -34,16 +34,16 @@ google.charts.load('current', {'packages':['corechart']});
 google.charts.setOnLoadCallback(getAndDraw);
 
 // Globals, set by getAndDraw() and used by drawAll()
-var days, chartData;
+var days, chartData, vaxData;
 var daysDefaulted = false;
 var CHARTS = [
     ['positive', 'Positive COVID-19 Test Results, Each Day', 'positiveChange', 'Positive Test Results', true],
     // ['recovered',  'COVID-19 Cleared from Isolation, Each Day', 'recoveredChange', 'Cleared', true],
-    ['death',  'COVID-19 Fatalities, Each Day', 'deathChange', 'Deaths', true],
+    // ['death',  'COVID-19 Fatalities, Each Day', 'deathChange', 'Deaths', true],
     // ['cumrecovering', 'Cumulative COVID-19 Positive & Recovering', 'recovering', 'Recovering', true],
     ['cumpositive', 'Cumulative Positive COVID-19 Test Results', 'positive', 'Positive Test Results', false],
     // ['cumrecovered',  'Cumulative COVID-19 Cleared from Isolation', 'recovered', 'Cleared', false],
-    ['cumdeath', 'Cumulative COVID-19 Fatalities', 'death', 'Deaths', false]
+    // ['cumdeath', 'Cumulative COVID-19 Fatalities', 'death', 'Deaths', false]
 ];
 
 // Parse rows of data into array of objects keys on first row of column names
@@ -88,8 +88,11 @@ function getAndDraw() {
     var daysOpt = daysList.options[daysList.selectedIndex];
     days = parseInt(daysOpt.value);
 
-    var dataUrl = 'https://sheets.googleapis.com/v4/spreadsheets/1sTHZSGqNqnrkhZ9eRXSlaLqa-bCoveLIk9oltI6ae2o/values/data?key=AIzaSyA_S0wWWowTVBPEDlPeVr9LPChu1mFHphs';
-    // fetch(dataUrl, {mode: 'no-cors'})
+    var urlBase = 'https://sheets.googleapis.com/v4/spreadsheets/1sTHZSGqNqnrkhZ9eRXSlaLqa-bCoveLIk9oltI6ae2o/values/';
+    var apiKey = 'AIzaSyA_S0wWWowTVBPEDlPeVr9LPChu1mFHphs';
+    var vaxUrl = urlBase + 'WWVAX!A1:D1000?key=' + apiKey;
+    var dataUrl = urlBase + 'data?key=' + apiKey;
+ 
     fetch(dataUrl)
         .then(
             function(response) {
@@ -108,6 +111,26 @@ function getAndDraw() {
         .catch(function(err) {
             console.log('Fetch Error :-S', err);
         });
+
+    fetch(vaxUrl)
+        .then(
+            function(response) {
+                if (response.status !== 200) {
+                    console.log('Looks like there was a problem. Status Code: ' + response.status);
+                    return;
+                }
+                
+                // Save away the response data for redraw
+                response.json().then(function(data) {
+                    vaxData = parseRows(data.values);
+                    drawAll();
+                });
+            }
+        )
+        .catch(function(err) {
+            console.log('Fetch Error :-S', err);
+        });
+
 }
 
 function drawAll() {
@@ -116,6 +139,8 @@ function drawAll() {
         title += ' — West Windsor, NJ';
         drawChart(metric, unit, chartid, title, show_average);
     }
+
+    drawVax();                      
 }
 
 function yyyymmdd_to_date(d) {
@@ -126,8 +151,75 @@ function yyyymmdd_to_date(d) {
     return new Date(year, month, day);
 }
 
+// Draw vax rate
+function drawVax() {
+
+    var chartid = 'vax';
+    var title = 'Percent Fully Vaccinated — West Windsor, NJ';
+    var unit = 'Percent Fully Vaccinated';
+
+    // Check vaxData is there
+    if ( typeof vaxData === 'undefined' )
+        return;
+
+    // Get data
+    var any_data = false;
+    var rows = []
+    for (var i = 0; i < vaxData.length; i++) {
+        var d = vaxData[i];
+        var dt = yyyymmdd_to_date(d.date);
+        rows.push([dt,
+                   d.allPercent, d.allPercent,
+                   d.age18OrOverPercent, d.age18OrOverPercent,
+                   d.age65OrOverPercent, d.age65OrOverPercent
+                  ]);
+        any_data = true;
+    }
+    
+    // Create the data table.
+    var data = new google.visualization.DataTable();
+    data.addColumn('date', 'Date');
+    data.addColumn('number', 'All Ages');
+    data.addColumn({type: 'number', role: 'annotation'});
+    data.addColumn('number', '18+');
+    data.addColumn({type: 'number', role: 'annotation'});
+    data.addColumn('number', '65+');
+    data.addColumn({type: 'number', role: 'annotation'});
+    data.addRows(rows);
+    
+    // Hide if no data
+    var divElt = document.getElementById(chartid + '_div');
+    if ( ! any_data )
+        divElt.style.display = 'none';
+    else {
+        divElt.style.display = 'inherit';
+        
+        // Set chart options
+        var options = {
+            height: 400,
+            chartArea: { left: '10%', right: '15%', bottom: '10%', top: '10%', width: '100%', height: '100%' },
+            title: title,
+            vAxis: { title: unit, minValue: 0, maxValue: 100},
+            hAxis: { format: 'MMM\nd', gridlines: { color: 'transparent' } },
+            lineWidth: 2,
+            seriesType: 'line',
+            pointSize: 3,
+            annotations: { textStyle: { fontSize: 10 }, stem: { length: -20} }
+        };
+
+        // Instantiate and draw chart
+        var chart = new google.visualization.ComboChart(divElt);
+        chart.draw(data, options);
+    }
+}
+                      
+
 // Draw a single chart for a particular metric
 function drawChart(metric, unit, chartid, title, show_average) {
+
+    // Check chartData is there
+    if ( typeof chartData === 'undefined' )
+        return;
 
     // Get the raw data and moving average
     var pairs = []
@@ -138,7 +230,7 @@ function drawChart(metric, unit, chartid, title, show_average) {
         pairs.push([dt, value]);
     }
 
-    var AVG_DAYS = 7;
+    var AVG_DAYS = 14;
     var raw = []
     var window_start = -1;
     var avg_start = -1;
@@ -173,12 +265,12 @@ function drawChart(metric, unit, chartid, title, show_average) {
     }
 
     // Create the data table.
-    data = new google.visualization.DataTable();
+    var data = new google.visualization.DataTable();
     data.addColumn('date', 'Date');
     data.addColumn('number', unit);
     if ( show_average )
         data.addColumn('number', AVG_DAYS.toString() + '-day Average');
-    rows = [];
+    var rows = [];
     var any_data = false;
     for (var i = raw.length - lim; i < raw.length; i++) {
         var dtstr = raw[i][0];
@@ -209,7 +301,7 @@ function drawChart(metric, unit, chartid, title, show_average) {
         // Instantiate and draw chart
         var chart;
         if ( show_average ) {
-            options.lineWidth = 4;
+            options.lineWidth = 2;
             options.seriesType = 'bars';
             options.series = {1: {type: 'line'}};
             chart = new google.visualization.ComboChart(divElt);
@@ -226,6 +318,9 @@ function drawChart(metric, unit, chartid, title, show_average) {
   <body>
 
     <style>
+    .vchart { width: 50%;
+              margin: 0 0 20px 0;
+            }
     .cchart { width: 100%;
               margin: 0 0 20px 0;
             }
@@ -234,23 +329,29 @@ function drawChart(metric, unit, chartid, title, show_average) {
     </style>
 
 
-Show for last
+Page generated at: <span id="datetime"></span>.  Please see notes and disclaimer at bottom.
+
+<h2>COVID-19 Percent Fully Vaccinated&mdash;West Windsor, NJ</h2>
+    <div class="vchart" id="vax_div"></div>
+
+Data charted above is drawn from <a href="https://docs.google.com/spreadsheets/d/1sTHZSGqNqnrkhZ9eRXSlaLqa-bCoveLIk9oltI6ae2o/edit#gid=1202159403">this Google Sheet</a>.
+
+
+<hr>    
+
+Show daily history for last
 
 <select id="days" onchange="getAndDraw()">
-<option value="14">14 days</option>
-<option value="21">21 days</option>
 <option value="30">30 days</option>
 <option value="45">45 days</option>
 <option value="60">60 days</option>
-<option value="90" selected>90 days</option>
+<option value="90">90 days</option>
 <option value="120">120 days</option>
-<option value="180">180 days</option>
+<option value="180" selected>180 days</option>
 <option value="240">240 days</option>
 <option value="360">360 days</option>
 <option value="9999">all time</option>
 </select>
-    
-Page generated at: <span id="datetime"></span>.  Please see notes and disclaimer at bottom.
 
 <h2>COVID-19 Daily Statistics&mdash;West Windsor, NJ</h2>
     <div class="cchart" id="positive_div"></div>
