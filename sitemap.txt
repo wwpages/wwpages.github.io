@@ -16,10 +16,13 @@ https://wwpages.github.io/ccww/index.html
 https://wwpages.github.io/ccww/seal.jpg
 https://wwpages.github.io/cm/2020-R247.pdf
 https://wwpages.github.io/cm/ORD-2020-25.pdf
+https://wwpages.github.io/cm/atlantic_map_overlay.png
+https://wwpages.github.io/cm/atlantic_map_overlay_sm.png
 https://wwpages.github.io/cm/atlantic_plan.jpg
 https://wwpages.github.io/cm/atlantic_plan_hi.jpg
 https://wwpages.github.io/cm/atlantic_settlement_2020_12_04_ww.pdf
 https://wwpages.github.io/cm/atlantic_tax.pdf
+https://wwpages.github.io/cm/block_22_lot_5.png
 https://wwpages.github.io/cm/hughes_map.png
 https://wwpages.github.io/cm/index.html
 https://wwpages.github.io/cm/warehouse_summary.png
@@ -1086,8 +1089,13 @@ https://wwpages.github.io/gop/marathe/news_india_times_2019_01_18_pp_7_8.pdf
 https://wwpages.github.io/gop/marathe/south_asians_gop_2018_12_29.png
 https://wwpages.github.io/gop/marathe_600_630.png
 https://wwpages.github.io/gop/marathe_geevers.png
+https://wwpages.github.io/gop/mercer_results_2020.png
 https://wwpages.github.io/gop/trump_600_630.png
+https://wwpages.github.io/gop/wwtrump/index.html
+https://wwpages.github.io/gop/wwtrump/insurrection.jpg
 https://wwpages.github.io/humor/index.html
+https://wwpages.github.io/humor/marathe_fake_onion_article_2021_10_04.html
+https://wwpages.github.io/humor/marathe_fake_onion_article_2021_10_04.png
 https://wwpages.github.io/humor/marathe_sott_parody_2018_04_23_10_43.pdf
 https://wwpages.github.io/humor/marathe_sott_parody_2018_04_23_10_43.png
 https://wwpages.github.io/humor/marathe_sott_parody_2018_04_23_10_43_ann.pdf
