@@ -65,7 +65,6 @@ https://wwpages.github.io/doc/Legislatures-List-for-2018-R097.pdf
 https://wwpages.github.io/doc/Resolution-2018-R097.pdf
 https://wwpages.github.io/doc/TC-Agenda-Packet-2018-03-12-Business.pdf
 https://wwpages.github.io/doc/WW_Shared_Services_Agreement_2018_06_21.pdf
-https://wwpages.github.io/doc/West-Windsor-NJ-Voters-March-2021.pdf
 https://wwpages.github.io/doc/boe/admfacil/2011_2012/admfacil_2011_07_18_1_p_1.pdf
 https://wwpages.github.io/doc/boe/admfacil/2011_2012/admfacil_2011_08_01_1_p_2.pdf
 https://wwpages.github.io/doc/boe/admfacil/2011_2012/admfacil_2011_09_06_2_pp_3_to_4.pdf
@@ -1066,10 +1065,6 @@ https://wwpages.github.io/doc/school_police_2019_01_19_14_55.pdf
 https://wwpages.github.io/doc/suicide_poll_2018_03_25_09_54.pdf
 https://wwpages.github.io/doc/tax_charity.pdf
 https://wwpages.github.io/doc/ww_sleo_petition_2020_10.pdf
-https://wwpages.github.io/doc/ww_voter_map_2018.html
-https://wwpages.github.io/doc/ww_voter_map_2018.jpg
-https://wwpages.github.io/doc/ww_voter_map_2021.html
-https://wwpages.github.io/doc/ww_voter_map_2021.jpg
 https://wwpages.github.io/doc/wwp_boe_2018_05_08.html
 https://wwpages.github.io/doc/wwp_boe_2018_05_08.jpg
 https://wwpages.github.io/doc/wwp_boe_2018_06_26.html
