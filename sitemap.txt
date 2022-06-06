@@ -85,6 +85,7 @@ https://wwpages.github.io/cm/plan/9-Lighting-Plans.pdf
 https://wwpages.github.io/cm/plan/PB21-15-TRC-Consultant-Reports.pdf
 https://wwpages.github.io/cm/plan/TRC-Consultant-Reports-2nd-Submission.pdf
 https://wwpages.github.io/cm/plan/index.html
+https://wwpages.github.io/cm/plan/site_plan_hi.png
 https://wwpages.github.io/cm/revenue/index.html
 https://wwpages.github.io/cm/revenue/questions.png
 https://wwpages.github.io/cm/revenue/request.txt
@@ -282,6 +283,13 @@ https://wwpages.github.io/doc/boe/agenda/2018_2019/agenda_2019_01_08_part3_12_pp
 https://wwpages.github.io/doc/boe/agenda/2018_2019/agenda_2019_01_29_part1_11_pp_1_to_11.pdf
 https://wwpages.github.io/doc/boe/agenda/2018_2019/agenda_2019_01_29_part2_20_pp_12_to_31.pdf
 https://wwpages.github.io/doc/boe/agenda/2018_2019/agenda_2019_01_29_part3_2_pp_32_to_33.pdf
+https://wwpages.github.io/doc/boe/ar15/2022-Scholarship-Booklet-excerpt.pdf
+https://wwpages.github.io/doc/boe/ar15/WWPBA-Gun-Raffle-2021.pdf
+https://wwpages.github.io/doc/boe/ar15/index.html
+https://wwpages.github.io/doc/boe/ar15/ny_times_article_rittenhouse_rifle_2021_11_20.pdf
+https://wwpages.github.io/doc/boe/ar15/raffle_drawing_2021_05_31_17_17.pdf
+https://wwpages.github.io/doc/boe/ar15/rifle_specs_10203_100416_1.pdf
+https://wwpages.github.io/doc/boe/ar15/wwp_1200_630.png
 https://wwpages.github.io/doc/boe/closed/2012_2013/closed_2012_07_17_2_pp_2_to_3.pdf
 https://wwpages.github.io/doc/boe/closed/2012_2013/closed_2012_07_24_1_p_1.pdf
 https://wwpages.github.io/doc/boe/closed/2012_2013/closed_2012_08_21_1_p_4.pdf
