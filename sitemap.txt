@@ -25,9 +25,16 @@ https://wwpages.github.io/cm/atlantic_plan_hi.jpg
 https://wwpages.github.io/cm/atlantic_settlement_2020_12_04_ww.pdf
 https://wwpages.github.io/cm/atlantic_tax.pdf
 https://wwpages.github.io/cm/block_22_lot_5.png
+https://wwpages.github.io/cm/bp8_resolution_2022_11_02.pdf
 https://wwpages.github.io/cm/hughes_map.png
 https://wwpages.github.io/cm/index.html
 https://wwpages.github.io/cm/kristen_map_annotated.jpg
+https://wwpages.github.io/cm/lawsuit/MER-L-001603-22-complaint-pp-1-to-16-of-129.pdf
+https://wwpages.github.io/cm/lawsuit/MER-L-001603-22-complaint-pp-17-to-129-of-129.pdf
+https://wwpages.github.io/cm/lawsuit/MER-L-002205-22-complaint-pp-1-to-37-of-258.pdf
+https://wwpages.github.io/cm/lawsuit/MER-L-002205-22-complaint-pp-38-to-258-of-258.pdf
+https://wwpages.github.io/cm/lawsuit/cover.png
+https://wwpages.github.io/cm/lawsuit/index.html
 https://wwpages.github.io/cm/plan/1-Cover-Sheet.pdf
 https://wwpages.github.io/cm/plan/10-Landscape-Sections.pdf
 https://wwpages.github.io/cm/plan/11A-Soil-Erosion-Plans.pdf
@@ -1117,6 +1124,7 @@ https://wwpages.github.io/doc/class3/index.html
 https://wwpages.github.io/doc/class3/quotes.html
 https://wwpages.github.io/doc/class3/whitfield_statement.jpg
 https://wwpages.github.io/doc/class3/whitfield_statement_2019_02_19.html
+https://wwpages.github.io/doc/facilities_plan_2022_10_05.pdf
 https://wwpages.github.io/doc/icons/bn.png
 https://wwpages.github.io/doc/icons/by.png
 https://wwpages.github.io/doc/icons/pn.png
