@@ -1,0 +1,11 @@
+#!/bin/bash
+
+git ls-tree \
+    -r master \
+    --name-only \
+    | grep -i -v /ww_library_signs.html \
+    | grep -v .jpg \
+    | grep -v .png \
+    | sort \
+    | awk '{print "https://wwpages.github.io/" $0}' \
+    >sitemap.txt
