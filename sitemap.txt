@@ -26,6 +26,9 @@ https://wwpages.github.io/cm/lawsuit/MER-L-001603-22-dismissal-oppose-2022-11-22
 https://wwpages.github.io/cm/lawsuit/MER-L-002205-22-complaint-pp-1-to-37-of-258.pdf
 https://wwpages.github.io/cm/lawsuit/MER-L-002205-22-complaint-pp-38-to-258-of-258.pdf
 https://wwpages.github.io/cm/lawsuit/index.html
+https://wwpages.github.io/cm/muller_memo_2020_11_16_atlantic_settlment.pdf
+https://wwpages.github.io/cm/novak_memo_2020_11_18.pdf
+https://wwpages.github.io/cm/novak_memo_2020_11_23.pdf
 https://wwpages.github.io/cm/plan/1-Cover-Sheet.pdf
 https://wwpages.github.io/cm/plan/10-Landscape-Sections.pdf
 https://wwpages.github.io/cm/plan/11A-Soil-Erosion-Plans.pdf
@@ -83,6 +86,7 @@ https://wwpages.github.io/cm/plan/9-Lighting-Plans.pdf
 https://wwpages.github.io/cm/plan/PB21-15-TRC-Consultant-Reports.pdf
 https://wwpages.github.io/cm/plan/TRC-Consultant-Reports-2nd-Submission.pdf
 https://wwpages.github.io/cm/plan/index.html
+https://wwpages.github.io/cm/req_for_action_2020_R247_surtees_on_2020_11_16.pdf
 https://wwpages.github.io/cm/revenue/index.html
 https://wwpages.github.io/cm/revenue/request.txt
 https://wwpages.github.io/cm/revenue/response.txt
@@ -566,6 +570,8 @@ https://wwpages.github.io/doc/boe/finance/2018_2019/finance_2018_09_04_2_pp_6_to
 https://wwpages.github.io/doc/boe/finance/2018_2019/finance_2018_10_16_2_pp_8_to_9.pdf
 https://wwpages.github.io/doc/boe/finance/2018_2019/finance_2018_11_13_2_pp_10_to_11.pdf
 https://wwpages.github.io/doc/boe/index.html
+https://wwpages.github.io/doc/boe/krug/index.html
+https://wwpages.github.io/doc/boe/krug/krug_d1_0_0_2023_08_30.pdf
 https://wwpages.github.io/doc/boe/minutes/2016_2017/minutes_2016_07_26_part1_10_pp_1_to_10.pdf
 https://wwpages.github.io/doc/boe/minutes/2016_2017/minutes_2016_07_26_part2_30_pp_11_to_40.pdf
 https://wwpages.github.io/doc/boe/minutes/2016_2017/minutes_2016_07_26_part3_2_pp_41_to_42.pdf
@@ -1109,6 +1115,7 @@ https://wwpages.github.io/doc/school_police_2019_01_19_14_55.pdf
 https://wwpages.github.io/doc/suicide_poll_2018_03_25_09_54.pdf
 https://wwpages.github.io/doc/tax_charity.pdf
 https://wwpages.github.io/doc/ww_sleo_petition_2020_10.pdf
+https://wwpages.github.io/doc/ww_voter_map_2021.html
 https://wwpages.github.io/doc/wwp_boe_2018_05_08.html
 https://wwpages.github.io/doc/wwp_boe_2018_06_26.html
 https://wwpages.github.io/doc/wwp_boe_slides_2018_05_08.pdf
@@ -1145,6 +1152,7 @@ https://wwpages.github.io/pnd/2020-06-B.pdf
 https://wwpages.github.io/pnd/2020-06-B.txt
 https://wwpages.github.io/pnd/2020-06.pdf
 https://wwpages.github.io/pnd/2020-06.txt
+https://wwpages.github.io/pnd/2023-R149-full-from-ww.pdf
 https://wwpages.github.io/pnd/3442.16_Area_in_Need_of_Redevelopment_Study_Draft_Version_1.0_07-03-19.pdf
 https://wwpages.github.io/pnd/3576-25-Route-1-Penns-Neck-Area-Business-Redevelopment-Plan-Draft.pdf
 https://wwpages.github.io/pnd/PB-agenda-072419.pdf
@@ -1156,6 +1164,15 @@ https://wwpages.github.io/pnd/blob/slide1.html
 https://wwpages.github.io/pnd/blob/slide2.html
 https://wwpages.github.io/pnd/blob/slide3.html
 https://wwpages.github.io/pnd/blob/slide4.html
+https://wwpages.github.io/pnd/deeds/2023_06_16/deed_38_1_and_3_2007051582.pdf
+https://wwpages.github.io/pnd/deeds/2023_06_16/deed_38_25_2016013139.pdf
+https://wwpages.github.io/pnd/deeds/2023_06_16/deed_38_2_2007051578.pdf
+https://wwpages.github.io/pnd/deeds/2023_06_16/deed_38_45_2016051253.pdf
+https://wwpages.github.io/pnd/deeds/2023_06_16/deed_39_16_1994.pdf
+https://wwpages.github.io/pnd/deeds/2023_06_16/deed_39_27_2015036640.pdf
+https://wwpages.github.io/pnd/deeds/2023_06_16/deed_39_4_2021044571.pdf
+https://wwpages.github.io/pnd/deeds/2023_06_16/deed_39_5_2019010546.pdf
+https://wwpages.github.io/pnd/deeds/2023_06_16/deed_39_7_2008028885.pdf
 https://wwpages.github.io/pnd/deeds/deed_38_1_and_3_kahn_2007_11_09.pdf
 https://wwpages.github.io/pnd/deeds/deed_38_25_kahn_2016_02_25.pdf
 https://wwpages.github.io/pnd/deeds/deed_38_2_kahn_2007_11_06.pdf
