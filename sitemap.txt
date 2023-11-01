@@ -1130,10 +1130,15 @@ https://wwpages.github.io/elections/2023/MGS-D2-0-0.pdf
 https://wwpages.github.io/elections/2023/MGS-D2-0-1.pdf
 https://wwpages.github.io/elections/2023/MGS-R1-1-0.pdf
 https://wwpages.github.io/elections/2023/MGS-R1-1-1.pdf
+https://wwpages.github.io/elections/2023/MGS-R1-2-0.pdf
 https://wwpages.github.io/elections/2023/WFF-A2-1-2.pdf
 https://wwpages.github.io/elections/2023/WFF-A2-1-3.pdf
 https://wwpages.github.io/elections/2023/WFF-D2-0-2.pdf
 https://wwpages.github.io/elections/2023/WFF-R1-1-0.pdf
+https://wwpages.github.io/elections/2023/WFF-R1-1-1.pdf
+https://wwpages.github.io/elections/2023/WFF-R1-1-2.pdf
+https://wwpages.github.io/elections/2023/WFF-R1-1-3.pdf
+https://wwpages.github.io/elections/2023/WFF-R1-2-0.pdf
 https://wwpages.github.io/elections/2023/WFR-A2-1-0.pdf
 https://wwpages.github.io/elections/2023/WFR-A2-1-1.pdf
 https://wwpages.github.io/elections/2023/WFR-D2-0-0.pdf
