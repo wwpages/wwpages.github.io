@@ -1126,6 +1126,7 @@ https://wwpages.github.io/doc/wwpba/index.html
 https://wwpages.github.io/elections/2021/index.html
 https://wwpages.github.io/elections/2021/tm_d2_2018_09_28_13_44.pdf
 https://wwpages.github.io/elections/2021/tm_d2_2018_10_05_10_25.pdf
+https://wwpages.github.io/elections/2021/tm_r1_3_0_2021_11_22.pdf
 https://wwpages.github.io/elections/2023/MGS-A2-1-0.pdf
 https://wwpages.github.io/elections/2023/MGS-A2-1-1.pdf
 https://wwpages.github.io/elections/2023/MGS-D2-0-0.pdf
