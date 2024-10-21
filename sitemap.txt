@@ -1168,8 +1168,15 @@ https://wwpages.github.io/elections/2024/index.html
 https://wwpages.github.io/elections/2024/keepwwnon_pc_1_0_2024_08_02.pdf
 https://wwpages.github.io/elections/2024/keepwwnon_pc_1_1_2024_08_25.pdf
 https://wwpages.github.io/elections/2024/keepwwnon_r1_1_0_2024_10_06.pdf
+https://wwpages.github.io/elections/2024/keepwwnon_r1_2_0_2024_10_25.pdf
+https://wwpages.github.io/elections/2024/ww4rep_72_1_0_2024_10_26.pdf
+https://wwpages.github.io/elections/2024/ww4rep_72_1_1_2024_10_26.pdf
+https://wwpages.github.io/elections/2024/ww4rep_72_2_0_2024_10_26.pdf
 https://wwpages.github.io/elections/2024/ww4rep_pc_1_0_2024_06_25.pdf
 https://wwpages.github.io/elections/2024/ww4rep_r1_1_0_2024_10_07.pdf
+https://wwpages.github.io/elections/2024/ww4rep_r1_2_0_2024_10_25.pdf
+https://wwpages.github.io/elections/2024/ww4rep_r1_2_1_2024_10_26.pdf
+https://wwpages.github.io/elections/2024/ww4rep_r1_2_2_2024_10_26.pdf
 https://wwpages.github.io/elections/index.html
 https://wwpages.github.io/google7e764eead330bd71.html
 https://wwpages.github.io/gop/geevers/202003199203921846_000013.pdf
@@ -1182,6 +1189,7 @@ https://wwpages.github.io/gop/marathe/news_india_times_2019_01_18_pp_7_8.pdf
 https://wwpages.github.io/gop/wwtrump/index.html
 https://wwpages.github.io/humor/index.html
 https://wwpages.github.io/humor/marathe_fake_onion_article_2021_10_04.html
+https://wwpages.github.io/humor/marathe_sott_parody_2018_04_23_10_43.html
 https://wwpages.github.io/humor/marathe_sott_parody_2018_04_23_10_43.pdf
 https://wwpages.github.io/humor/marathe_sott_parody_2018_04_23_10_43_ann.pdf
 https://wwpages.github.io/index.html
