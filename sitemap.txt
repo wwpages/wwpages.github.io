@@ -1169,6 +1169,7 @@ https://wwpages.github.io/elections/2024/keepwwnon_pc_1_0_2024_08_02.pdf
 https://wwpages.github.io/elections/2024/keepwwnon_pc_1_1_2024_08_25.pdf
 https://wwpages.github.io/elections/2024/keepwwnon_r1_1_0_2024_10_06.pdf
 https://wwpages.github.io/elections/2024/keepwwnon_r1_2_0_2024_10_25.pdf
+https://wwpages.github.io/elections/2024/keepwwnon_r1_3_0_2024_11_24.pdf
 https://wwpages.github.io/elections/2024/watchdogsz_ind_1_0_2024_10_31.pdf
 https://wwpages.github.io/elections/2024/watchdogsz_ind_2_0_2024_10_31.pdf
 https://wwpages.github.io/elections/2024/watchdogsz_ind_3_0_2024_10_31.pdf
@@ -1176,11 +1177,14 @@ https://wwpages.github.io/elections/2024/ww4rep_72_1_0_2024_10_26.pdf
 https://wwpages.github.io/elections/2024/ww4rep_72_1_1_2024_10_26.pdf
 https://wwpages.github.io/elections/2024/ww4rep_72_2_0_2024_10_26.pdf
 https://wwpages.github.io/elections/2024/ww4rep_72_3_0_2024_10_31.pdf
+https://wwpages.github.io/elections/2024/ww4rep_72_4_0_2024_11_03.pdf
+https://wwpages.github.io/elections/2024/ww4rep_72_5_0_2024_11_05.pdf
 https://wwpages.github.io/elections/2024/ww4rep_pc_1_0_2024_06_25.pdf
 https://wwpages.github.io/elections/2024/ww4rep_r1_1_0_2024_10_07.pdf
 https://wwpages.github.io/elections/2024/ww4rep_r1_2_0_2024_10_25.pdf
 https://wwpages.github.io/elections/2024/ww4rep_r1_2_1_2024_10_26.pdf
 https://wwpages.github.io/elections/2024/ww4rep_r1_2_2_2024_10_26.pdf
+https://wwpages.github.io/elections/2024/ww4rep_r1_3_0_2024_11_25.pdf
 https://wwpages.github.io/elections/index.html
 https://wwpages.github.io/google7e764eead330bd71.html
 https://wwpages.github.io/gop/geevers/202003199203921846_000013.pdf
